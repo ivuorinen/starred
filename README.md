@@ -1,4 +1,4 @@
-# My Awesome Stars  [![build](https://github.com/ivuorinen/my-awesome-stars/workflows/build/badge.svg)](https://github.com/ivuorinen/my-awesome-stars/actions)
+# Starred  [![build](https://github.com/ivuorinen/starred/workflows/build/badge.svg)](https://github.com/ivuorinen/starred/actions)
 
 A collection of awesome things.
 
