@@ -6,11 +6,9 @@ A collection of awesome things.
 - [C#](#c-1)
 - [C++](#c-2)
 - [CSS](#css)
-- [CUE](#cue)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Go](#go)
@@ -23,7 +21,6 @@ A collection of awesome things.
 - [Makefile](#makefile)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
-- [Objective-C++](#objective-c-1)
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
@@ -84,7 +81,6 @@ A collection of awesome things.
 - [dan-silver/ElementTransitions](https://github.com/dan-silver/ElementTransitions) - Simple transitions for web pages
 - [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
 - [fireshaper/parcelpony](https://github.com/fireshaper/parcelpony) - Track packages easily
-- [fuzzymannerz/swmp](https://github.com/fuzzymannerz/swmp) - A responsive, eye-pleasing Linux server statistics dashboard.
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [kamilczujowski/least](https://github.com/kamilczujowski/least) - This plugin is no longer maintained - #leastjs 2 is available for download now!
@@ -100,10 +96,6 @@ A collection of awesome things.
 - [verekia/initializr-template](https://github.com/verekia/initializr-template) - Initializr's generated page
 - [vitorgalvao/fog](https://github.com/vitorgalvao/fog) - Unofficial overcast.fm podcast app
 
-## CUE
-
-- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
-
 ## Clojure
 
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
@@ -112,23 +104,15 @@ A collection of awesome things.
 
 - [ksylvest/jquery-gridly](https://github.com/ksylvest/jquery-gridly) - Gridly is a jQuery plugin to enable dragging and dropping as well as resizing on a grid.
 - [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
-- [nathansearles/slidesjs](https://github.com/nathansearles/slidesjs) - SlidesJS is obsolete and no longer maintained.
 - [rodw/common-dustjs-helpers](https://github.com/rodw/common-dustjs-helpers) - A small library of "standard" helper functions for the Dust.js web templating framework.
 
 ## Dockerfile
 
 - [IonBazan/composer-diff-action](https://github.com/IonBazan/composer-diff-action) - Compare composer.lock files and generate human-readable list of package changes
 - [datasets/geo-countries](https://github.com/datasets/geo-countries) - Country polygons as GeoJSON in a datapackage
-- [egregors/teamcity-docker-compose](https://github.com/egregors/teamcity-docker-compose) - Compose to create working TeamCity server with PostgreSQL and Agents
 - [kfkawalec/gitlab-ci-laravel-php](https://github.com/kfkawalec/gitlab-ci-laravel-php) - 
 - [linuxserver/docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) - 
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
-- [phpdocker/phpdocker](https://github.com/phpdocker/phpdocker) - 
-- [vfalies/php7compatibility](https://github.com/vfalies/php7compatibility) - PHP 7 compatibility check docker image
-
-## EJS
-
-- [jaketrent/html-webpack-template](https://github.com/jaketrent/html-webpack-template) - a better default template for html-webpack-plugin
 
 ## Elixir
 
@@ -170,6 +154,7 @@ A collection of awesome things.
 - [sanathp/statusok](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your Computer. Get Notified through Slack, E-mail when your server is down or response time is more than expected. 
 - [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
 - [traefik/traefik-migration-tool](https://github.com/traefik/traefik-migration-tool) - A migration tool from Traefik v1 to Traefik v2.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -197,7 +182,6 @@ A collection of awesome things.
 - [kennethormandy/normalize-opentype.css](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 - [lsrur/inspector](https://github.com/lsrur/inspector) - Laravel Inspector, debugging and profiling tools for Web Artisans
 - [maciej-gurban/responsive-bootstrap-toolkit](https://github.com/maciej-gurban/responsive-bootstrap-toolkit) - Responsive Bootstrap Toolkit allows for easy breakpoint detection in JavaScript
-- [mantas-done/laravel-apm](https://github.com/mantas-done/laravel-apm) - Application monitoring for Laravel
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [taitems/iOS-Overlay](https://github.com/taitems/iOS-Overlay) -  iOS Overlay/Notification Plugin for the Web!
@@ -209,11 +193,7 @@ A collection of awesome things.
 
 ## Java
 
-- [Corymbia/eucalyptus](https://github.com/Corymbia/eucalyptus) - Eucalyptus Cloud-computing Platform
-- [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
-- [solita/clamav-rest](https://github.com/solita/clamav-rest) - Simple clamd REST proxy
 
 ## JavaScript
 
@@ -397,10 +377,6 @@ A collection of awesome things.
 
 - [lanayotech/vagrant-manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for OS X
 
-## Objective-C++
-
-- [johnboiles/obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) - ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.
-
 ## PHP
 
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
@@ -434,7 +410,6 @@ A collection of awesome things.
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Objectivco/wordpress-simple-settings](https://github.com/Objectivco/wordpress-simple-settings) - A minimalist framework for managing WordPress plugin or theme settings. 
-- [PHPOffice/PHPExcel](https://github.com/PHPOffice/PHPExcel) - ARCHIVED
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - :lipstick: Scalable and durable all-purpose data import abstraction for publishing testable APIs and SDKs.
 - [Seravo/seravo-plugin](https://github.com/Seravo/seravo-plugin) - Enhances WordPress with Seravo specific features and integrations
@@ -562,7 +537,6 @@ A collection of awesome things.
 - [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
 - [rchouinard/phpass](https://github.com/rchouinard/phpass) - PHP Password Library: Easy, secure password management for PHP
 - [rdlowrey/auryn](https://github.com/rdlowrey/auryn) - IoC Dependency Injector
-- [rinvex/laravel-repositories](https://github.com/rinvex/laravel-repositories) - ⚠️ [ABANDONED] Rinvex Repository is a simple, intuitive, and smart implementation of Active Repository with extremely flexible & granular caching system for Laravel, used to abstract the data layer, making applications more flexible to maintain.
 - [ronanguilloux/IsoCodes](https://github.com/ronanguilloux/IsoCodes) - PHP library - Validators for standards from ISO, International Finance, Public Administrations, GS1, Manufacturing Industry, Phone numbers & Zipcodes for many countries
 - [rvolz/BicBucStriim](https://github.com/rvolz/BicBucStriim) - BicBucStriim streams books, digital books. It fills a gap in the functionality of current NAS devices that provide access to music, videos and photos -- but not books. BicBucStriim fills this gap and provides web-based access to your e-book collection.
 - [ryanwinchester/kwiki](https://github.com/ryanwinchester/kwiki) - markdown wiki/blog
