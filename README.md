@@ -51,7 +51,6 @@ A collection of awesome things.
 ## C#
 
 - [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
-- [IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
 - [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
@@ -61,12 +60,9 @@ A collection of awesome things.
 ## C++
 
 - [ComodoSecurity/openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
-- [aguegu/greenrain](https://github.com/aguegu/greenrain) - Generate Green Rain / Matrix Digital Rain in Linux Terminal with curses lib.
 - [fourboards/TouchPad](https://github.com/fourboards/TouchPad) - TouchPad supporting files.
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
-- [haoweilo/RTSP_stream_server](https://github.com/haoweilo/RTSP_stream_server) - Small rtsp server base-on Live555 
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [sepfy/xiaopi](https://github.com/sepfy/xiaopi) - An Open Source Home Security Camera For Raspberry Pi
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
 
 ## CSS
@@ -82,7 +78,6 @@ A collection of awesome things.
 - [fireshaper/parcelpony](https://github.com/fireshaper/parcelpony) - Track packages easily
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [kamilczujowski/least](https://github.com/kamilczujowski/least) - This plugin is no longer maintained - #leastjs 2 is available for download now!
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [matzeeable/wp-hookdoc](https://github.com/matzeeable/wp-hookdoc) - :star: An API documentation generator for your WordPress actions and filters.
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -101,7 +96,6 @@ A collection of awesome things.
 
 ## CoffeeScript
 
-- [ksylvest/jquery-gridly](https://github.com/ksylvest/jquery-gridly) - Gridly is a jQuery plugin to enable dragging and dropping as well as resizing on a grid.
 - [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
 - [rodw/common-dustjs-helpers](https://github.com/rodw/common-dustjs-helpers) - A small library of "standard" helper functions for the Dust.js web templating framework.
 
@@ -224,7 +218,6 @@ A collection of awesome things.
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [addyosmani/basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading files with localStorage
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-- [algolia/places](https://github.com/algolia/places) - :globe_with_meridians: Turn any &lt;input&gt; into an address autocomplete
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - [andreassolberg/jso](https://github.com/andreassolberg/jso) - Easy to use OAuth 2.0 javascript library for use in your javascript application.
@@ -278,7 +271,6 @@ A collection of awesome things.
 - [jildertmiedema/laravel-plupload](https://github.com/jildertmiedema/laravel-plupload) - Laravel plupload support - Handle large file uploads
 - [jonaskuske/smoothscroll-anchor-polyfill](https://github.com/jonaskuske/smoothscroll-anchor-polyfill) - ⚓ Apply smooth scroll to anchor links, polyfill scroll-behavior
 - [jquery-backstretch/jquery-backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
-- [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - jQuery Validation Plugin library sources
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [kamens/jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
 - [kevinchappell/formBuilder](https://github.com/kevinchappell/formBuilder) - A jQuery plugin for drag and drop form creation
@@ -343,8 +335,6 @@ A collection of awesome things.
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [viljamis/responsive-nav.js](https://github.com/viljamis/responsive-nav.js) - Responsive navigation plugin without library dependencies and with fast touch screen support.
-- [villeristi/vue.js-starter-template](https://github.com/villeristi/vue.js-starter-template) - A starter template for Vue.js projects
-- [vitalets/x-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
 - [vue-generators/vue-form-generator](https://github.com/vue-generators/vue-form-generator) - :clipboard: A schema-based form generator component for Vue.js
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [vuejs/vue-router](https://github.com/vuejs/vue-router) - 🚦 The official router for Vue 2
@@ -730,7 +720,7 @@ A collection of awesome things.
 - [mharj/synologyjs](https://github.com/mharj/synologyjs) - Synology md info and check action via node-ssh module
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [pikax/vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables
 - [posva/vue-reactive-refs](https://github.com/posva/vue-reactive-refs) - Make $refs reactive so they can be used in computed properties and watchers
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
