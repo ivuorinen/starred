@@ -8,6 +8,7 @@ A collection of awesome things.
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
@@ -98,6 +99,10 @@ A collection of awesome things.
 
 - [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
 - [rodw/common-dustjs-helpers](https://github.com/rodw/common-dustjs-helpers) - A small library of "standard" helper functions for the Dust.js web templating framework.
+
+## Dart
+
+- [Cifruktus/MathTraining](https://github.com/Cifruktus/MathTraining) - A mobile application for training mental math skills.
 
 ## Dockerfile
 
