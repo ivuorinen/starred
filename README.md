@@ -282,6 +282,7 @@ A collection of awesome things.
 - [kiskolabs/progressify](https://github.com/kiskolabs/progressify) - A simple progress bar plugin for jQuery
 - [kswedberg/jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll) - Automatically make same-page links scroll smoothly
 - [leskhq/Laravel-Enterprise-Starter-Kit](https://github.com/leskhq/Laravel-Enterprise-Starter-Kit) - 👔 Enterprise Web application starter kit or template using Laravel
+- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [littlstar/s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
