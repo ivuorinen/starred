@@ -538,6 +538,7 @@ A collection of awesome things.
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) - A package to backup your Laravel app
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
 - [spatie/laravel-failed-job-monitor](https://github.com/spatie/laravel-failed-job-monitor) - Get notified when a queued job fails
+- [spatie/laravel-livewire-wizard](https://github.com/spatie/laravel-livewire-wizard) - Headless Livewire components to build wizards
 - [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy) - Make your Laravel app usable by multiple tenants
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 - [spatie/laravel-queueable-action](https://github.com/spatie/laravel-queueable-action) - Queueable actions in Laravel
