@@ -225,6 +225,7 @@ A collection of awesome things.
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - [andreassolberg/jso](https://github.com/andreassolberg/jso) - Easy to use OAuth 2.0 javascript library for use in your javascript application.
+- [ansh/bionic-reading](https://github.com/ansh/bionic-reading) - A Chrome Extension for Bionic Reading on ANY website!
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [artberri/sidr](https://github.com/artberri/sidr) - Sidr is a jQuery plugin for creating side menus and the easiest way for doing your menu responsive. 
 - [asbjornenge/websocketd.js](https://github.com/asbjornenge/websocketd.js) - :zap: Turn any application that uses STDIN/STDOUT into a WebSocket server.js
@@ -442,6 +443,7 @@ A collection of awesome things.
 - [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable) - Easy creation of slugs for your Eloquent models in Laravel
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [ddeboer/imap](https://github.com/ddeboer/imap) - Object-oriented, fully tested PHP IMAP library
+- [deprecated-packages/git-wrapper](https://github.com/deprecated-packages/git-wrapper) - [READ-ONLY] PHP wrapper around the Git command line
 - [devgeniem/acf-codifier](https://github.com/devgeniem/acf-codifier) - A wrapper class to help write more readable ACF field declarations.
 - [devgeniem/linkedevents-client](https://github.com/devgeniem/linkedevents-client) - LinkedEvents Base Client
 - [devgeniem/tms-theme-base](https://github.com/devgeniem/tms-theme-base) - Tampere WordPress Multisite Base Theme
@@ -452,7 +454,7 @@ A collection of awesome things.
 - [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [dimsav/laravel-translatable](https://github.com/dimsav/laravel-translatable) - [Deprecated] A Laravel package for multilingual models
 - [drewjbartlett/wordpress-eloquent](https://github.com/drewjbartlett/wordpress-eloquent) - A library that converts converts wordpress tables into Laravel Eloquent Models.
-- [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be. 
+- [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations for digital services, the way it should be. 
 - [dryphp/openpgp.php](https://github.com/dryphp/openpgp.php) - OpenPGP.php is a pure-PHP implementation of the OpenPGP Message Format (RFC 4880).
 - [dwightwatson/validating](https://github.com/dwightwatson/validating) - Automatically validating Eloquent models for Laravel
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
@@ -560,7 +562,6 @@ A collection of awesome things.
 - [stephenjude/extended-artisan-commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
 - [superhelio/commands](https://github.com/superhelio/commands) - This is a collection of Laravel Artisan commands created to help everyone in their development work.
 - [symplify/composer-json-manipulator](https://github.com/symplify/composer-json-manipulator) - [READ-ONLY] Manipulate composer.json with Beautiful Object API
-- [symplify/git-wrapper](https://github.com/symplify/git-wrapper) - [READ-ONLY] PHP wrapper around the Git command line
 - [symplify/rule-doc-generator](https://github.com/symplify/rule-doc-generator) - [READ-ONLY] Documentation generator for coding standard or static analysis rules"
 - [tebru/retrofit-php](https://github.com/tebru/retrofit-php) - Retrofit implementation in PHP.  A REST client for PHP.
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
@@ -726,6 +727,7 @@ A collection of awesome things.
 - [jsonmaur/namor](https://github.com/jsonmaur/namor) - A domain-safe name generator
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [mharj/synologyjs](https://github.com/mharj/synologyjs) - Synology md info and check action via node-ssh module
