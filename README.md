@@ -454,7 +454,7 @@ A collection of awesome things.
 - [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [dimsav/laravel-translatable](https://github.com/dimsav/laravel-translatable) - [Deprecated] A Laravel package for multilingual models
 - [drewjbartlett/wordpress-eloquent](https://github.com/drewjbartlett/wordpress-eloquent) - A library that converts converts wordpress tables into Laravel Eloquent Models.
-- [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations for digital services, the way it should be. 
+- [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be. 
 - [dryphp/openpgp.php](https://github.com/dryphp/openpgp.php) - OpenPGP.php is a pure-PHP implementation of the OpenPGP Message Format (RFC 4880).
 - [dwightwatson/validating](https://github.com/dwightwatson/validating) - Automatically validating Eloquent models for Laravel
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
