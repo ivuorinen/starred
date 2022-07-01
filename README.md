@@ -579,12 +579,12 @@ A collection of awesome things.
 - [versionable/Ferret](https://github.com/versionable/Ferret) - Mime detection library
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [vinkla/laravel-backup](https://github.com/vinkla/laravel-backup) - A easy-to-use backup manager for Laravel
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [wardrobecms/wardrobe-archived](https://github.com/wardrobecms/wardrobe-archived) - A minimal blogging application
 - [webpatser/laravel-countries](https://github.com/webpatser/laravel-countries) - Laravel Countries is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries.
 - [winglian/appstrap](https://github.com/winglian/appstrap) - AppStrap
 - [woocommerce/action-scheduler](https://github.com/woocommerce/action-scheduler) - A scalable, traceable job queue for background processing large queues of tasks in WordPress. Specifically designed for distribution in WordPress plugins (and themes) - no server access required.
-- [wordplate/wordplate](https://github.com/wordplate/wordplate) - WordPlate is a wrapper around WordPress. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 - [wp-cli/import-command](https://github.com/wp-cli/import-command) - Imports content from a given WXR file.
 - [wp-languages/wp-languages.github.io](https://github.com/wp-languages/wp-languages.github.io) - Composer repository for WordPress translation files
 - [zachleigh/laravel-vue-generators](https://github.com/zachleigh/laravel-vue-generators) - Generate Vue js files via artisan commands
@@ -795,6 +795,7 @@ A collection of awesome things.
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [LodestoneHQ/lodestone](https://github.com/LodestoneHQ/lodestone) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use)
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
