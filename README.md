@@ -702,6 +702,7 @@ A collection of awesome things.
 - [flipperdevices/Flipper-iOS-App](https://github.com/flipperdevices/Flipper-iOS-App) - iOS Mobile App to rule all Flipper's family
 - [insidegui/PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
 - [jcm93/jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer
+- [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 
 ## TypeScript
