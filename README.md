@@ -33,6 +33,7 @@ A collection of awesome things.
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vue](#vue)
+- [Zig](#zig)
 - [Misc](#misc)
 
 ---
@@ -64,6 +65,7 @@ A collection of awesome things.
 - [fourboards/TouchPad](https://github.com/fourboards/TouchPad) - TouchPad supporting files.
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
 
 ## CSS
@@ -148,6 +150,7 @@ A collection of awesome things.
 - [muxinc/certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics
 - [nghialv/promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in realtime from Prometheus data
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [sanathp/statusok](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your Computer. Get Notified through Slack, E-mail when your server is down or response time is more than expected. 
@@ -787,6 +790,10 @@ A collection of awesome things.
 - [ricktbaker/opshell](https://github.com/ricktbaker/opshell) - An electron app to assist with managing AWS instances across multiple organizations
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 
+## Zig
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+
 ## Misc
 
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
@@ -810,6 +817,7 @@ A collection of awesome things.
 - [haruncpi/db-seeder](https://github.com/haruncpi/db-seeder) - A database seeder app for MySQL
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [oreillymedia/open_government](https://github.com/oreillymedia/open_government) - Open Government, released as part of #PDFtribute
 - [oskarkrawczyk/honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for Oh My ZSH and iTerm
