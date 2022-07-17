@@ -81,7 +81,6 @@ A collection of awesome things.
 - [fireshaper/parcelpony](https://github.com/fireshaper/parcelpony) - Track packages easily
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [matzeeable/wp-hookdoc](https://github.com/matzeeable/wp-hookdoc) - :star: An API documentation generator for your WordPress actions and filters.
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [nick-jonas/nick-jonas.github.com](https://github.com/nick-jonas/nick-jonas.github.com) - Demo sites
@@ -183,6 +182,7 @@ A collection of awesome things.
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [kennethormandy/normalize-opentype.css](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [lsrur/inspector](https://github.com/lsrur/inspector) - Laravel Inspector, debugging and profiling tools for Web Artisans
 - [maciej-gurban/responsive-bootstrap-toolkit](https://github.com/maciej-gurban/responsive-bootstrap-toolkit) - Responsive Bootstrap Toolkit allows for easy breakpoint detection in JavaScript
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
