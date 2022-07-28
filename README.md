@@ -396,6 +396,7 @@ A collection of awesome things.
 - [FloeDesignTechnologies/phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator) - An administrative interface package for Laravel
+- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 - [HubSpot/hubspot-php](https://github.com/HubSpot/hubspot-php) - HubSpot PHP API Client
 - [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator) - InfyOm Laravel Generator - API, Scaffold, Tests, CRUD Laravel Generator
 - [JBZoo/Composer-Graph](https://github.com/JBZoo/Composer-Graph) - Dependency graph visualization for composer.json (PHP + Composer) based on mermaid-js
@@ -472,7 +473,6 @@ A collection of awesome things.
 - [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP.
 - [goldspecdigital/oooas](https://github.com/goldspecdigital/oooas) - An object oriented approach to generating OpenAPI specs, implemented in PHP.
 - [html5blank/html5blank](https://github.com/html5blank/html5blank) - :construction: Powerful shell for rapidly building your WordPress projects
-- [iluminar/goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 - [imanghafoori1/laravel-microscope](https://github.com/imanghafoori1/laravel-microscope) - Fearless refactoring, it does a lot of smart checks to find certain errors.
 - [inpsyde/Wonolog](https://github.com/inpsyde/Wonolog) - Monolog-based logging package for WordPress.
 - [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
