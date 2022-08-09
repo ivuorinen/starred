@@ -597,7 +597,7 @@ A collection of awesome things.
 ## PowerShell
 
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## Python
 
