@@ -170,6 +170,7 @@ A collection of awesome things.
 - [MattWilcox/Adaptive-Images](https://github.com/MattWilcox/Adaptive-Images) - Automatically adapts your existing HTML images for mobile devices. No mark-up changes needed.
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 - [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [bigspotteddog/ScrollToFixed](https://github.com/bigspotteddog/ScrollToFixed) - This plugin is used to fix elements on the page (top, bottom, anywhere); however, it still allows the element to continue to move left or right with the horizontal scroll.
 - [bitmand/utterson](https://github.com/bitmand/utterson) - A Jekyll web backend written in ruby, for a more user friendly management of http://jekyllrb.com/ websites.
 - [codedninja/TeamRoles](https://github.com/codedninja/TeamRoles) - Team Roles expansion on mpociot/teamwork
@@ -611,7 +612,6 @@ A collection of awesome things.
 - [Owen-Cochell/mctools](https://github.com/Owen-Cochell/mctools) - Minecraft Connection Tools - Python implementations of common Minecraft protocols.
 - [RCS101/IV3_lib](https://github.com/RCS101/IV3_lib) - Arduino library for IV3 clock
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
