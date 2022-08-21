@@ -66,6 +66,7 @@ A collection of awesome things.
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
 
 ## CSS
@@ -262,6 +263,7 @@ A collection of awesome things.
 - [filamentgroup/jQuery-UI-Date-Range-Picker](https://github.com/filamentgroup/jQuery-UI-Date-Range-Picker) - A range picker built on top of jQuery UI's Datepicker Control
 - [filamentgroup/responsive-carousel](https://github.com/filamentgroup/responsive-carousel) - A jQuery-based script for responsive carousels that work with mouse, touch, and keyboard
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) -  :books: Books everyone should read!
@@ -673,6 +675,7 @@ A collection of awesome things.
 - [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire.
 - [Sparragus/zsh-auto-nvm-use](https://github.com/Sparragus/zsh-auto-nvm-use) - Automatically runs `nvm use` with the node version specified in .nvmrc
 - [bderenzo/tinymotd](https://github.com/bderenzo/tinymotd) - Tiny dynamic motd generator (system, disks, network, ...)
+- [bntzio/wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
