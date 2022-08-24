@@ -451,6 +451,7 @@ A collection of awesome things.
 - [deprecated-packages/git-wrapper](https://github.com/deprecated-packages/git-wrapper) - [READ-ONLY] PHP wrapper around the Git command line
 - [devgeniem/acf-codifier](https://github.com/devgeniem/acf-codifier) - A wrapper class to help write more readable ACF field declarations.
 - [devgeniem/linkedevents-client](https://github.com/devgeniem/linkedevents-client) - LinkedEvents Base Client
+- [devgeniem/tms-plugin-network-site-list](https://github.com/devgeniem/tms-plugin-network-site-list) - 
 - [devgeniem/tms-theme-base](https://github.com/devgeniem/tms-theme-base) - Tampere WordPress Multisite Base Theme
 - [devgeniem/tms-theme-filharmonia](https://github.com/devgeniem/tms-theme-filharmonia) - Tampere Multisite Theme For Tampere Filharmonia
 - [devgeniem/tms-theme-muumimuseo](https://github.com/devgeniem/tms-theme-muumimuseo) - Tampere Multisite Theme For Muumimuseo
