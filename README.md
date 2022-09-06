@@ -197,7 +197,7 @@ A collection of awesome things.
 
 ## Java
 
-- [CloudNetService/CloudNet-v3](https://github.com/CloudNetService/CloudNet-v3) - CloudNet v3 is the next generation of Minecraft Java and Bedrock cloud systems
+- [CloudNetService/CloudNet-v3](https://github.com/CloudNetService/CloudNet-v3) - A modern application that can dynamically and easily deliver Minecraft oriented software
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 
 ## JavaScript
