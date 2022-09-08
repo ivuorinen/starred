@@ -523,6 +523,7 @@ A collection of awesome things.
 - [mpociot/laravel-test-factory-helper](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models
 - [mpociot/teamwork](https://github.com/mpociot/teamwork) - User to Team associations with invitation system for the Laravel 5 Framework
 - [mtdowling/cron-expression](https://github.com/mtdowling/cron-expression) - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+- [mtownsend5512/progress](https://github.com/mtownsend5512/progress) - A PHP package to determine steps and progress.
 - [munusphp/munus](https://github.com/munusphp/munus) - Power of object-oriented programming with the elegance of functional programming in PHP.
 - [nahid/talk](https://github.com/nahid/talk) - Talk is a real-time users messaging and chatting system Laravel.
 - [nette/robot-loader](https://github.com/nette/robot-loader) - 🍀 RobotLoader: high performance and comfortable autoloader that will search and autoload classes within your application. 
