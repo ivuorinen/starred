@@ -139,6 +139,7 @@ A collection of awesome things.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [estesp/mquery](https://github.com/estesp/mquery) - Multi-platform (manifest list/OCI index) registry image query utility
