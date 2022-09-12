@@ -350,6 +350,7 @@ A collection of awesome things.
 - [ujjwalguptaofficial/JsStore](https://github.com/ujjwalguptaofficial/JsStore) - A complete IndexedDB wrapper with SQL like syntax.
 - [ujjwalguptaofficial/idbstudio](https://github.com/ujjwalguptaofficial/idbstudio) - idbstudio is a management tools for indexeddb library  jsstore. It helps users to execute , debug and learn jsstore query.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [uxsolutions/bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - A datepicker for twitter bootstrap (@twbs)
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
