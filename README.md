@@ -373,6 +373,7 @@ A collection of awesome things.
 
 ## Jupyter Notebook
 
+- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [elastic/examples](https://github.com/elastic/examples) - Home for Elasticsearch examples available to everyone. It's a great way to get started.
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos 
 
@@ -526,7 +527,7 @@ A collection of awesome things.
 - [mtdowling/cron-expression](https://github.com/mtdowling/cron-expression) - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
 - [mtownsend5512/progress](https://github.com/mtownsend5512/progress) - A PHP package to determine steps and progress.
 - [munusphp/munus](https://github.com/munusphp/munus) - Power of object-oriented programming with the elegance of functional programming in PHP.
-- [nahid/talk](https://github.com/nahid/talk) - Talk is a real-time users messaging and chatting system Laravel.
+- [nahid/talk](https://github.com/nahid/talk) - Talk is a real-time users messaging and chatting system for Laravel.
 - [nette/robot-loader](https://github.com/nette/robot-loader) - 🍀 RobotLoader: high performance and comfortable autoloader that will search and autoload classes within your application. 
 - [nette/schema](https://github.com/nette/schema) - 📐 Validating data structures against a given Schema.
 - [nette/tracy](https://github.com/nette/tracy) - 😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
@@ -864,7 +865,7 @@ A collection of awesome things.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [notpresident35/learn-awesome-gamedev](https://github.com/notpresident35/learn-awesome-gamedev) - A curated collection of game development learning resources
+- [notpresident35/awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev) - A curated collection of game development learning resources
 - [oreillymedia/open_government](https://github.com/oreillymedia/open_government) - Open Government, released as part of #PDFtribute
 - [oskarkrawczyk/honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for Oh My ZSH and iTerm
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
