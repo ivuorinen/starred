@@ -133,19 +133,26 @@ A collection of awesome things.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
+- [andyfeller/gh-dependency-report](https://github.com/andyfeller/gh-dependency-report) - GitHub CLI extension for generating a report on repository dependencies.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [augmentable-dev/gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+- [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀 
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
+- [einride/gh-dependabot](https://github.com/einride/gh-dependabot) - GitHub CLI extension for reviewing Dependabot PRs.
 - [estesp/mquery](https://github.com/estesp/mquery) - Multi-platform (manifest list/OCI index) registry image query utility
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go.
+- [hectcastro/gh-metrics](https://github.com/hectcastro/gh-metrics) - A GitHub CLI extension that provides summary pull request metrics.
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. 
+- [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
 - [kinvolk/lokomotive](https://github.com/kinvolk/lokomotive) - 🪦 DISCONTINUED Further Lokomotive development has been discontinued. Lokomotive is a 100% open-source, easy to use and secure Kubernetes distribution from the volks at Kinvolk
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
@@ -157,13 +164,16 @@ A collection of awesome things.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rsese/gh-actions-status](https://github.com/rsese/gh-actions-status) - 
 - [sanathp/statusok](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your Computer. Get Notified through Slack, E-mail when your server is down or response time is more than expected. 
 - [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - vector search engine
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
+- [stoe/gh-report](https://github.com/stoe/gh-report) - gh cli extension to generate account/organization/enterprise reports
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
 - [traefik/traefik-migration-tool](https://github.com/traefik/traefik-migration-tool) - A migration tool from Traefik v1 to Traefik v2.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [vilmibm/gh-oblique](https://github.com/vilmibm/gh-oblique) - a gh extension that prints out an oblique strategy
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [xarantolus/upduck](https://github.com/xarantolus/upduck) - simple web server that integrates with DuckDNS & Let's Encrypt
@@ -189,6 +199,7 @@ A collection of awesome things.
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [kennethormandy/normalize-opentype.css](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [lsrur/inspector](https://github.com/lsrur/inspector) - Laravel Inspector, debugging and profiling tools for Web Artisans
 - [maciej-gurban/responsive-bootstrap-toolkit](https://github.com/maciej-gurban/responsive-bootstrap-toolkit) - Responsive Bootstrap Toolkit allows for easy breakpoint detection in JavaScript
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
@@ -691,8 +702,11 @@ A collection of awesome things.
 - [IonBazan/composer-diff-action](https://github.com/IonBazan/composer-diff-action) - Compare composer.lock files and generate human-readable list of package changes
 - [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire.
 - [Sparragus/zsh-auto-nvm-use](https://github.com/Sparragus/zsh-auto-nvm-use) - Automatically runs `nvm use` with the node version specified in .nvmrc
+- [VildMedPap/gh-orgstats](https://github.com/VildMedPap/gh-orgstats) - Organisation specific extension for gh cli to retrieve different statistics
+- [andyfeller/gh-montage](https://github.com/andyfeller/gh-montage) - GitHub CLI extension to generate montage from GitHub user avatars
 - [bderenzo/tinymotd](https://github.com/bderenzo/tinymotd) - Tiny dynamic motd generator (system, disks, network, ...)
 - [bntzio/wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
+- [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches) - Safely deletes local branches with no upstream and no un-pushed commits
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
@@ -704,6 +718,7 @@ A collection of awesome things.
 - [hjar/bitbucket-to-aws](https://github.com/hjar/bitbucket-to-aws) - How to deploy a Laravel app from Bitbucket to autoscaled instances at AWS.
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
+- [matt-bartel/gh-clone-org](https://github.com/matt-bartel/gh-clone-org) - A github-cli extension script to clone all repositories in an organization, optionally filtering by topic.
 - [mtdowling/chag](https://github.com/mtdowling/chag) - Use your changelog as the canonical source of change data. With pure Bash.
 - [ntnn/docker-imapfilter](https://github.com/ntnn/docker-imapfilter) - Docker image to run imapfilter as a daemon with configs from git
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -847,6 +862,7 @@ A collection of awesome things.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [LodestoneHQ/lodestone](https://github.com/LodestoneHQ/lodestone) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use)
+- [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
