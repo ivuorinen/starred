@@ -422,7 +422,7 @@ A collection of awesome things.
 - [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator) - An administrative interface package for Laravel
 - [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 - [HubSpot/hubspot-php](https://github.com/HubSpot/hubspot-php) - HubSpot PHP API Client
-- [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator) - InfyOm Laravel Generator - API, Scaffold, Tests, CRUD Laravel Generator
+- [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator) - API and Admin Panel CRUD Generator for Laravel.
 - [JBZoo/Composer-Graph](https://github.com/JBZoo/Composer-Graph) - Dependency graph visualization for composer.json (PHP + Composer) based on mermaid-js
 - [JacobBennett/StripeTestToken](https://github.com/JacobBennett/StripeTestToken) - Use this to quickly generate Stripe test tokens for successful or exceptional responses from Stripe.
 - [Jeroen-G/laravel-packager](https://github.com/Jeroen-G/laravel-packager) - A cli tool for creating Laravel packages
