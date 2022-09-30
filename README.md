@@ -150,7 +150,7 @@ A collection of awesome things.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go.
 - [hectcastro/gh-metrics](https://github.com/hectcastro/gh-metrics) - A GitHub CLI extension that provides summary pull request metrics.
-- [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. 
 - [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
 - [kinvolk/lokomotive](https://github.com/kinvolk/lokomotive) - 🪦 DISCONTINUED Further Lokomotive development has been discontinued. Lokomotive is a 100% open-source, easy to use and secure Kubernetes distribution from the volks at Kinvolk
