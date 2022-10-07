@@ -378,7 +378,6 @@ A collection of awesome things.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [websanova/vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap components built with Vue.js
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
@@ -648,7 +647,6 @@ A collection of awesome things.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies go above and beyond for Hacktoberfest, and this repo tries to list them all.
-- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [fawkesley/inboxbot](https://github.com/fawkesley/inboxbot) - Organise your email inbox with rules from a YAML file
@@ -837,6 +835,7 @@ A collection of awesome things.
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [xt0rted/stylelint-problem-matcher](https://github.com/xt0rted/stylelint-problem-matcher) - A GitHub Action that registers a problem matcher for Stylelint's report format
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
 
 ## V
@@ -855,6 +854,7 @@ A collection of awesome things.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [codebryo/messagist](https://github.com/codebryo/messagist) - Configurable conversation flow for great user engagement
+- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [hilongjw/vue-datepicker](https://github.com/hilongjw/vue-datepicker) - [Deprecated] calendar and datepicker component with material design for Vue.js
 - [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 - [rakk7/vue-bootstrap-toasts](https://github.com/rakk7/vue-bootstrap-toasts) - Bootstrap 4 toasts with vue
