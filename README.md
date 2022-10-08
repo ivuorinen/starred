@@ -234,6 +234,7 @@ A collection of awesome things.
 - [PMSI-AlignAlytics/dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
 - [Polychart/polychart2](https://github.com/Polychart/polychart2) - Version 2 of Polychart.js
 - [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
+- [RapidAPI/rapidql](https://github.com/RapidAPI/rapidql) - Query multiple APIs and DBs and join them in a single query
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing 
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
@@ -694,6 +695,7 @@ A collection of awesome things.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
+- [sandydoo/flux](https://github.com/sandydoo/flux) - An open-source tribute to the macOS Drift screensaver
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 
@@ -772,6 +774,7 @@ A collection of awesome things.
 - [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using clean architecture principles · 🧼 🏛 🍪
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [bwsw/cloudstack-ui](https://github.com/bwsw/cloudstack-ui) - Modern UI for Apache Cloudstack User Self Service Portal
+- [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [denolehov/obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs into selected text "notion style"
 - [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
