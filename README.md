@@ -27,6 +27,7 @@ A collection of awesome things.
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Sass](#sass)
 - [Shell](#shell)
 - [Stylus](#stylus)
 - [Swift](#swift)
@@ -255,6 +256,7 @@ A collection of awesome things.
 - [axios/moxios](https://github.com/axios/moxios) - Mock axios requests for testing
 - [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
+- [bholloway/resolve-url-loader](https://github.com/bholloway/resolve-url-loader) - Webpack loader that resolves relative paths in url() statements based on the original source file
 - [blasten/turn.js](https://github.com/blasten/turn.js) - The page flip effect for HTML5
 - [bradstewart/electron-boilerplate-vue](https://github.com/bradstewart/electron-boilerplate-vue) - Boilerplate application for Electron runtime
 - [brendandburns/designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
@@ -705,6 +707,10 @@ A collection of awesome things.
 - [jaszhix/NoMansConnect](https://github.com/jaszhix/NoMansConnect) - A location manager for No Man's Sky.
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+
+## Sass
+
+- [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
 
 ## Shell
 
