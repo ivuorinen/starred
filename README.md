@@ -234,6 +234,7 @@ A collection of awesome things.
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [PMSI-AlignAlytics/dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
 - [Polychart/polychart2](https://github.com/Polychart/polychart2) - Version 2 of Polychart.js
+- [Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos) - A quick capture plugin for Obsidian, all data from your notes.
 - [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
 - [RapidAPI/rapidql](https://github.com/RapidAPI/rapidql) - Query multiple APIs and DBs and join them in a single query
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing 
@@ -690,6 +691,7 @@ A collection of awesome things.
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup GMail (or other IMAP) accounts to disk
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [scttnlsn/dandelion](https://github.com/scttnlsn/dandelion) - Incremental Git repository deployment.
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.3. PHP 8.2 and 8.3 are nightly builds.
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
 
 ## Rust
@@ -746,6 +748,7 @@ A collection of awesome things.
 - [superhelio/tools](https://github.com/superhelio/tools) - ❤  Collection of tools!
 - [swoodford/raspberrypi](https://github.com/swoodford/raspberrypi) - Raspberry Pi
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
+- [ville6000/dotfiles](https://github.com/ville6000/dotfiles) - 
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 
 ## Stylus
