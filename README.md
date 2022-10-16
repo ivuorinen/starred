@@ -440,7 +440,7 @@ A collection of awesome things.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Objectivco/wordpress-simple-settings](https://github.com/Objectivco/wordpress-simple-settings) - A minimalist framework for managing WordPress plugin or theme settings. 
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
-- [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - :lipstick: Scalable and durable all-purpose data import abstraction for publishing testable APIs and SDKs.
+- [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - :lipstick: Scalable and durable all-purpose data import abstraction for publishing and consuming testable APIs and SDKs.
 - [Seravo/seravo-plugin](https://github.com/Seravo/seravo-plugin) - Enhances WordPress with Seravo specific features and integrations
 - [SoutheastPHPConf/southeastphp.com](https://github.com/SoutheastPHPConf/southeastphp.com) - Website for SoutheastPHP
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
