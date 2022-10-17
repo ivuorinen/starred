@@ -275,6 +275,7 @@ A collection of awesome things.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
 - [devgeniem/geniem-rules-stylelint](https://github.com/devgeniem/geniem-rules-stylelint) - Geniem Oy stylelint rules
+- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts component for Vue.js.
@@ -866,7 +867,6 @@ A collection of awesome things.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [codebryo/messagist](https://github.com/codebryo/messagist) - Configurable conversation flow for great user engagement
-- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [hilongjw/vue-datepicker](https://github.com/hilongjw/vue-datepicker) - [Deprecated] calendar and datepicker component with material design for Vue.js
 - [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 - [rakk7/vue-bootstrap-toasts](https://github.com/rakk7/vue-bootstrap-toasts) - Bootstrap 4 toasts with vue
