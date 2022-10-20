@@ -319,6 +319,7 @@ A collection of awesome things.
 - [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
 - [lukeed/pwa](https://github.com/lukeed/pwa) - (WIP) Universal PWA Builder
 - [lukejacksonn/GreedyNav](https://github.com/lukejacksonn/GreedyNav) - A responsive navigation menu that stacks items into a dropdown menu when they overflow
+- [lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos) - An obsidian plugin that rolls over todo items from the previous daily note
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
 - [malsup/corner](https://github.com/malsup/corner) - jQuery Corner Plugin (by Dave Methvin and Mike Alsup)
 - [mark-rolich/Magnifier.js](https://github.com/mark-rolich/Magnifier.js) - Javascript library enabling magnifying glass effect on an images
@@ -352,7 +353,6 @@ A collection of awesome things.
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [scottjehl/Respond](https://github.com/scottjehl/Respond) - A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
 - [shhdgit/vue-easy-slider](https://github.com/shhdgit/vue-easy-slider) - Slider Component of Vue.js.
-- [shichongrui/obsidian-rollover-daily-todos](https://github.com/shichongrui/obsidian-rollover-daily-todos) - An obsidian plugin that rolls over todo items from the previous daily note
 - [shutterstock/rickshaw](https://github.com/shutterstock/rickshaw) -  JavaScript toolkit for creating interactive real-time graphs
 - [simonexmachina/factory-girl](https://github.com/simonexmachina/factory-girl) - A factory library for node.js and the browser inspired by factory_girl
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
@@ -499,7 +499,6 @@ A collection of awesome things.
 - [dryphp/openpgp.php](https://github.com/dryphp/openpgp.php) - OpenPGP.php is a pure-PHP implementation of the OpenPGP Message Format (RFC 4880).
 - [dwightwatson/validating](https://github.com/dwightwatson/validating) - Automatically validating Eloquent models for Laravel
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-- [elisabettanova/nano](https://github.com/elisabettanova/nano) - Nano is a very very tiny PHP library that allows you to create very fast rest APIs. Think it's like Slim but Nano is only ~6.4 Kilobytes.
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
 - [ethanhann/Laravel-RediSearch](https://github.com/ethanhann/Laravel-RediSearch) - Laravel integration for RediSearch
 - [eventum/eventum](https://github.com/eventum/eventum) - Eventum Issue Tracking System
@@ -612,6 +611,7 @@ A collection of awesome things.
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
 - [topclaudy/compoships](https://github.com/topclaudy/compoships) - Multi-columns relationships for Laravel's Eloquent ORM
 - [tylercd100/lern](https://github.com/tylercd100/lern) - LERN is a Laravel 5 package that will record exceptions into a database and will notify you via Email, Pushover or Slack.
+- [unfinishedtomato/nano](https://github.com/unfinishedtomato/nano) - Nano is a very very tiny PHP library that allows you to create very fast rest APIs. Think it's like Slim but Nano is only ~6.4 Kilobytes.
 - [versionable/Ferret](https://github.com/versionable/Ferret) - Mime detection library
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [vinkla/laravel-backup](https://github.com/vinkla/laravel-backup) - A easy-to-use backup manager for Laravel
@@ -782,7 +782,7 @@ A collection of awesome things.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [balenalabs/balena-sound](https://github.com/balenalabs/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
-- [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using clean architecture principles · 🧼 🏛 🍪
+- [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles · 🧼 🏛 🍪
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [bwsw/cloudstack-ui](https://github.com/bwsw/cloudstack-ui) - Modern UI for Apache Cloudstack User Self Service Portal
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
