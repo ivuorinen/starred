@@ -2,6 +2,7 @@
 
 A collection of awesome things.
 
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -38,6 +39,10 @@ A collection of awesome things.
 - [Misc](#misc)
 
 ---
+
+## Batchfile
+
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 
 ## C
 
@@ -188,7 +193,6 @@ A collection of awesome things.
 - [MattWilcox/Adaptive-Images](https://github.com/MattWilcox/Adaptive-Images) - Automatically adapts your existing HTML images for mobile devices. No mark-up changes needed.
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 - [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
-- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [bigspotteddog/ScrollToFixed](https://github.com/bigspotteddog/ScrollToFixed) - This plugin is used to fix elements on the page (top, bottom, anywhere); however, it still allows the element to continue to move left or right with the horizontal scroll.
 - [bitmand/utterson](https://github.com/bitmand/utterson) - A Jekyll web backend written in ruby, for a more user friendly management of http://jekyllrb.com/ websites.
 - [codedninja/TeamRoles](https://github.com/codedninja/TeamRoles) - Team Roles expansion on mpociot/teamwork
@@ -471,6 +475,7 @@ A collection of awesome things.
 - [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring.
 - [boscho87/changelog-checker](https://github.com/boscho87/changelog-checker) - PHPLibrary to check if Changelog has a Proper format.
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
+- [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
 - [brezzhnev/atlassian-connect-core](https://github.com/brezzhnev/atlassian-connect-core) - [Laravel 5.5+] The easiest way to create an add-on for the JIRA and Confluence
 - [browner12/reauthenticate](https://github.com/browner12/reauthenticate) - force user to reauthenticate on higher security pages
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
@@ -726,6 +731,7 @@ A collection of awesome things.
 - [bderenzo/tinymotd](https://github.com/bderenzo/tinymotd) - Tiny dynamic motd generator (system, disks, network, ...)
 - [bntzio/wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
 - [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches) - Safely deletes local branches with no upstream and no un-pushed commits
+- [dimo414/bash-cache](https://github.com/dimo414/bash-cache) - Transparent caching layer for bash functions; particularly useful for functions invoked as part of your prompt.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
