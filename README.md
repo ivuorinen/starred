@@ -673,6 +673,7 @@ A collection of awesome things.
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- [notkmhn/obyde](https://github.com/notkmhn/obyde) - A minimal tool to convert a "standardly" configured Obsidian vault to a Jekyll or Hugo blog.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [pypa/pipenv](https://github.com/pypa/pipenv) -  Python Development Workflow for Humans.
@@ -754,6 +755,7 @@ A collection of awesome things.
 - [reviewdog/action-shellcheck](https://github.com/reviewdog/action-shellcheck) - Run shellcheck with reviewdog
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS 
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
+- [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
 - [superhelio/tools](https://github.com/superhelio/tools) - ❤  Collection of tools!
 - [swoodford/raspberrypi](https://github.com/swoodford/raspberrypi) - Raspberry Pi
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
