@@ -14,10 +14,10 @@ A collection of awesome things.
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
@@ -187,6 +187,10 @@ A collection of awesome things.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [xarantolus/upduck](https://github.com/xarantolus/upduck) - simple web server that integrates with DuckDNS & Let's Encrypt
+
+## HCL
+
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 
 ## HTML
 
@@ -393,10 +397,6 @@ A collection of awesome things.
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap components built with Vue.js
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-
-## Jinja
-
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 
 ## Jupyter Notebook
 
