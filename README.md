@@ -447,7 +447,7 @@ A collection of awesome things.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Objectivco/wordpress-simple-settings](https://github.com/Objectivco/wordpress-simple-settings) - A minimalist framework for managing WordPress plugin or theme settings. 
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
-- [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - :lipstick: Scalable and durable all-purpose data import abstraction for publishing and consuming testable APIs and SDKs.
+- [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - :lipstick: Durable and concurrent data imports for consuming data at scale and publishing testable SDKs.
 - [Seravo/seravo-plugin](https://github.com/Seravo/seravo-plugin) - Enhances WordPress with Seravo specific features and integrations
 - [SoutheastPHPConf/southeastphp.com](https://github.com/SoutheastPHPConf/southeastphp.com) - Website for SoutheastPHP
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
@@ -540,7 +540,7 @@ A collection of awesome things.
 - [liebig/cron](https://github.com/liebig/cron) - Job scheduling for Laravel
 - [llaville/php-compatinfo](https://github.com/llaville/php-compatinfo) - Library that find out the minimum version and the extensions required for a piece of code to run
 - [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - Easy acceptance, functional, integration and unit testing for WordPress plugins, themes and sites using Codeception.
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - The easy and reliable way to test WordPress with Codeception. 10 years of proven success.
 - [lukeraymonddowning/mula](https://github.com/lukeraymonddowning/mula) - A Laravel package that makes working with money in a secure manner a cinch!
 - [maknz/slack](https://github.com/maknz/slack) - A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.
 - [marekrei/encode-explorer](https://github.com/marekrei/encode-explorer) - 
