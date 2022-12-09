@@ -14,6 +14,7 @@ A collection of awesome things.
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Go](#go)
+- [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
@@ -188,6 +189,10 @@ A collection of awesome things.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [xarantolus/upduck](https://github.com/xarantolus/upduck) - simple web server that integrates with DuckDNS & Let's Encrypt
 
+## Groovy
+
+- [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+
 ## HCL
 
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
@@ -337,6 +342,7 @@ A collection of awesome things.
 - [markgoodyear/scrollup](https://github.com/markgoodyear/scrollup) - 
 - [markmarkoh/datamaps](https://github.com/markmarkoh/datamaps) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
 - [mathiasbynens/jquery-placeholder](https://github.com/mathiasbynens/jquery-placeholder) - A jQuery plugin that enables HTML5 placeholder behavior for browsers that aren’t trying hard enough yet
+- [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [matt-sanders/vue-formly](https://github.com/matt-sanders/vue-formly) - A simple and extendable form builder for Vue
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -447,7 +453,7 @@ A collection of awesome things.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Objectivco/wordpress-simple-settings](https://github.com/Objectivco/wordpress-simple-settings) - A minimalist framework for managing WordPress plugin or theme settings. 
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
-- [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - :lipstick: Durable and concurrent data imports for consuming data at scale and publishing testable SDKs.
+- [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - :lipstick: Durable and asynchronous data imports for consuming data at scale and publishing testable SDKs.
 - [Seravo/seravo-plugin](https://github.com/Seravo/seravo-plugin) - Enhances WordPress with Seravo specific features and integrations
 - [SoutheastPHPConf/southeastphp.com](https://github.com/SoutheastPHPConf/southeastphp.com) - Website for SoutheastPHP
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
