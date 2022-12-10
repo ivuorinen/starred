@@ -466,7 +466,7 @@ A collection of awesome things.
 - [aaemnnosttv/silk](https://github.com/aaemnnosttv/silk) - A modern API for WordPress.
 - [adbario/php-dot-notation](https://github.com/adbario/php-dot-notation) - Dot notation access to PHP arrays
 - [amphp/injector](https://github.com/amphp/injector) - A recursive dependency injector used to bootstrap and wire together S.O.L.I.D., object-oriented PHP applications.
-- [andrewgjohnson/imagettftextblur](https://github.com/andrewgjohnson/imagettftextblur) - imagettftextblur is a drop in replacement for imagettftext with added parameters to add blur, glow and shadow effects to your PHP GD images.
+- [andrewgjohnson/imagettftextblur](https://github.com/andrewgjohnson/imagettftextblur) - imagettftextblur is a drop in replacement for imagettftext with added parameters to add blur, glow and shadow effects to your PHP GD images
 - [antonioribeiro/countries](https://github.com/antonioribeiro/countries) - Laravel countries and currencies
 - [antonioribeiro/tracker](https://github.com/antonioribeiro/tracker) - Laravel Stats Tracker
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
