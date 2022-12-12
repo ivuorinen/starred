@@ -412,7 +412,6 @@ A collection of awesome things.
 ## Nunjucks
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 
 ## Objective-C
 
@@ -577,6 +576,7 @@ A collection of awesome things.
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP Testing Framework with a focus on simplicity
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) - PHP Object Oriented image manipulation library
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - PHPStan rules for detecting usage of deprecated classes, methods, properties, constants and traits.
 - [pixelpeter/laravel5-isocodes-validation](https://github.com/pixelpeter/laravel5-isocodes-validation) - Laravel 5 wrapper for the IsoCodes Validation library from ronanguilloux
 - [proengsoft/laravel-jsvalidation](https://github.com/proengsoft/laravel-jsvalidation) - Laravel Javascript Validation
