@@ -177,7 +177,7 @@ A collection of awesome things.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [rsese/gh-actions-status](https://github.com/rsese/gh-actions-status) - 
 - [sanathp/statusok](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your Computer. Get Notified through Slack, E-mail when your server is down or response time is more than expected. 
-- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - vector search engine
+- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [stoe/gh-report](https://github.com/stoe/gh-report) - gh cli extension to generate account/organization/enterprise reports
@@ -706,7 +706,7 @@ A collection of awesome things.
 
 - [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup GMail (or other IMAP) accounts to disk
+- [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [scttnlsn/dandelion](https://github.com/scttnlsn/dandelion) - Incremental Git repository deployment.
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.3. PHP 8.3 are nightly builds.
