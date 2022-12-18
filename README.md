@@ -208,6 +208,7 @@ A collection of awesome things.
 - [bitmand/utterson](https://github.com/bitmand/utterson) - A Jekyll web backend written in ruby, for a more user friendly management of http://jekyllrb.com/ websites.
 - [codedninja/TeamRoles](https://github.com/codedninja/TeamRoles) - Team Roles expansion on mpociot/teamwork
 - [davist11/jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav) - Smooth scrolling and smart navigation when user scrolls on one-page sites.
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
