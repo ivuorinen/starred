@@ -31,6 +31,7 @@ A collection of awesome things.
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Sass](#sass)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [Stylus](#stylus)
 - [Swift](#swift)
@@ -416,7 +417,9 @@ A collection of awesome things.
 
 ## Lua
 
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 
 ## Nunjucks
 
@@ -742,6 +745,10 @@ A collection of awesome things.
 ## Sass
 
 - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
+
+## Scheme
+
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## Shell
 
