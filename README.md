@@ -2,7 +2,6 @@
 
 A collection of awesome things.
 
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -44,14 +43,11 @@ A collection of awesome things.
 
 ---
 
-## Batchfile
-
-- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
-
 ## C
 
 - [MaltWhiskey/Mega-Cube](https://github.com/MaltWhiskey/Mega-Cube) - 16x16x16 PL9823 Cube with Teensy 4.0 and FlexIO driver
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations. 
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -319,6 +315,7 @@ A collection of awesome things.
 - [hjar/aws-lambda-commander](https://github.com/hjar/aws-lambda-commander) - AWS Lambda functions for sending shell commands to Auto Scaling Groups or single instances.
 - [humanmade/hm-gutenberg-tools](https://github.com/humanmade/hm-gutenberg-tools) - Useful helpers, components or tools for building things with Gutenberg
 - [hyperform/hyperform](https://github.com/hyperform/hyperform) - Capture form validation back from the browser
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [ifightcrime/bootstrap-growl](https://github.com/ifightcrime/bootstrap-growl) - Pretty simple jQuery plugin that turns standard Bootstrap alerts into "Growl-like" notifications.
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [jackmoore/colorbox](https://github.com/jackmoore/colorbox) - A light-weight, customizable lightbox plugin for jQuery
@@ -417,6 +414,7 @@ A collection of awesome things.
 
 ## Lua
 
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
