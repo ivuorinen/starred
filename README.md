@@ -2,6 +2,7 @@
 
 A collection of awesome things.
 
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -43,6 +44,10 @@ A collection of awesome things.
 - [Misc](#misc)
 
 ---
+
+## Astro
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## C
 
@@ -471,7 +476,7 @@ A collection of awesome things.
 - [Jeroen-G/laravel-packager](https://github.com/Jeroen-G/laravel-packager) - A cli tool for creating Laravel packages
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - Map nested JSON structures to PHP classes
 - [L5Modular/L5Modular](https://github.com/L5Modular/L5Modular) - Generates and handles Modules for Laravel
-- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for non-project managers. Designed to help you manage your projects from ideation to delivery.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Objectivco/wordpress-simple-settings](https://github.com/Objectivco/wordpress-simple-settings) - A minimalist framework for managing WordPress plugin or theme settings. 
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
@@ -861,7 +866,6 @@ A collection of awesome things.
 - [joethei/obsidian-plantuml](https://github.com/joethei/obsidian-plantuml) - Generate PlantUML Diagrams inside Obsidian.md
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
 - [jsonmaur/namor](https://github.com/jsonmaur/namor) - A domain-safe name generator
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [kbravh/obsidian-tweet-to-markdown](https://github.com/kbravh/obsidian-tweet-to-markdown) - An Obsidian.md plugin to save tweets as Markdown files.
 - [kepano/obsidian-hider](https://github.com/kepano/obsidian-hider) - Hide Obsidian UI elements such as tooltips, status, titlebar and more
 - [kometenstaub/metadata-extractor](https://github.com/kometenstaub/metadata-extractor) - Obsidian Plugin that provides metadata export for use with third-party apps.
