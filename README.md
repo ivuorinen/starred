@@ -276,6 +276,7 @@ A collection of awesome things.
 - [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - [andreassolberg/jso](https://github.com/andreassolberg/jso) - Easy to use OAuth 2.0 javascript library for use in your javascript application.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [arielsalminen/responsive-nav.js](https://github.com/arielsalminen/responsive-nav.js) - Responsive navigation plugin without library dependencies and with fast touch screen support.
 - [artberri/sidr](https://github.com/artberri/sidr) - Sidr is a jQuery plugin for creating side menus and the easiest way for doing your menu responsive. 
 - [asbjornenge/websocketd.js](https://github.com/asbjornenge/websocketd.js) - :zap: Turn any application that uses STDIN/STDOUT into a WebSocket server.js
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
@@ -406,7 +407,6 @@ A collection of awesome things.
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-- [viljamis/responsive-nav.js](https://github.com/viljamis/responsive-nav.js) - Responsive navigation plugin without library dependencies and with fast touch screen support.
 - [vue-generators/vue-form-generator](https://github.com/vue-generators/vue-form-generator) - :clipboard: A schema-based form generator component for Vue.js
 - [vuejs/vue-router](https://github.com/vuejs/vue-router) - 🚦 The official router for Vue 2
 - [wavesplatform/curve25519-js](https://github.com/wavesplatform/curve25519-js) - Curve25519 Javascript Implementation
