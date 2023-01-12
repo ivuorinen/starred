@@ -443,6 +443,7 @@ A collection of awesome things.
 
 ## Objective-C
 
+- [fitztrev/shuttle](https://github.com/fitztrev/shuttle) - A simple shortcut menu for macOS
 - [lanayotech/vagrant-manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for OS X
 
 ## PHP
