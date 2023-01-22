@@ -867,7 +867,7 @@ A collection of awesome things.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [joethei/obsidian-plantuml](https://github.com/joethei/obsidian-plantuml) - Generate PlantUML Diagrams inside Obsidian.md
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
-- [jsonmaur/namor.js](https://github.com/jsonmaur/namor.js) - A domain-safe name generator
+- [jsonmaur/namor.js](https://github.com/jsonmaur/namor.js) - A subdomain-safe name generator
 - [kbravh/obsidian-tweet-to-markdown](https://github.com/kbravh/obsidian-tweet-to-markdown) - An Obsidian.md plugin to save tweets as Markdown files.
 - [kepano/obsidian-hider](https://github.com/kepano/obsidian-hider) - Hide Obsidian UI elements such as tooltips, status, titlebar and more
 - [kometenstaub/metadata-extractor](https://github.com/kometenstaub/metadata-extractor) - Obsidian Plugin that provides metadata export for use with third-party apps.
