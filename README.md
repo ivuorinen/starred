@@ -343,6 +343,7 @@ A collection of awesome things.
 - [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [kimmobrunfeldt/progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Responsive and slick progress bars 
 - [kiskolabs/progressify](https://github.com/kiskolabs/progressify) - A simple progress bar plugin for jQuery
+- [kleinfreund/vue-accessible-color-picker](https://github.com/kleinfreund/vue-accessible-color-picker) - A color picker component for Vue.js 3.
 - [kswedberg/jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll) - Automatically make same-page links scroll smoothly
 - [leskhq/Laravel-Enterprise-Starter-Kit](https://github.com/leskhq/Laravel-Enterprise-Starter-Kit) - 👔 Enterprise Web application starter kit or template using Laravel
 - [littlstar/s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
@@ -949,6 +950,7 @@ A collection of awesome things.
 - [rakk7/vue-bootstrap-toasts](https://github.com/rakk7/vue-bootstrap-toasts) - Bootstrap 4 toasts with vue
 - [ricktbaker/opshell](https://github.com/ricktbaker/opshell) - An electron app to assist with managing AWS instances across multiple organizations
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
 
 ## Zig
 
