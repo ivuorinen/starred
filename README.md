@@ -391,6 +391,7 @@ A collection of awesome things.
 - [simonexmachina/factory-girl](https://github.com/simonexmachina/factory-girl) - A factory library for node.js and the browser inspired by factory_girl
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [snovakovic/js-flock](https://github.com/snovakovic/js-flock) - Collection of neat modular utilities for bumping up development in NODE and Browser
+- [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [springernature/dustmite](https://github.com/springernature/dustmite) - A linter for DustJS templates
 - [staskjs/vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor) - Interceptor that ties a progressbar to all requests, that it is clear that something is loading
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
