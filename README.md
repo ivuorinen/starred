@@ -327,7 +327,6 @@ A collection of awesome things.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) -  :books: Books everyone should read!
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [hazim-j/zeroqueue](https://github.com/hazim-j/zeroqueue) - ⏰ A low-code queue management system ⏰
-- [heelhook/chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
 - [hjar/aws-lambda-commander](https://github.com/hjar/aws-lambda-commander) - AWS Lambda functions for sending shell commands to Auto Scaling Groups or single instances.
 - [humanmade/hm-gutenberg-tools](https://github.com/humanmade/hm-gutenberg-tools) - Useful helpers, components or tools for building things with Gutenberg
 - [hyperform/hyperform](https://github.com/hyperform/hyperform) - Capture form validation back from the browser
@@ -373,6 +372,7 @@ A collection of awesome things.
 - [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
+- [pablof7z/chardin.js](https://github.com/pablof7z/chardin.js) - Simple overlay instructions for your apps.
 - [pagekit/vue-form](https://github.com/pagekit/vue-form) - Form plugin for Vue.js
 - [partkeepr/PartKeepr](https://github.com/partkeepr/PartKeepr) - Open Source Inventory Management
 - [peachananr/onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
