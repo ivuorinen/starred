@@ -848,7 +848,7 @@ A collection of awesome things.
 - [swoodford/raspberrypi](https://github.com/swoodford/raspberrypi) - Raspberry Pi
 - [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) - A set of PHP Docker images
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
-- [ville6000/dotfiles](https://github.com/ville6000/dotfiles) - 
+- [ville6000/dotfiles](https://github.com/ville6000/dotfiles) - My dotfiles
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 
