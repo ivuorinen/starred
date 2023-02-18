@@ -447,6 +447,7 @@ A collection of awesome things.
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Neovim plugin for Obsidian, written in Lua
+- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete' 
 - [jay-babu/mason-null-ls.nvim](https://github.com/jay-babu/mason-null-ls.nvim) - 
@@ -938,8 +939,10 @@ A collection of awesome things.
 - [posva/vue-reactive-refs](https://github.com/posva/vue-reactive-refs) - Make $refs reactive so they can be used in computed properties and watchers
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
+- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shufo/blade-formatter](https://github.com/shufo/blade-formatter) - An opinionated blade template formatter for Laravel that respects readability
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [supercharge/promise-pool](https://github.com/supercharge/promise-pool) - Map-like, concurrent promise processing
