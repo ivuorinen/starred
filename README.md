@@ -590,7 +590,6 @@ A collection of awesome things.
 - [jonathantorres/construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator for PDS compliant projects or micro-packages.
 - [joppuyo/disable-drop-cap-v2](https://github.com/joppuyo/disable-drop-cap-v2) - A plugin to disable the drop cap option in Gutenberg editor paragraph block. This is version 2.
 - [jpfuentes2/php-activerecord](https://github.com/jpfuentes2/php-activerecord) - ActiveRecord implementation for PHP
-- [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [kilroyweb/email-verification](https://github.com/kilroyweb/email-verification) - Laravel User Email Verification Support
 - [kilroyweb/homeboy](https://github.com/kilroyweb/homeboy) - Homestead site manager for quickly adding projects to your homestead vagrant and host file
 - [kimmelsg/cj-google-geocoder](https://github.com/kimmelsg/cj-google-geocoder) - 
@@ -640,6 +639,7 @@ A collection of awesome things.
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - PHPStan rules for detecting usage of deprecated classes, methods, properties, constants and traits.
+- [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [pixelpeter/laravel5-isocodes-validation](https://github.com/pixelpeter/laravel5-isocodes-validation) - Laravel 5 wrapper for the IsoCodes Validation library from ronanguilloux
 - [proengsoft/laravel-jsvalidation](https://github.com/proengsoft/laravel-jsvalidation) - Laravel Javascript Validation
 - [psecio/parse](https://github.com/psecio/parse) - Parse: A Static Security Scanner
@@ -680,7 +680,7 @@ A collection of awesome things.
 - [staudenmeir/eloquent-json-relations](https://github.com/staudenmeir/eloquent-json-relations) - Laravel Eloquent relationships with JSON keys
 - [stephenjude/extended-artisan-commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
 - [superhelio/commands](https://github.com/superhelio/commands) - This is a collection of Laravel Artisan commands created to help everyone in their development work.
-- [symplify/rule-doc-generator](https://github.com/symplify/rule-doc-generator) - [READ-ONLY] Documentation generator for coding standard or static analysis rules"
+- [symplify/rule-doc-generator](https://github.com/symplify/rule-doc-generator) - Documentation generator for coding standard or static analysis rules"
 - [tebru/retrofit-php](https://github.com/tebru/retrofit-php) - Retrofit implementation in PHP.  A REST client for PHP.
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
 - [topclaudy/compoships](https://github.com/topclaudy/compoships) - Multi-columns relationships for Laravel's Eloquent ORM
@@ -723,6 +723,7 @@ A collection of awesome things.
 - [Owen-Cochell/mctools](https://github.com/Owen-Cochell/mctools) - Minecraft Connection Tools - Python implementations of common Minecraft protocols.
 - [RCS101/IV3_lib](https://github.com/RCS101/IV3_lib) - Arduino library for IV3 clock
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+- [akx/gha-tools](https://github.com/akx/gha-tools) - Tools for working with GitHub Actions
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
