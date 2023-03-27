@@ -156,6 +156,7 @@ A collection of awesome things.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [andyfeller/gh-dependency-report](https://github.com/andyfeller/gh-dependency-report) - GitHub CLI extension for generating a report on repository dependencies.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [augmentable-dev/gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -188,6 +189,7 @@ A collection of awesome things.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 📦 CLI tool for directly patching container images using reports from vulnerability scanners
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [rhysd/changelog-from-release](https://github.com/rhysd/changelog-from-release) - Simple changelog generator via GitHub releases
 - [rsese/gh-actions-status](https://github.com/rsese/gh-actions-status) - 
@@ -408,6 +410,7 @@ A collection of awesome things.
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager 
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [tomimick/mapcolorizer](https://github.com/tomimick/mapcolorizer) - Interactive choropleth Javascript map using Leaflet. Includes GeoJSON data for Finland municipalities.
+- [tungs/timesnap](https://github.com/tungs/timesnap) - Node.js program that takes screenshots at smooth intervals of web pages with JavaScript animations
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [ujjwalguptaofficial/JsStore](https://github.com/ujjwalguptaofficial/JsStore) - A complete IndexedDB wrapper with SQL like syntax.
 - [ujjwalguptaofficial/idbstudio](https://github.com/ujjwalguptaofficial/idbstudio) - idbstudio is a management tools for indexeddb library  jsstore. It helps users to execute , debug and learn jsstore query.
