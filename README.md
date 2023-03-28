@@ -803,6 +803,7 @@ A collection of awesome things.
 
 ## SCSS
 
+- [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS) - A complete guide to 3DS custom firmware, from stock to boot9strap.
 - [jaszhix/NoMansConnect](https://github.com/jaszhix/NoMansConnect) - A location manager for No Man's Sky.
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
