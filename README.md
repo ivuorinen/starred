@@ -151,6 +151,7 @@ A collection of awesome things.
 - [Scrin/ruuvi-go-gateway](https://github.com/Scrin/ruuvi-go-gateway) - Software replica of the Ruuvi Gateway
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [aertje/cloud-tasks-emulator](https://github.com/aertje/cloud-tasks-emulator) - Google cloud tasks emulator
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers. 
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -159,6 +160,7 @@ A collection of awesome things.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [augmentable-dev/gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
