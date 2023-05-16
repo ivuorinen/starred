@@ -784,6 +784,7 @@ A collection of awesome things.
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
 - [johnjones4/Doomsday-Machine](https://github.com/johnjones4/Doomsday-Machine) - Doomsday Machine is a tool for backing up cloud services to a local machine.
 - [kimchi-project/wok](https://github.com/kimchi-project/wok) - A cherrypy framework for multi-purpose plug-ins
+- [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [meet86/configuration-readme](https://github.com/meet86/configuration-readme) - Configurations relevant to DevOps 
