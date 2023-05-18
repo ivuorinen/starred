@@ -982,6 +982,7 @@ A collection of awesome things.
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
@@ -1006,7 +1007,6 @@ A collection of awesome things.
 - [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
-- [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) - For data quality enthousiasts (and dataview lovers): manage the metadata of your notes.
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
