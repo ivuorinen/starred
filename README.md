@@ -149,6 +149,7 @@ A collection of awesome things.
 
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [Scrin/RuuviBridge](https://github.com/Scrin/RuuviBridge) - Utility to "bridge" RuuviTag data between various sources and consumers
 - [Scrin/ruuvi-go-gateway](https://github.com/Scrin/ruuvi-go-gateway) - Software replica of the Ruuvi Gateway
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
