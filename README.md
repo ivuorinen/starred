@@ -539,6 +539,7 @@ A collection of awesome things.
 - [FloeDesignTechnologies/phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator) - An administrative interface package for Laravel
+- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator) - API and Admin Panel CRUD Generator for Laravel.
 - [JBZoo/Composer-Graph](https://github.com/JBZoo/Composer-Graph) - Dependency graph visualization for composer.json (PHP + Composer) based on mermaid-js
 - [JacobBennett/StripeTestToken](https://github.com/JacobBennett/StripeTestToken) - Use this to quickly generate Stripe test tokens for successful or exceptional responses from Stripe.
@@ -725,7 +726,7 @@ A collection of awesome things.
 - [versionable/Ferret](https://github.com/versionable/Ferret) - Mime detection library
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [vinkla/laravel-backup](https://github.com/vinkla/laravel-backup) - A easy-to-use backup manager for Laravel
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [wardrobecms/wardrobe-archived](https://github.com/wardrobecms/wardrobe-archived) - A minimal blogging application
 - [webpatser/laravel-countries](https://github.com/webpatser/laravel-countries) - Laravel Countries is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries.
@@ -834,7 +835,6 @@ A collection of awesome things.
 ## Rust
 
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [Hasnayeen/larks](https://github.com/Hasnayeen/larks) - https://github.com/Hasnayeen/goodwork
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
@@ -990,6 +990,7 @@ A collection of awesome things.
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [duetds/date-picker](https://github.com/duetds/date-picker) - Duet Date Picker is an open source version of Duet Design System’s accessible date picker. Try live example at https://duetds.github.io/date-picker/
 - [dunklesToast/DockerKit](https://github.com/dunklesToast/DockerKit) - Control your Docker Containers with HomeKit
+- [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
