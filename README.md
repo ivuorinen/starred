@@ -523,6 +523,7 @@ A collection of awesome things.
 
 ## Objective-C
 
+- [charlieroberts/midiStroke](https://github.com/charlieroberts/midiStroke) - MIDI to Keystroke Macro convertor for OS X
 - [fitztrev/shuttle](https://github.com/fitztrev/shuttle) - A simple shortcut menu for macOS
 - [lanayotech/vagrant-manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for OS X
 
