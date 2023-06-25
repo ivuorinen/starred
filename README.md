@@ -982,6 +982,7 @@ A collection of awesome things.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. 
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+- [Seraphli/obsidian-link-embed](https://github.com/Seraphli/obsidian-link-embed) - This plugin allow you to convert URLs in your notes into embeded previews.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
 - [WesSouza/calendar-base](https://github.com/WesSouza/calendar-base) - Base methods for generating calendars using JavaScript.
