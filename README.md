@@ -302,7 +302,7 @@ A collection of awesome things.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing 
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) - Github Action that generates a changelog with the Conventional Changelog CLI
 - [VizuaaLOG/BulmaJS](https://github.com/VizuaaLOG/BulmaJS) - Unofficial javascript extension to the awesome Bulma CSS framework.
 - [aaronlumsden/progression.js](https://github.com/aaronlumsden/progression.js) - A jQuery plugin that gives users real time hints & progress updates as they complete forms
@@ -1077,6 +1077,7 @@ A collection of awesome things.
 - [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [uphy/obsidian-reminder](https://github.com/uphy/obsidian-reminder) - Reminder plugin for Obsidian
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
