@@ -219,7 +219,6 @@ A collection of awesome things.
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
 - [traefik/traefik-migration-tool](https://github.com/traefik/traefik-migration-tool) - A migration tool from Traefik v1 to Traefik v2.
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [vilmibm/gh-oblique](https://github.com/vilmibm/gh-oblique) - a gh extension that prints out an oblique strategy
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
