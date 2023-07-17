@@ -3,6 +3,7 @@
 A collection of awesome things.
 
 - [Awk](#awk)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -51,6 +52,10 @@ A collection of awesome things.
 ## Awk
 
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
+
+## Blade
+
+- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 
 ## C
 
@@ -552,7 +557,6 @@ A collection of awesome things.
 - [FloeDesignTechnologies/phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator) - An administrative interface package for Laravel
-- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator) - API and Admin Panel CRUD Generator for Laravel.
 - [JBZoo/Composer-Graph](https://github.com/JBZoo/Composer-Graph) - Dependency graph visualization for composer.json (PHP + Composer) based on mermaid-js
 - [JacobBennett/StripeTestToken](https://github.com/JacobBennett/StripeTestToken) - Use this to quickly generate Stripe test tokens for successful or exceptional responses from Stripe.
