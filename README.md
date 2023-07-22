@@ -326,6 +326,7 @@ A collection of awesome things.
 - [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [bholloway/resolve-url-loader](https://github.com/bholloway/resolve-url-loader) - Webpack loader that resolves relative paths in url() statements based on the original source file
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [blasten/turn.js](https://github.com/blasten/turn.js) - The page flip effect for HTML5
 - [bradstewart/electron-boilerplate-vue](https://github.com/bradstewart/electron-boilerplate-vue) - Boilerplate application for Electron runtime
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
@@ -334,7 +335,7 @@ A collection of awesome things.
 - [brutusin/json-forms](https://github.com/brutusin/json-forms) - JSON Schema to HTML form generator, supporting dynamic subschemas (on the fly resolution). Extensible and customizable library with zero dependencies. Bootstrap add-ons provided 
 - [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [chancejs/chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript
-- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
+- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow with dozens of features for controlling your Obsidian vault.
 - [clu3/bootstro.js](https://github.com/clu3/bootstro.js) - Tiny JS library using bootstrap's popovers to help guide your users around your website
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [creotip/vue-particles](https://github.com/creotip/vue-particles) - Vue.js component for particles backgrounds ✨
