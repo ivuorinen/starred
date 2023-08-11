@@ -554,7 +554,7 @@ A collection of awesome things.
 - [BeAPI/bea-content-sync-fusion](https://github.com/BeAPI/bea-content-sync-fusion) - Synchronize contents across your Multisite. 
 - [BenConstable/laravel-localize-middleware](https://github.com/BenConstable/laravel-localize-middleware) - Configurable localization middleware for your Laravel &gt;=5.1 application
 - [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [City-of-Helsinki/wp-linkedevents](https://github.com/City-of-Helsinki/wp-linkedevents) - 
 - [ConsoleTVs/Bootpack](https://github.com/ConsoleTVs/Bootpack) - Laravel 5 package bootstraper.
 - [Crinsane/LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) - A simple shopping cart implementation for Laravel
