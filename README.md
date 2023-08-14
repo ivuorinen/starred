@@ -554,7 +554,6 @@ A collection of awesome things.
 - [BeAPI/bea-content-sync-fusion](https://github.com/BeAPI/bea-content-sync-fusion) - Synchronize contents across your Multisite. 
 - [BenConstable/laravel-localize-middleware](https://github.com/BenConstable/laravel-localize-middleware) - Configurable localization middleware for your Laravel &gt;=5.1 application
 - [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [City-of-Helsinki/wp-linkedevents](https://github.com/City-of-Helsinki/wp-linkedevents) - 
 - [ConsoleTVs/Bootpack](https://github.com/ConsoleTVs/Bootpack) - Laravel 5 package bootstraper.
 - [Crinsane/LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) - A simple shopping cart implementation for Laravel
@@ -610,6 +609,7 @@ A collection of awesome things.
 - [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
 - [brezzhnev/atlassian-connect-core](https://github.com/brezzhnev/atlassian-connect-core) - [Laravel 5.5+] The easiest way to create an add-on for the JIRA and Confluence
 - [browner12/reauthenticate](https://github.com/browner12/reauthenticate) - force user to reauthenticate on higher security pages
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [cmgmyr/laravel-messenger](https://github.com/cmgmyr/laravel-messenger) - Simple user messaging package for Laravel
 - [codebjorn/mjolnir](https://github.com/codebjorn/mjolnir) - WordPress Utility Framework
