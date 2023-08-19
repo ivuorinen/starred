@@ -963,7 +963,7 @@ A collection of awesome things.
 - [qrush/sub](https://github.com/qrush/sub) - a delicious way to organize programs
 - [reviewdog/action-shellcheck](https://github.com/reviewdog/action-shellcheck) - Run shellcheck with reviewdog
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS 
-- [rickstaa/tmux-notify](https://github.com/rickstaa/tmux-notify) - Tmux plugin to notify you when processes complete
+- [rickstaa/tmux-notify](https://github.com/rickstaa/tmux-notify) - Tmux plugin to notify you when processes are finished.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
