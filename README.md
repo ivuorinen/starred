@@ -23,6 +23,7 @@ A collection of awesome things.
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Nunjucks](#nunjucks)
@@ -257,7 +258,6 @@ A collection of awesome things.
 - [codota/tabnine-nvim](https://github.com/codota/tabnine-nvim) - Tabnine Client for Neovim
 - [davist11/jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav) - Smooth scrolling and smart navigation when user scrolls on one-page sites.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
@@ -491,6 +491,10 @@ A collection of awesome things.
 
 - [elastic/examples](https://github.com/elastic/examples) - Home for Elasticsearch examples available to everyone. It's a great way to get started.
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos 
+
+## Just
+
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 
 ## Lua
 
