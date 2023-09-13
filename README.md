@@ -1055,6 +1055,7 @@ A collection of awesome things.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. 
@@ -1101,7 +1102,6 @@ A collection of awesome things.
 - [posva/vue-reactive-refs](https://github.com/posva/vue-reactive-refs) - Make $refs reactive so they can be used in computed properties and watchers
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
-- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
