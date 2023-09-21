@@ -297,7 +297,6 @@ A collection of awesome things.
 - [Justineo/vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [LulumiProject/lulumi-browser](https://github.com/LulumiProject/lulumi-browser) - Lulumi-browser is a lightweight browser coded with Vue.js 2 and Electron.
-- [Magic-wei/obsidian_wiki_template](https://github.com/Magic-wei/obsidian_wiki_template) - A personal wiki or note-taking system template based on Obsidian.
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [PMSI-AlignAlytics/dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
 - [Polychart/polychart2](https://github.com/Polychart/polychart2) - Version 2 of Polychart.js
@@ -562,7 +561,7 @@ A collection of awesome things.
 - [ConsoleTVs/Bootpack](https://github.com/ConsoleTVs/Bootpack) - Laravel 5 package bootstraper.
 - [Crinsane/LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) - A simple shopping cart implementation for Laravel
 - [DarkGhostHunter/Larapass](https://github.com/DarkGhostHunter/Larapass) - Authenticate users with just their device, fingerprint or biometric data. Goodbye passwords!
-- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
+- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [Dev7studios/chip](https://github.com/Dev7studios/chip) - A drop-in subscription billing UI for Laravel
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) - [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
 - [DivineOmega/cachet.php](https://github.com/DivineOmega/cachet.php) - 📛 PHP client library for the Cachet API
@@ -614,7 +613,7 @@ A collection of awesome things.
 - [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
 - [brezzhnev/atlassian-connect-core](https://github.com/brezzhnev/atlassian-connect-core) - [Laravel 5.5+] The easiest way to create an add-on for the JIRA and Confluence
 - [browner12/reauthenticate](https://github.com/browner12/reauthenticate) - force user to reauthenticate on higher security pages
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [cmgmyr/laravel-messenger](https://github.com/cmgmyr/laravel-messenger) - Simple user messaging package for Laravel
 - [codebjorn/mjolnir](https://github.com/codebjorn/mjolnir) - WordPress Utility Framework
@@ -915,6 +914,7 @@ A collection of awesome things.
 ## Shell
 
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
+- [Magic-wei/obsidian_wiki_template](https://github.com/Magic-wei/obsidian_wiki_template) - A personal wiki or note-taking system template based on Obsidian.
 - [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
 - [Sparragus/zsh-auto-nvm-use](https://github.com/Sparragus/zsh-auto-nvm-use) - Automatically runs `nvm use` with the node version specified in .nvmrc
