@@ -179,7 +179,7 @@ A collection of awesome things.
 - [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of K8s Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀 
 - [dotzero/git-profile](https://github.com/dotzero/git-profile) - ↔️ Git Profile allows you to switch between multiple user profiles in git repositories
@@ -335,6 +335,7 @@ A collection of awesome things.
 - [brockpetrie/vue-moment](https://github.com/brockpetrie/vue-moment) - Handy Moment.js filters for your Vue.js project.
 - [brutusin/json-forms](https://github.com/brutusin/json-forms) - JSON Schema to HTML form generator, supporting dynamic subschemas (on the fly resolution). Extensible and customizable library with zero dependencies. Bootstrap add-ons provided 
 - [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
+- [btholt/complete-intro-to-react-v8](https://github.com/btholt/complete-intro-to-react-v8) - The Complete Intro to React, as taught by Brian Holt on Frontend Masters
 - [chancejs/chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript
 - [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow with dozens of features for controlling your Obsidian vault.
 - [clu3/bootstro.js](https://github.com/clu3/bootstro.js) - Tiny JS library using bootstrap's popovers to help guide your users around your website
