@@ -856,6 +856,7 @@ A collection of awesome things.
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) - Github action for pruning old GHCR container image versions.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [tabatkins/railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) - :steam_locomotive: A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port!
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
@@ -1012,6 +1013,7 @@ A collection of awesome things.
 
 ## Swift
 
+- [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click. 
 - [flipperdevices/Flipper-iOS-App](https://github.com/flipperdevices/Flipper-iOS-App) - iOS Mobile App to rule all Flipper's family
 - [insidegui/PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
 - [jcm93/jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer
