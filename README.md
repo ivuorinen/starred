@@ -134,6 +134,7 @@ A collection of awesome things.
 
 - [IonBazan/composer-diff-action](https://github.com/IonBazan/composer-diff-action) - Compare composer.lock files and generate human-readable list of package changes
 - [adamculp/php-code-quality](https://github.com/adamculp/php-code-quality) - Docker image containing multiple code quality tools for PHP (phpqatools and more).
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [datasets/geo-countries](https://github.com/datasets/geo-countries) - Country polygons as GeoJSON in a datapackage
 - [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
 - [kfkawalec/gitlab-ci-laravel-php](https://github.com/kfkawalec/gitlab-ci-laravel-php) - 
@@ -934,7 +935,6 @@ A collection of awesome things.
 - [VildMedPap/gh-orgstats](https://github.com/VildMedPap/gh-orgstats) - Organisation specific extension for gh cli to retrieve different statistics
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [andyfeller/gh-montage](https://github.com/andyfeller/gh-montage) - GitHub CLI extension to generate montage from GitHub user avatars
 - [andyfeller/gh-ssh-allowed-signers](https://github.com/andyfeller/gh-ssh-allowed-signers) - GitHub CLI extension to generate SSH allowed signers file for SSH signing
 - [anishathalye/dotfiles](https://github.com/anishathalye/dotfiles) - ~anish • powered by https://github.com/anishathalye/dotbot 💾
@@ -1017,6 +1017,7 @@ A collection of awesome things.
 
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click. 
 - [flipperdevices/Flipper-iOS-App](https://github.com/flipperdevices/Flipper-iOS-App) - iOS Mobile App to rule all Flipper's family
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [insidegui/PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
 - [jcm93/jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar 
