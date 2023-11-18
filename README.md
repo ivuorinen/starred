@@ -16,7 +16,6 @@ A collection of awesome things.
 - [Fennel](#fennel)
 - [Go](#go)
 - [Groovy](#groovy)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Janet](#janet)
 - [Java](#java)
@@ -239,10 +238,6 @@ A collection of awesome things.
 ## Groovy
 
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-
-## HCL
-
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 
 ## HTML
 
@@ -984,6 +979,7 @@ A collection of awesome things.
 - [ntnn/docker-imapfilter](https://github.com/ntnn/docker-imapfilter) - Docker image to run imapfilter as a daemon with configs from git
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [orderedlist/dotfiles](https://github.com/orderedlist/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [pieterlange/kube-backup](https://github.com/pieterlange/kube-backup) - :floppy_disk: Kubernetes resource state sync to git
@@ -1212,6 +1208,7 @@ A collection of awesome things.
 - [LodestoneHQ/lodestone](https://github.com/LodestoneHQ/lodestone) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use)
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
+- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
