@@ -133,7 +133,6 @@ A collection of awesome things.
 
 - [IonBazan/composer-diff-action](https://github.com/IonBazan/composer-diff-action) - Compare composer.lock files and generate human-readable list of package changes
 - [adamculp/php-code-quality](https://github.com/adamculp/php-code-quality) - Docker image containing multiple code quality tools for PHP (phpqatools and more).
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [datasets/geo-countries](https://github.com/datasets/geo-countries) - Country polygons as GeoJSON in a datapackage
 - [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
 - [kfkawalec/gitlab-ci-laravel-php](https://github.com/kfkawalec/gitlab-ci-laravel-php) - 
@@ -192,7 +191,7 @@ A collection of awesome things.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [hectcastro/gh-metrics](https://github.com/hectcastro/gh-metrics) - A GitHub CLI extension that provides summary pull request metrics.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) - A Telegram downloader/tools written in Golang
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. 
 - [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
@@ -508,8 +507,8 @@ A collection of awesome things.
 - [chrisgrieser/nvim-genghis](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations for neovim, written in lua. 
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
-- [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Neovim plugin for Obsidian, written in Lua
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -933,6 +932,7 @@ A collection of awesome things.
 - [VildMedPap/gh-orgstats](https://github.com/VildMedPap/gh-orgstats) - Organisation specific extension for gh cli to retrieve different statistics
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [andyfeller/gh-montage](https://github.com/andyfeller/gh-montage) - GitHub CLI extension to generate montage from GitHub user avatars
 - [andyfeller/gh-ssh-allowed-signers](https://github.com/andyfeller/gh-ssh-allowed-signers) - GitHub CLI extension to generate SSH allowed signers file for SSH signing
 - [anishathalye/dotfiles](https://github.com/anishathalye/dotfiles) - ~anish • powered by https://github.com/anishathalye/dotbot 💾
@@ -1103,7 +1103,7 @@ A collection of awesome things.
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) - For data quality enthousiasts (and dataview lovers): manage the metadata of your notes.
+- [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) - For data management enthousiasts : type and manage the metadata of your notes.
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [mgmeyers/obsidian-contextual-typography](https://github.com/mgmeyers/obsidian-contextual-typography) - 
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
