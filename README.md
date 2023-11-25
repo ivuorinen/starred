@@ -134,7 +134,6 @@ A collection of awesome things.
 
 - [IonBazan/composer-diff-action](https://github.com/IonBazan/composer-diff-action) - Compare composer.lock files and generate human-readable list of package changes
 - [adamculp/php-code-quality](https://github.com/adamculp/php-code-quality) - Docker image containing multiple code quality tools for PHP (phpqatools and more).
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [datasets/geo-countries](https://github.com/datasets/geo-countries) - Country polygons as GeoJSON in a datapackage
 - [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
 - [kfkawalec/gitlab-ci-laravel-php](https://github.com/kfkawalec/gitlab-ci-laravel-php) - 
@@ -933,6 +932,7 @@ A collection of awesome things.
 - [VildMedPap/gh-orgstats](https://github.com/VildMedPap/gh-orgstats) - Organisation specific extension for gh cli to retrieve different statistics
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [andyfeller/gh-montage](https://github.com/andyfeller/gh-montage) - GitHub CLI extension to generate montage from GitHub user avatars
 - [andyfeller/gh-ssh-allowed-signers](https://github.com/andyfeller/gh-ssh-allowed-signers) - GitHub CLI extension to generate SSH allowed signers file for SSH signing
 - [anishathalye/dotfiles](https://github.com/anishathalye/dotfiles) - ~anish • powered by https://github.com/anishathalye/dotbot 💾
@@ -1023,7 +1023,7 @@ A collection of awesome things.
 - [macadmins/nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [nicoverbruggen/phpmon](https://github.com/nicoverbruggen/phpmon) - Lightweight, native Mac menu bar app that helps you manage multiple PHP installations, locate config files and more. Also interacts with Laravel Valet.
-- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Big Sur and later
+- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Monterey and later.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 
