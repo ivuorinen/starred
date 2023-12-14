@@ -463,7 +463,6 @@ A collection of awesome things.
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [ujjwalguptaofficial/JsStore](https://github.com/ujjwalguptaofficial/JsStore) - A complete IndexedDB wrapper with SQL like syntax.
 - [ujjwalguptaofficial/idbstudio](https://github.com/ujjwalguptaofficial/idbstudio) - idbstudio is a management tools for indexeddb library  jsstore. It helps users to execute , debug and learn jsstore query.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [uxsolutions/bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - A datepicker for twitter bootstrap (@twbs)
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
@@ -842,6 +841,7 @@ A collection of awesome things.
 - [murphypetercl/ansible-mdgen](https://github.com/murphypetercl/ansible-mdgen) - Python package to automate documentation generation for Ansible
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
 - [notkmhn/obyde](https://github.com/notkmhn/obyde) - A minimal tool to convert a "standardly" configured Obsidian vault to a Jekyll or Hugo blog.
+- [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [pypa/gh-action-pip-audit](https://github.com/pypa/gh-action-pip-audit) - A GitHub Action for pip-audit
@@ -1153,6 +1153,7 @@ A collection of awesome things.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [uphy/obsidian-reminder](https://github.com/uphy/obsidian-reminder) - Reminder plugin for Obsidian
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
