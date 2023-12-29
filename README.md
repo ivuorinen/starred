@@ -730,6 +730,7 @@ A collection of awesome things.
 - [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
 - [rchouinard/phpass](https://github.com/rchouinard/phpass) - PHP Password Library: Easy, secure password management for PHP
 - [rdlowrey/auryn](https://github.com/rdlowrey/auryn) - IoC Dependency Injector
+- [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [romanzipp/DTO](https://github.com/romanzipp/DTO) - A strongly typed Data Transfer Object without magic for PHP 8
 - [ronanguilloux/IsoCodes](https://github.com/ronanguilloux/IsoCodes) - PHP library - Validators for standards from ISO, International Finance, Public Administrations, GS1, Manufacturing Industry, Phone numbers & Zipcodes for many countries
 - [rvolz/BicBucStriim](https://github.com/rvolz/BicBucStriim) - BicBucStriim streams books, digital books. It fills a gap in the functionality of current NAS devices that provide access to music, videos and photos -- but not books. BicBucStriim fills this gap and provides web-based access to your e-book collection.
