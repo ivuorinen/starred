@@ -313,7 +313,7 @@ A collection of awesome things.
 - [Justineo/vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [LulumiProject/lulumi-browser](https://github.com/LulumiProject/lulumi-browser) - Lulumi-browser is a lightweight browser coded with Vue.js 2 and Electron.
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [PMSI-AlignAlytics/dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
 - [Polychart/polychart2](https://github.com/Polychart/polychart2) - Version 2 of Polychart.js
 - [Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos) - A quick capture plugin for Obsidian, all data from your notes.
