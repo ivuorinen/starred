@@ -654,7 +654,7 @@ A collection of awesome things.
 - [dryphp/openpgp.php](https://github.com/dryphp/openpgp.php) - OpenPGP.php is a pure-PHP implementation of the OpenPGP Message Format (RFC 4880).
 - [dwightwatson/validating](https://github.com/dwightwatson/validating) - Automatically validating Eloquent models for Laravel
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
+- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
 - [ethanhann/Laravel-RediSearch](https://github.com/ethanhann/Laravel-RediSearch) - Laravel integration for RediSearch
 - [eventum/eventum](https://github.com/eventum/eventum) - Eventum Issue Tracking System
 - [fiskhandlarn/blade](https://github.com/fiskhandlarn/blade) - :runner: A library for using Laravel Blade templates in WordPlate.
