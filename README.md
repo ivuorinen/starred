@@ -1007,6 +1007,7 @@ A collection of awesome things.
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
+- [soyuka/tmux-current-pane-hostname](https://github.com/soyuka/tmux-current-pane-hostname) - Tmux plugin that enables displaying hostname and user of the current pane in your status bar.
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [superhelio/tools](https://github.com/superhelio/tools) - ❤  Collection of tools!
