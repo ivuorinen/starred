@@ -506,7 +506,7 @@ A collection of awesome things.
 
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
-- [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments using boxes and lines.
+- [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [anuvyklack/fold-preview.nvim](https://github.com/anuvyklack/fold-preview.nvim) - Preview folds in float window 
 - [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization in Neovim
