@@ -1004,7 +1004,7 @@ A collection of awesome things.
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
 - [soyuka/tmux-current-pane-hostname](https://github.com/soyuka/tmux-current-pane-hostname) - Tmux plugin that enables displaying hostname and user of the current pane in your status bar.
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [superhelio/tools](https://github.com/superhelio/tools) - ❤  Collection of tools!
 - [swoodford/raspberrypi](https://github.com/swoodford/raspberrypi) - Raspberry Pi
@@ -1165,7 +1165,7 @@ A collection of awesome things.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [uphy/obsidian-reminder](https://github.com/uphy/obsidian-reminder) - Reminder plugin for Obsidian
