@@ -381,6 +381,7 @@ A collection of awesome things.
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) -  :books: Find your next book to read!
+- [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS) - A complete guide to 3DS custom firmware, from stock to boot9strap.
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [hazim-j/zeroqueue](https://github.com/hazim-j/zeroqueue) - ⏰ A low-code queue management system ⏰
 - [hjar/aws-lambda-commander](https://github.com/hjar/aws-lambda-commander) - AWS Lambda functions for sending shell commands to Auto Scaling Groups or single instances.
@@ -919,7 +920,6 @@ A collection of awesome things.
 
 ## SCSS
 
-- [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS) - A complete guide to 3DS custom firmware, from stock to boot9strap.
 - [jaszhix/NoMansConnect](https://github.com/jaszhix/NoMansConnect) - A location manager for No Man's Sky.
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
@@ -1240,7 +1240,7 @@ A collection of awesome things.
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - Calm and clean dark theme for Home Assistant
-- [TodePond/DreamBerd---e-acc](https://github.com/TodePond/DreamBerd---e-acc) - perfect programming language
+- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
