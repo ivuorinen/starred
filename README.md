@@ -238,6 +238,7 @@ A collection of awesome things.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [traefik/traefik-migration-tool](https://github.com/traefik/traefik-migration-tool) - A migration tool from Traefik v1 to Traefik v2
 - [vilmibm/gh-oblique](https://github.com/vilmibm/gh-oblique) - a gh extension that prints out an oblique strategy
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
@@ -588,7 +589,7 @@ A collection of awesome things.
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - Map nested JSON structures to PHP classes
 - [L5Modular/L5Modular](https://github.com/L5Modular/L5Modular) - Generates and handles Modules for Laravel
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
+- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Objectivco/wordpress-simple-settings](https://github.com/Objectivco/wordpress-simple-settings) - A minimalist framework for managing WordPress plugin or theme settings. 
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - :lipstick: Durable and asynchronous data imports for consuming data at scale and publishing testable SDKs.
@@ -688,6 +689,7 @@ A collection of awesome things.
 - [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - The easy and reliable way to test WordPress with Codeception. 10 years of proven success.
 - [lukeraymonddowning/mula](https://github.com/lukeraymonddowning/mula) - A Laravel package that makes working with money in a secure manner a cinch!
+- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
 - [maknz/slack](https://github.com/maknz/slack) - A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.
 - [marekrei/encode-explorer](https://github.com/marekrei/encode-explorer) - 
 - [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
