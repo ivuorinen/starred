@@ -25,6 +25,7 @@ A collection of awesome things.
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
 - [Lua](#lua)
+- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [PHP](#php)
@@ -558,6 +559,10 @@ A collection of awesome things.
 - [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim) - Remove all background colors to make nvim transparent
 - [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
 
+## Nix
+
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+
 ## Nunjucks
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
@@ -977,7 +982,6 @@ A collection of awesome things.
 - [dimo414/bash-cache](https://github.com/dimo414/bash-cache) - Transparent caching layer for bash functions; particularly useful for functions invoked as part of your prompt.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port 
 - [dspinellis/pmonitor](https://github.com/dspinellis/pmonitor) - Progress monitor: monitor a job's progress
@@ -1072,6 +1076,7 @@ A collection of awesome things.
 - [Dilaz/Twitchbot](https://github.com/Dilaz/Twitchbot) - A simple Twitch moderator chatbot
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [Lissy93/cso](https://github.com/Lissy93/cso) - 🍩 Chief Snack Officer - A platform for requesting, voting and managing office snacks
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [LostPaul/obsidian-folder-notes](https://github.com/LostPaul/obsidian-folder-notes) - Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [Oliver-Akins/file-hider](https://github.com/Oliver-Akins/file-hider) - A plugin for https://obsidian.md that allows hiding specific files and folders from the file explorer.
@@ -1256,7 +1261,6 @@ A collection of awesome things.
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [LodestoneHQ/lodestone](https://github.com/LodestoneHQ/lodestone) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use)
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
