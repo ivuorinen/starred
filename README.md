@@ -90,7 +90,7 @@ A collection of awesome things.
 - [fourboards/TouchPad](https://github.com/fourboards/TouchPad) - TouchPad supporting files.
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
@@ -537,6 +537,7 @@ A collection of awesome things.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete' 
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities for Neovim
+- [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
 - [jay-babu/mason-null-ls.nvim](https://github.com/jay-babu/mason-null-ls.nvim) - 
 - [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) - This neovim plugin creates missing folders on save.
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -552,7 +553,6 @@ A collection of awesome things.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
-- [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
@@ -614,7 +614,6 @@ A collection of awesome things.
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [SpartnerNL/Laravel-Sidebar](https://github.com/SpartnerNL/Laravel-Sidebar) - A Laravel Sidebar builder
 - [Tucker-Eric/EloquentFilter](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships
-- [TypistTech/imposter-plugin](https://github.com/TypistTech/imposter-plugin) - Composer plugin that wraps all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 - [Webklex/php-imap](https://github.com/Webklex/php-imap) - PHP-IMAP is a wrapper for common IMAP communication without the need to have the php-imap module installed / enabled. The protocol is completely integrated and therefore supports IMAP IDLE operation and the "new" oAuth authentication process as well.
 - [WildsideUK/Laravel-Userstamps](https://github.com/WildsideUK/Laravel-Userstamps) - Laravel Userstamps provides an Eloquent trait which automatically maintains `created_by` and `updated_by` columns on your model, populated by the currently authenticated user in your application.
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
@@ -709,7 +708,7 @@ A collection of awesome things.
 - [maknz/slack](https://github.com/maknz/slack) - A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.
 - [marekrei/encode-explorer](https://github.com/marekrei/encode-explorer) - 
 - [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1.  And we love Pull Requests! 
 - [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) - This package allows you to easily work with UUIDs in your Laravel models
 - [midorikocak/nano](https://github.com/midorikocak/nano) - Nano is a very very tiny PHP library that allows you to create very fast rest APIs. Think it's like Slim but Nano is only ~6.4 Kilobytes.
 - [mikeerickson/laravel-craftsman](https://github.com/mikeerickson/laravel-craftsman) - Laravel Craftsman CLI for easily crafting Laravel assets for any project (artisan make on steroids)
@@ -788,6 +787,7 @@ A collection of awesome things.
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
 - [topclaudy/compoships](https://github.com/topclaudy/compoships) - Multi-columns relationships for Laravel's Eloquent ORM
 - [tylercd100/lern](https://github.com/tylercd100/lern) - LERN is a Laravel 5 package that will record exceptions into a database and will notify you via Email, Pushover or Slack.
+- [typisttech/imposter-plugin](https://github.com/typisttech/imposter-plugin) - Composer plugin that wraps all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 - [versionable/Ferret](https://github.com/versionable/Ferret) - Mime detection library
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [vinkla/laravel-backup](https://github.com/vinkla/laravel-backup) - A easy-to-use backup manager for Laravel
@@ -1151,7 +1151,7 @@ A collection of awesome things.
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [linjunpop/obsidian-gist](https://github.com/linjunpop/obsidian-gist) - 📒 Gist View for Obsidian(https://obsidian.md)
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama application.
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
