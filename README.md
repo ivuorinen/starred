@@ -318,6 +318,7 @@ A collection of awesome things.
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
 - [Helmisek/conventional-changelog-generator](https://github.com/Helmisek/conventional-changelog-generator) - Generate a changelog based on the conventional commit history for the latest tag.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 - [Hotzilla/ruuvicollector-to-homeassistant-mqtt](https://github.com/Hotzilla/ruuvicollector-to-homeassistant-mqtt) - RuuviTag to HomeAssistant MQTT with auto-discovery
 - [HumbleSoftware/envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization
 - [JPeer264/node-semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - A CLI for semantic git commits
@@ -971,6 +972,7 @@ A collection of awesome things.
 
 ## Shell
 
+- [Bad3r/progress-and-loading-bash](https://github.com/Bad3r/progress-and-loading-bash) - display progress bars and loading animations using Bash
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
 - [Magic-wei/obsidian_wiki_template](https://github.com/Magic-wei/obsidian_wiki_template) - A personal wiki or note-taking system template based on Obsidian.
 - [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire.
