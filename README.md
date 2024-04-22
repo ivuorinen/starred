@@ -318,7 +318,7 @@ A collection of awesome things.
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
 - [Helmisek/conventional-changelog-generator](https://github.com/Helmisek/conventional-changelog-generator) - Generate a changelog based on the conventional commit history for the latest tag.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [Hotzilla/ruuvicollector-to-homeassistant-mqtt](https://github.com/Hotzilla/ruuvicollector-to-homeassistant-mqtt) - RuuviTag to HomeAssistant MQTT with auto-discovery
 - [HumbleSoftware/envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization
 - [JPeer264/node-semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - A CLI for semantic git commits
