@@ -307,7 +307,7 @@ A collection of awesome things.
 
 ## Java
 
-- [CloudNetService/CloudNet-v3](https://github.com/CloudNetService/CloudNet-v3) - A modern application that can dynamically and easily deliver Minecraft oriented software
+- [CloudNetService/CloudNet](https://github.com/CloudNetService/CloudNet) - A modern application that can dynamically and easily deliver Minecraft oriented software
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 
 ## JavaScript
