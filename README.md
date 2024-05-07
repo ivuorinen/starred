@@ -76,6 +76,7 @@ A collection of awesome things.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 
 ## C#
 
@@ -898,6 +899,7 @@ A collection of awesome things.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [pypa/gh-action-pip-audit](https://github.com/pypa/gh-action-pip-audit) - A GitHub Action for pip-audit
 - [pypa/pipenv](https://github.com/pypa/pipenv) -  Python Development Workflow for Humans.
+- [r0oth3x49/acloud-dl](https://github.com/r0oth3x49/acloud-dl) - A cross-platform python based utility to download courses from acloud.guru for personal offline use.
 - [reviewboard/reviewboard](https://github.com/reviewboard/reviewboard) - An extensible and friendly code review tool for projects and companies of all sizes.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
