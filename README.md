@@ -626,6 +626,7 @@ A collection of awesome things.
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [SpartnerNL/Laravel-Sidebar](https://github.com/SpartnerNL/Laravel-Sidebar) - A Laravel Sidebar builder
 - [Tucker-Eric/EloquentFilter](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships
+- [Vinelab/NeoEloquent](https://github.com/Vinelab/NeoEloquent) - The Neo4j OGM for Laravel
 - [Webklex/php-imap](https://github.com/Webklex/php-imap) - PHP-IMAP is a wrapper for common IMAP communication without the need to have the php-imap module installed / enabled. The protocol is completely integrated and therefore supports IMAP IDLE operation and the "new" oAuth authentication process as well.
 - [WildsideUK/Laravel-Userstamps](https://github.com/WildsideUK/Laravel-Userstamps) - Laravel Userstamps provides an Eloquent trait which automatically maintains `created_by` and `updated_by` columns on your model, populated by the currently authenticated user in your application.
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
@@ -1014,7 +1015,7 @@ A collection of awesome things.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
-- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your active Raspberry
+- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup your Raspberry
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
