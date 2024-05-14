@@ -1303,7 +1303,7 @@ A collection of awesome things.
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - Calm and clean dark theme for Home Assistant
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time 
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
