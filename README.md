@@ -899,6 +899,7 @@ A collection of awesome things.
 - [notkmhn/obyde](https://github.com/notkmhn/obyde) - A minimal tool to convert a "standardly" configured Obsidian vault to a Jekyll or Hugo blog.
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [pypa/gh-action-pip-audit](https://github.com/pypa/gh-action-pip-audit) - A GitHub Action for pip-audit
 - [pypa/pipenv](https://github.com/pypa/pipenv) -  Python Development Workflow for Humans.
