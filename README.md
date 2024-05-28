@@ -202,6 +202,7 @@ A collection of awesome things.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀 
 - [dotzero/git-profile](https://github.com/dotzero/git-profile) - ↔️ Git Profile allows you to switch between multiple user profiles in git repositories
@@ -925,6 +926,7 @@ A collection of awesome things.
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [ttu/ruuvitag-sensor](https://github.com/ttu/ruuvitag-sensor) - Python package for communicating with RuuviTag BLE Sensor and for decoding sensor data from broadcasted data
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [warrior25/HA-Nysse](https://github.com/warrior25/HA-Nysse) - Home Assistant integration to fetch public transport data for Tampere, Finland
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [wren/dotbot-brew](https://github.com/wren/dotbot-brew) - Install brew packages using dotbot
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) - Entry point for issues and wiki. Also contains some scripts and sources.
@@ -1174,6 +1176,7 @@ A collection of awesome things.
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. 
 - [h3poteto/megalodon](https://github.com/h3poteto/megalodon) - Fediverse API client library for node.js and browser
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner) - An Obsidian plugin for day planning with a clean UI and a simple task format
