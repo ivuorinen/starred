@@ -1054,6 +1054,7 @@ A collection of awesome things.
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [matsubara0507/gh-wrap](https://github.com/matsubara0507/gh-wrap) - Collect your yearly GitHub all stats
 - [matt-bartel/gh-clone-org](https://github.com/matt-bartel/gh-clone-org) - A github-cli extension script to clone all repositories in an organization, optionally filtering by topic.
+- [mchestr/home-cluster](https://github.com/mchestr/home-cluster) - Cat-approved, 100% renewable, GMO-Free HomeLab k8s cluster managed via Flux2 & Renovate
 - [molovo/revolver](https://github.com/molovo/revolver) - A progress spinner for ZSH scripts
 - [mtdowling/chag](https://github.com/mtdowling/chag) - Use your changelog as the canonical source of change data. With pure Bash.
 - [nicholaswilde/home-cluster](https://github.com/nicholaswilde/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux2)
