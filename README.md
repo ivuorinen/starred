@@ -357,6 +357,7 @@ A collection of awesome things.
 - [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) - Github Action that generates a changelog with the Conventional Changelog CLI
 - [VizuaaLOG/BulmaJS](https://github.com/VizuaaLOG/BulmaJS) - Unofficial javascript extension to the awesome Bulma CSS framework.
 - [aaronlumsden/progression.js](https://github.com/aaronlumsden/progression.js) - A jQuery plugin that gives users real time hints & progress updates as they complete forms
+- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [addyosmani/basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading files with localStorage
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -1143,7 +1144,6 @@ A collection of awesome things.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
 - [WesSouza/calendar-base](https://github.com/WesSouza/calendar-base) - Base methods for generating calendars using JavaScript.
-- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [accessibility-fi/salvia](https://github.com/accessibility-fi/salvia) - 
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [alexandru-dinu/obsidian-sortable](https://github.com/alexandru-dinu/obsidian-sortable) - Table sorting plugin for https://obsidian.md
