@@ -568,6 +568,7 @@ A collection of awesome things.
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+- [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete' 
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities for Neovim
 - [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
@@ -1249,7 +1250,7 @@ A collection of awesome things.
 - [posva/vue-reactive-refs](https://github.com/posva/vue-reactive-refs) - Make $refs reactive so they can be used in computed properties and watchers
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
-- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud services with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr.
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
