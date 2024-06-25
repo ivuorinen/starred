@@ -357,7 +357,7 @@ A collection of awesome things.
 - [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) - Github Action that generates a changelog with the Conventional Changelog CLI
 - [VizuaaLOG/BulmaJS](https://github.com/VizuaaLOG/BulmaJS) - Unofficial javascript extension to the awesome Bulma CSS framework.
 - [aaronlumsden/progression.js](https://github.com/aaronlumsden/progression.js) - A jQuery plugin that gives users real time hints & progress updates as they complete forms
-- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
+- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [addyosmani/basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading files with localStorage
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -933,7 +933,6 @@ A collection of awesome things.
 - [shadowmoose/RedditDownloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [snok/container-retention-policy](https://github.com/snok/container-retention-policy) - Github action for pruning old GHCR container image versions.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [testing V7] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
@@ -988,6 +987,7 @@ A collection of awesome things.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [sandydoo/flux](https://github.com/sandydoo/flux) - An open-source tribute to the macOS Drift screensaver
+- [snok/container-retention-policy](https://github.com/snok/container-retention-policy) - Github action for pruning old GHCR container image versions.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [turing-machines/tpi](https://github.com/turing-machines/tpi) - CLI tool to control your Turing Pi 2 board
