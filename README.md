@@ -400,6 +400,7 @@ A collection of awesome things.
 - [devgeniem/geniem-rules-stylelint](https://github.com/devgeniem/geniem-rules-stylelint) - Geniem Oy stylelint rules
 - [devgeniem/wp-pa11y](https://github.com/devgeniem/wp-pa11y) - wp-pa11y helps test sites by going through sitemaps and reports a11y problems
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
@@ -414,6 +415,7 @@ A collection of awesome things.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.
+- [github/safe-settings](https://github.com/github/safe-settings) - 
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -896,6 +898,7 @@ A collection of awesome things.
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
+- [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [hmm/liigadata](https://github.com/hmm/liigadata) - Utility for parsing Finnish ice hockey league game data from liiga.fi website
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -1027,6 +1030,8 @@ A collection of awesome things.
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [anishathalye/dotfiles](https://github.com/anishathalye/dotfiles) - ~anish • powered by https://github.com/anishathalye/dotbot 💾
 - [anishathalye/dotfiles-local](https://github.com/anishathalye/dotfiles-local) - ~anish [local config] • powered by https://github.com/anishathalye/dotbot 🏠
+- [asdf-community/asdf-plugin-manager](https://github.com/asdf-community/asdf-plugin-manager) - A plugin manager for the asdf version manager
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [bderenzo/tinymotd](https://github.com/bderenzo/tinymotd) - Tiny dynamic motd generator (system, disks, network, ...)
@@ -1393,6 +1398,7 @@ A collection of awesome things.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
+- [marcologous/Open-Sauce-Fonts](https://github.com/marcologous/Open-Sauce-Fonts) - Open Sauce Fonts is a font super family that I developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce fonts (Sans, One and Two) are under the SIL Open Font License and is going to be actively developed, improved and tested.
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [matkaan/home-assistant-fingrid-api](https://github.com/matkaan/home-assistant-fingrid-api) - Fingrid API RESTfull sensor examples for home assistant
