@@ -508,6 +508,7 @@ A collection of awesome things.
 - [rvera/image-picker](https://github.com/rvera/image-picker) - Image Picker is a simple jQuery plugin that transforms a select element into a more user friendly graphical interface.
 - [ryanseddon/H5F](https://github.com/ryanseddon/H5F) - Deprecated, please use hyperform instead https://github.com/hyperform/hyperform
 - [ryersondmp/sa11y](https://github.com/ryersondmp/sa11y) - Sa11y is an accessibility quality assurance tool that visually highlights common accessibility and usability issues. Geared towards content authors, Sa11y straightforwardly identifies errors or warnings at the source with a simple tooltip on how to fix them.
+- [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [scottjehl/Respond](https://github.com/scottjehl/Respond) - A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
 - [shhdgit/vue-easy-slider](https://github.com/shhdgit/vue-easy-slider) - Slider Component of Vue.js.
