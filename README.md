@@ -499,6 +499,7 @@ A collection of awesome things.
 - [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
 - [pablof7z/chardin.js](https://github.com/pablof7z/chardin.js) - Simple overlay instructions for your apps.
 - [pagekit/vue-form](https://github.com/pagekit/vue-form) - Form plugin for Vue.js
+- [pakastin/nomoji](https://github.com/pakastin/nomoji) - Replace emojis in text with SVG images
 - [partkeepr/PartKeepr](https://github.com/partkeepr/PartKeepr) - Open Source Inventory Management
 - [peachananr/onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
 - [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
