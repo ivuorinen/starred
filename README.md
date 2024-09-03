@@ -243,6 +243,7 @@ A collection of awesome things.
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [kinvolk/lokomotive](https://github.com/kinvolk/lokomotive) - 🪦 DISCONTINUED Further Lokomotive development has been discontinued. Lokomotive is a 100% open-source, easy to use and secure Kubernetes distribution from the volks at Kinvolk
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
+- [kubernetes-sigs/node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [laytan/phpls](https://github.com/laytan/phpls) - Incomplete/abandoned PHP language server written in Go.
@@ -525,6 +526,7 @@ A collection of awesome things.
 - [shutterstock/rickshaw](https://github.com/shutterstock/rickshaw) -  JavaScript toolkit for creating interactive real-time graphs
 - [simonexmachina/factory-girl](https://github.com/simonexmachina/factory-girl) - A factory library for node.js and the browser inspired by factory_girl
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
+- [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
 - [snovakovic/js-flock](https://github.com/snovakovic/js-flock) - Collection of neat modular utilities for bumping up development in NODE and Browser
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). 
@@ -1080,6 +1082,7 @@ A collection of awesome things.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [bderenzo/tinymotd](https://github.com/bderenzo/tinymotd) - Tiny dynamic motd generator (system, disks, network, ...)
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [bntzio/wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
@@ -1224,6 +1227,7 @@ A collection of awesome things.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [balena-io-experimental/balena-sound](https://github.com/balena-io-experimental/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
+- [bendews/apw](https://github.com/bendews/apw) - A CLI for Apple Passwords (also known as iCloud Keychain®)
 - [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [bwsw/cloudstack-ui](https://github.com/bwsw/cloudstack-ui) - Modern UI for Apache Cloudstack User Self Service Portal
@@ -1346,7 +1350,7 @@ A collection of awesome things.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch
-- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [wesleyscholl/github-action-base-ts](https://github.com/wesleyscholl/github-action-base-ts) - A Typescript GitHub Action Starter Repo 🚀 ▶️
