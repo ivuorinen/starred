@@ -933,6 +933,7 @@ A collection of awesome things.
 - [coddingtonbear/inthe.am](https://github.com/coddingtonbear/inthe.am) - Access your Taskwarrior tasks from any browser anywhere
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies go above and beyond for Hacktoberfest, and this repo tries to list them all.
+- [darrikonn/td-cli](https://github.com/darrikonn/td-cli) - A todo command line todo manager ✔️
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [dbeley/reddit_export_userdata](https://github.com/dbeley/reddit_export_userdata) - Export userdata from your reddit accounts. Submissions, comments, saved, upvoted contents are supported.
 - [deadc0de6/catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data
