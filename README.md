@@ -975,6 +975,8 @@ A collection of awesome things.
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [pypa/gh-action-pip-audit](https://github.com/pypa/gh-action-pip-audit) - A GitHub Action for pip-audit
@@ -1488,6 +1490,7 @@ A collection of awesome things.
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [pre-commit/action](https://github.com/pre-commit/action) - a GitHub action to run `pre-commit`
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
