@@ -954,6 +954,7 @@ A collection of awesome things.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) -  A Telegram bot to download TikTok videos without any watermark.
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - Calm and clean dark theme for Home Assistant
 - [Wytamma/write-the](https://github.com/Wytamma/write-the) - AI-powered Documentation and Test Generation Tool
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [akx/gha-tools](https://github.com/akx/gha-tools) - Tools for working with GitHub Actions
@@ -1475,7 +1476,6 @@ A collection of awesome things.
 - [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [TheBeachLab/selfhosted](https://github.com/TheBeachLab/selfhosted) - This is the story of how I am slowly becoming free
-- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - Calm and clean dark theme for Home Assistant
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time 
