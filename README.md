@@ -21,6 +21,7 @@ A collection of awesome things.
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
+- [JSON](#json)
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -28,6 +29,7 @@ A collection of awesome things.
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
 - [Lua](#lua)
+- [Markdown](#markdown)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -338,6 +340,10 @@ A collection of awesome things.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [taitems/iOS-Overlay](https://github.com/taitems/iOS-Overlay) -  iOS Overlay/Notification Plugin for the Web!
 - [uncss/grunt-uncss](https://github.com/uncss/grunt-uncss) - :scissors: A grunt task for removing unused CSS from your projects.
+
+## JSON
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Janet
 
@@ -664,6 +670,10 @@ A collection of awesome things.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim) - Remove all background colors to make nvim transparent
 - [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
+
+## Markdown
+
+- [ivuorinen/uptime](https://github.com/ivuorinen/uptime) - Public uptime checker for some of my sites
 
 ## Nix
 
