@@ -960,7 +960,7 @@ A collection of awesome things.
 
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [ArchiveBox/pydantic-pkgr](https://github.com/ArchiveBox/pydantic-pkgr) - A modern Python library for managing system dependencies with package managers like apt, brew, pip, npm, etc.
+- [ArchiveBox/pydantic-pkgr](https://github.com/ArchiveBox/pydantic-pkgr) - 📦 Modern Python library for managing system dependencies with package managers like apt, brew, pip, npm, etc.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [CyFI-Lab-Public/YODA](https://github.com/CyFI-Lab-Public/YODA) - 
@@ -1401,7 +1401,7 @@ A collection of awesome things.
 - [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 - [mharj/synologyjs](https://github.com/mharj/synologyjs) - Synology md info and check action via node-ssh module
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
-- [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+- [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -1475,6 +1475,7 @@ A collection of awesome things.
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
