@@ -1006,7 +1006,7 @@ A collection of awesome things.
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [elliotweiser/ansible-osx-command-line-tools](https://github.com/elliotweiser/ansible-osx-command-line-tools) - An Ansible role for installing OS X Command Line Tools
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - RSS + Mastodon feed reader
 - [fawkesley/inboxbot](https://github.com/fawkesley/inboxbot) - Organise your email inbox with rules from a YAML file
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
