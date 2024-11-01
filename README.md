@@ -1521,7 +1521,6 @@ A collection of awesome things.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [LodestoneHQ/lodestone](https://github.com/LodestoneHQ/lodestone) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use)
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
