@@ -1555,7 +1555,7 @@ A collection of awesome things.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [dkarter/tpi-cluster-ansible-playbook](https://github.com/dkarter/tpi-cluster-ansible-playbook) - ⚓️ Turing Pi 2 Cluster Management Playbooks
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-- [domschl/WinSteamOnMac](https://github.com/domschl/WinSteamOnMac) - Run the Windows version of Steam on macOS Sonoma with Apple's Game Porting Toolkit
+- [domschl/WinSteamOnMac](https://github.com/domschl/WinSteamOnMac) - Run the Windows version of Steam on macOS Sonoma or Sequoia with Apple's Game Porting Toolkit
 - [drwpow/awesome-oss-fonts](https://github.com/drwpow/awesome-oss-fonts) - A collection of quality open-source fonts (mostly not on Google Fonts)
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
