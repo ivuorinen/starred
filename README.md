@@ -982,7 +982,7 @@ A collection of awesome things.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) -  A Telegram bot to download TikTok videos without any watermark.
-- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - Calm and clean dark theme for Home Assistant
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean dark theme for Home Assistant
 - [Wytamma/write-the](https://github.com/Wytamma/write-the) - AI-powered Documentation and Test Generation Tool
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [akx/gha-tools](https://github.com/akx/gha-tools) - Tools for working with GitHub Actions
