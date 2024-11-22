@@ -859,7 +859,7 @@ A collection of awesome things.
 - [mindtwo/wplang](https://github.com/mindtwo/wplang) - Composer plugin to download translation files from wordpress.org
 - [minwork/array](https://github.com/minwork/array) - Pack of advanced PHP array functions
 - [mpociot/laravel-test-factory-helper](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models
-- [mpociot/teamwork](https://github.com/mpociot/teamwork) - User to Team associations with invitation system for the Laravel 5 Framework
+- [mpociot/teamwork](https://github.com/mpociot/teamwork) - User to Team associations with invitation system for the Laravel Framework
 - [mtdowling/cron-expression](https://github.com/mtdowling/cron-expression) - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
 - [mtownsend5512/progress](https://github.com/mtownsend5512/progress) - A PHP package to determine steps and progress.
 - [munusphp/munus](https://github.com/munusphp/munus) - Power of object-oriented programming with the elegance of functional programming in PHP.
@@ -1209,6 +1209,7 @@ A collection of awesome things.
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Create and keep multiple backup versions of your running Raspberries
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
+- [getantidote/use-omz](https://github.com/getantidote/use-omz) - A plugin to make using Oh-My-Zsh with antidote seamless
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [gigamonkey/monorepoize](https://github.com/gigamonkey/monorepoize) - Bash scripts for creating a monorepo out of smaller repos.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
