@@ -978,6 +978,7 @@ A collection of awesome things.
 - [ArchiveBox/abx-pkg](https://github.com/ArchiveBox/abx-pkg) - 📦 Modern strongly typed Python library for managing system dependencies with package managers like apt, brew, pip, npm, etc.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
+- [Cisco-Talos/cvdupdate](https://github.com/Cisco-Talos/cvdupdate) - ClamAV Private Database Mirror Updater Tool
 - [CyFI-Lab-Public/YODA](https://github.com/CyFI-Lab-Public/YODA) - 
 - [DanielBatteryStapler/daniel-authenticator](https://github.com/DanielBatteryStapler/daniel-authenticator) - LDAP server for home-server authencatication
 - [Firenza/ExportImportSlackEmoji](https://github.com/Firenza/ExportImportSlackEmoji) - A python script to export emoji from one slack org and import them into another
@@ -1111,7 +1112,7 @@ A collection of awesome things.
 - [nhoizey/jekyll-postfiles](https://github.com/nhoizey/jekyll-postfiles) - A Jekyll plugin that copies static files from the _posts to the _site folder
 - [philnash/jekyll-mastodon_webfinger](https://github.com/philnash/jekyll-mastodon_webfinger) - A Jekyll plugin that adds a WebFinger file to your site, allowing you to use your own domain to help others discover your Mastodon profile.
 - [scttnlsn/dandelion](https://github.com/scttnlsn/dandelion) - Incremental Git repository deployment.
-- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.4 is built nightly.
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
 
 ## Rust
