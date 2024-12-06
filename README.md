@@ -1141,6 +1141,7 @@ A collection of awesome things.
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [sandydoo/flux](https://github.com/sandydoo/flux) - An open-source tribute to the macOS Drift screensaver
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) - GitHub action for pruning old GHCR container image versions.
