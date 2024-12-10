@@ -78,6 +78,7 @@ A collection of awesome things.
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
+- [brettdottech/info-orbs](https://github.com/brettdottech/info-orbs) - An open source desk widget using affordable TFT displays and an ESP32 (:
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
@@ -102,7 +103,6 @@ A collection of awesome things.
 ## C++
 
 - [ComodoSecurity/openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
-- [brettdottech/info-orbs](https://github.com/brettdottech/info-orbs) - An open source desk widget using affordable TFT displays and an ESP32 (:
 - [fourboards/TouchPad](https://github.com/fourboards/TouchPad) - TouchPad supporting files.
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
