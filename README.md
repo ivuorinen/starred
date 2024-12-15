@@ -196,6 +196,7 @@ A collection of awesome things.
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [Scrin/RuuviBridge](https://github.com/Scrin/RuuviBridge) - Utility to "bridge" RuuviTag data between various sources and consumers
 - [Scrin/ruuvi-go-gateway](https://github.com/Scrin/ruuvi-go-gateway) - Software replica of the Ruuvi Gateway
@@ -358,6 +359,7 @@ A collection of awesome things.
 - [maciej-gurban/responsive-bootstrap-toolkit](https://github.com/maciej-gurban/responsive-bootstrap-toolkit) - Responsive Bootstrap Toolkit allows for easy breakpoint detection in JavaScript
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from. 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [taitems/iOS-Overlay](https://github.com/taitems/iOS-Overlay) -  iOS Overlay/Notification Plugin for the Web!
 - [uncss/grunt-uncss](https://github.com/uncss/grunt-uncss) - :scissors: A grunt task for removing unused CSS from your projects.
@@ -1067,6 +1069,7 @@ A collection of awesome things.
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [murphypetercl/ansible-mdgen](https://github.com/murphypetercl/ansible-mdgen) - Python package to automate documentation generation for Ansible
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
