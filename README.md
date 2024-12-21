@@ -362,6 +362,7 @@ A collection of awesome things.
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from. 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [taitems/iOS-Overlay](https://github.com/taitems/iOS-Overlay) -  iOS Overlay/Notification Plugin for the Web!
 - [uncss/grunt-uncss](https://github.com/uncss/grunt-uncss) - :scissors: A grunt task for removing unused CSS from your projects.
 
@@ -989,6 +990,7 @@ A collection of awesome things.
 
 ## PowerShell
 
+- [DonKoning/megaLinter](https://github.com/DonKoning/megaLinter) - Achieve Code Consistency: Mega-Linter Integration in Azure DevOps
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization
@@ -1028,6 +1030,7 @@ A collection of awesome things.
 - [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme. 
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [bergercookie/syncall](https://github.com/bergercookie/syncall) - Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
@@ -1316,6 +1319,7 @@ A collection of awesome things.
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
+- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG. 
 - [wrmilling/homelab-infrastructure](https://github.com/wrmilling/homelab-infrastructure) - A Definition of my Homelab Infrastructure 
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
