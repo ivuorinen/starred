@@ -103,6 +103,7 @@ A collection of awesome things.
 ## C++
 
 - [ComodoSecurity/openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [fourboards/TouchPad](https://github.com/fourboards/TouchPad) - TouchPad supporting files.
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
