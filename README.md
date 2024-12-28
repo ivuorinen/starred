@@ -95,6 +95,7 @@ A collection of awesome things.
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
 - [TumblThreeApp/TumblThree](https://github.com/TumblThreeApp/TumblThree) - A Tumblr and Twitter Blog Backup Application
 - [belav/csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
+- [dotnet/cli-lab](https://github.com/dotnet/cli-lab) - A guided tool will be provided to enable the controlled clean up of a system such that only the desired versions of the Runtime and SDKs remain.
 - [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -201,6 +202,7 @@ A collection of awesome things.
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
+- [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go
 - [Scrin/RuuviBridge](https://github.com/Scrin/RuuviBridge) - Utility to "bridge" RuuviTag data between various sources and consumers
 - [Scrin/ruuvi-go-gateway](https://github.com/Scrin/ruuvi-go-gateway) - Software replica of the Ruuvi Gateway
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
@@ -928,6 +930,7 @@ A collection of awesome things.
 - [ronanguilloux/IsoCodes](https://github.com/ronanguilloux/IsoCodes) - PHP library - Validators for standards from ISO, International Finance, Public Administrations, GS1, Manufacturing Industry, Phone numbers & Zipcodes for many countries
 - [rvolz/BicBucStriim](https://github.com/rvolz/BicBucStriim) - BicBucStriim streams books, digital books. It fills a gap in the functionality of current NAS devices that provide access to music, videos and photos -- but not books. BicBucStriim fills this gap and provides web-based access to your e-book collection.
 - [ryanwinchester/kwiki](https://github.com/ryanwinchester/kwiki) - markdown wiki/blog
+- [sabre-io/vobject](https://github.com/sabre-io/vobject) -  :date: The VObject library for PHP allows you to easily parse and manipulate iCalendar and vCard objects
 - [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
 - [sendgrid/sendgrid-php](https://github.com/sendgrid/sendgrid-php) - The Official Twilio SendGrid PHP API Library
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -1105,6 +1108,7 @@ A collection of awesome things.
 - [shadowmoose/RedditDownloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [sobolevn/dotbot-asdf](https://github.com/sobolevn/dotbot-asdf) - Install asdf plugins with dotbot
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
