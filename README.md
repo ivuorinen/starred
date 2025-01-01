@@ -218,6 +218,7 @@ A collection of awesome things.
 - [andyfeller/gh-dependency-report](https://github.com/andyfeller/gh-dependency-report) - GitHub CLI extension for generating a report on repository dependencies.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [augmentable-dev/gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -1230,7 +1231,6 @@ A collection of awesome things.
 - [anishathalye/dotfiles-local](https://github.com/anishathalye/dotfiles-local) - ~anish [local config] • powered by https://github.com/anishathalye/dotbot 🏠
 - [asdf-community/asdf-direnv](https://github.com/asdf-community/asdf-direnv) - direnv plugin for the asdf version manager
 - [asdf-community/asdf-plugin-manager](https://github.com/asdf-community/asdf-plugin-manager) - A plugin manager for the asdf version manager
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
