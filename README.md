@@ -405,7 +405,6 @@ A collection of awesome things.
 - [HumbleSoftware/envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization
 - [JPeer264/node-semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - A CLI for semantic git commits
 - [Justineo/vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
-- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [LulumiProject/lulumi-browser](https://github.com/LulumiProject/lulumi-browser) - Lulumi-browser is a lightweight browser coded with Vue.js 2 and Electron.
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [PMSI-AlignAlytics/dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
@@ -1374,6 +1373,7 @@ A collection of awesome things.
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [Kesin11/actions-timeline](https://github.com/Kesin11/actions-timeline) - An Action shows timeline of a workflow in a run summary.
+- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [Lissy93/cso](https://github.com/Lissy93/cso) - 🍩 Chief Snack Officer - A platform for requesting, voting and managing office snacks
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/readme-contribs](https://github.com/Lissy93/readme-contribs) - 💞  Simple embeddable contributor and sponsor widgets for your GitHub README 
