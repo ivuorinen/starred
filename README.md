@@ -1248,7 +1248,6 @@ A collection of awesome things.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
-- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port 
 - [dspinellis/pmonitor](https://github.com/dspinellis/pmonitor) - Progress monitor: monitor a job's progress
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
@@ -1315,6 +1314,7 @@ A collection of awesome things.
 - [superhelio/tools](https://github.com/superhelio/tools) - ❤  Collection of tools!
 - [swoodford/raspberrypi](https://github.com/swoodford/raspberrypi) - Raspberry Pi
 - [synacktiv/action-octoscan](https://github.com/synacktiv/action-octoscan) - 📦 :octocat: A GitHub Action that performs a security scan of your GitHub Actions.
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port 
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [timothystewart6/template-cluster-k3s](https://github.com/timothystewart6/template-cluster-k3s) - Highly opinionated template for deploying a single k3s cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
