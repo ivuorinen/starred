@@ -816,7 +816,7 @@ A collection of awesome things.
 - [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
 - [breart/atlassian-connect-core](https://github.com/breart/atlassian-connect-core) - [Laravel 5.5+] The easiest way to create an add-on for the JIRA and Confluence
 - [browner12/reauthenticate](https://github.com/browner12/reauthenticate) - force user to reauthenticate on higher security pages
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [cmgmyr/laravel-messenger](https://github.com/cmgmyr/laravel-messenger) - Simple user messaging package for Laravel
 - [codebjorn/mjolnir](https://github.com/codebjorn/mjolnir) - WordPress Utility Framework
@@ -965,7 +965,7 @@ A collection of awesome things.
 - [stephenjude/extended-artisan-commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
 - [superhelio/commands](https://github.com/superhelio/commands) - This is a collection of Laravel Artisan commands created to help everyone in their development work.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
-- [symplify/rule-doc-generator](https://github.com/symplify/rule-doc-generator) - Documentation generator for coding standard or static analysis rules"
+- [symplify/rule-doc-generator](https://github.com/symplify/rule-doc-generator) - [DEPRECATED] Documentation generator for coding standard or static analysis rules"
 - [tebru/retrofit-php](https://github.com/tebru/retrofit-php) - Retrofit implementation in PHP.  A REST client for PHP.
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
 - [topclaudy/compoships](https://github.com/topclaudy/compoships) - Multi-columns relationships for Laravel's Eloquent ORM
