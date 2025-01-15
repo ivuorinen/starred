@@ -552,7 +552,6 @@ A collection of awesome things.
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
 - [projectwallace/wallace-cli](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics on the CLI
 - [quant-eagle/conventional-changelog-generator](https://github.com/quant-eagle/conventional-changelog-generator) - Generate a changelog based on the conventional commit history for the latest tag.
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [ridhwaans/homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
@@ -649,6 +648,7 @@ A collection of awesome things.
 - [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim) - tmux integration for nvim features pane movement and resizing from within nvim.
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - 🛍 JSON schemas for Neovim
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
+- [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [chrisgrieser/cmp-nerdfont](https://github.com/chrisgrieser/cmp-nerdfont) - nvim-cmp source for nerdfont icons
 - [chrisgrieser/nvim-genghis](https://github.com/chrisgrieser/nvim-genghis) - Lightweight and quick file operations without being a full-blown file manager.
@@ -1348,6 +1348,7 @@ A collection of awesome things.
 
 ## Svelte
 
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift
