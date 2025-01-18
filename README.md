@@ -1050,6 +1050,7 @@ A collection of awesome things.
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies go above and beyond for Hacktoberfest, and this repo tries to list them all.
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [darrikonn/td-cli](https://github.com/darrikonn/td-cli) - A todo command line todo manager ✔️
 - [datasets/geo-countries](https://github.com/datasets/geo-countries) - Country polygons as GeoJSON in a datapackage
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
