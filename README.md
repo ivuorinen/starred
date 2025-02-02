@@ -1032,6 +1032,7 @@ A collection of awesome things.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [RCS101/IV3_lib](https://github.com/RCS101/IV3_lib) - Arduino library for IV3 clock
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) - Scan is a free & Open Source DevSecOps tool for performing static analysis based security testing of your applications and its dependencies. CI and Git friendly.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) -  A Telegram bot to download TikTok videos without any watermark.
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean theme for Home Assistant
@@ -1262,6 +1263,7 @@ A collection of awesome things.
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [cloudflare/semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 - [code-lever/asdf-rust](https://github.com/code-lever/asdf-rust) - Rust plugin for the asdf version manager
+- [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring.
 - [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches) - Safely deletes local branches with no upstream and no un-pushed commits
 - [devops-workflow/pre-commit-terraform](https://github.com/devops-workflow/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
 - [dimo414/bash-cache](https://github.com/dimo414/bash-cache) - Transparent caching layer for bash functions; particularly useful for functions invoked as part of your prompt.
