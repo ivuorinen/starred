@@ -458,7 +458,7 @@ A collection of awesome things.
 - [btholt/citr-v8-project](https://github.com/btholt/citr-v8-project) - Steps for the project for the Complete Intro to React v8 and Intermediate React v5
 - [btholt/complete-intro-to-react-v8](https://github.com/btholt/complete-intro-to-react-v8) - The Complete Intro to React, as taught by Brian Holt on Frontend Masters
 - [chancejs/chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript
-- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow with dozens of features for controlling your Obsidian vault.
+- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred workflow with dozens of features for controlling your Obsidian vault.
 - [clu3/bootstro.js](https://github.com/clu3/bootstro.js) - Tiny JS library using bootstrap's popovers to help guide your users around your website
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [creotip/vue-particles](https://github.com/creotip/vue-particles) - Vue.js component for particles backgrounds ✨
