@@ -228,6 +228,7 @@ A collection of awesome things.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) - boostsecurityio/poutine
+- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
@@ -875,6 +876,7 @@ A collection of awesome things.
 - [kilroyweb/email-verification](https://github.com/kilroyweb/email-verification) - Laravel User Email Verification Support
 - [kilroyweb/homeboy](https://github.com/kilroyweb/homeboy) - Homestead site manager for quickly adding projects to your homestead vagrant and host file
 - [kimmelsg/cj-google-geocoder](https://github.com/kimmelsg/cj-google-geocoder) - 
+- [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
 - [kirkbushell/eloquence](https://github.com/kirkbushell/eloquence) - A drop-in library for certain database functionality in Laravel, that allows for extra features that may never make it into the main project.
 - [kitetail/zttp](https://github.com/kitetail/zttp) - A developer-experience focused HTTP client, optimized for most common use cases.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
@@ -1558,6 +1560,7 @@ A collection of awesome things.
 - [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
 - [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
+- [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
