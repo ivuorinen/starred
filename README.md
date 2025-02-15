@@ -329,6 +329,7 @@ A collection of awesome things.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
+- [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [xarantolus/upduck](https://github.com/xarantolus/upduck) - simple web server that integrates with DuckDNS & Let's Encrypt
 
 ## Groovy
@@ -1295,11 +1296,14 @@ A collection of awesome things.
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [halostatue/fish-docker](https://github.com/halostatue/fish-docker) - Docker and Docker Compose completions for the Fish Shell
+- [halostatue/fish-macos](https://github.com/halostatue/fish-macos) - MacOS functions for Fish
 - [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
 - [hassio-addons/bashio](https://github.com/hassio-addons/bashio) - Bashio - Home Assistant Community Add-ons
 - [hjar/bitbucket-to-aws](https://github.com/hjar/bitbucket-to-aws) - How to deploy a Laravel app from Bitbucket to autoscaled instances at AWS.
 - [holman/spark](https://github.com/holman/spark) -  ▁▂▃▅▂▇ in your shell.
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
+- [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
+- [jgusta/paths](https://github.com/jgusta/paths) - Program file locator plugin for Fish
 - [jirutka/esh](https://github.com/jirutka/esh) - Simple templating engine based on shell.
 - [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
