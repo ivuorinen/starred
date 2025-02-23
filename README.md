@@ -804,7 +804,6 @@ A collection of awesome things.
 - [Tucker-Eric/EloquentFilter](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships
 - [Vinelab/NeoEloquent](https://github.com/Vinelab/NeoEloquent) - The Neo4j OGM for Laravel
 - [Webklex/php-imap](https://github.com/Webklex/php-imap) - PHP-IMAP is a wrapper for common IMAP communication without the need to have the php-imap module installed / enabled. The protocol is completely integrated and therefore supports IMAP IDLE operation and the "new" oAuth authentication process as well.
-- [WildsideUK/Laravel-Userstamps](https://github.com/WildsideUK/Laravel-Userstamps) - Laravel Userstamps provides an Eloquent trait which automatically maintains `created_by` and `updated_by` columns on your model, populated by the currently authenticated user in your application.
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [aaemnnosttv/silk](https://github.com/aaemnnosttv/silk) - A modern API for WordPress.
 - [adbario/php-dot-notation](https://github.com/adbario/php-dot-notation) - Dot notation access to PHP arrays
@@ -902,6 +901,7 @@ A collection of awesome things.
 - [marekrei/encode-explorer](https://github.com/marekrei/encode-explorer) - 
 - [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1.  And we love Pull Requests! 
+- [mattiverse/Laravel-Userstamps](https://github.com/mattiverse/Laravel-Userstamps) - Laravel Userstamps provides an Eloquent trait which automatically maintains `created_by` and `updated_by` columns on your model, populated by the currently authenticated user in your application.
 - [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) - This package allows you to easily work with UUIDs in your Laravel models
 - [midorikocak/nano](https://github.com/midorikocak/nano) - Nano is a very very tiny PHP library that allows you to create very fast rest APIs. Think it's like Slim but Nano is only ~6.4 Kilobytes.
 - [mikeerickson/laravel-craftsman](https://github.com/mikeerickson/laravel-craftsman) - Laravel Craftsman CLI for easily crafting Laravel assets for any project (artisan make on steroids)
