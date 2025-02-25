@@ -4,6 +4,7 @@ A collection of awesome things.
 
 - [Astro](#astro)
 - [Awk](#awk)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -68,6 +69,10 @@ A collection of awesome things.
 ## Awk
 
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
+
+## Blade
+
+- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## C
 
@@ -888,7 +893,6 @@ A collection of awesome things.
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [laravel/jetstream](https://github.com/laravel/jetstream) - Tailwind scaffolding for the Laravel framework.
-- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) - Effective tree structures in Laravel 4-8
 - [liebig/cron](https://github.com/liebig/cron) - Job scheduling for Laravel
@@ -1364,6 +1368,7 @@ A collection of awesome things.
 - [wrmilling/homelab-infrastructure](https://github.com/wrmilling/homelab-infrastructure) - A Definition of my Homelab Infrastructure 
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
+- [yankeexe/git-worktree-switcher](https://github.com/yankeexe/git-worktree-switcher) - Switch between git worktrees with speed. :zap:
 - [yuki-yano/tms](https://github.com/yuki-yano/tms) - tmux session manager for fzf
 - [yunginnanet/sysvinit-service-generator](https://github.com/yunginnanet/sysvinit-service-generator) - SysVinit service generator
 - [zenxedo/k3s-gitops](https://github.com/zenxedo/k3s-gitops) - My home Kubernetes (k3s) cluster managed by GitOps (Flux2)
