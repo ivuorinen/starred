@@ -267,6 +267,7 @@ A collection of awesome things.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
@@ -498,7 +499,6 @@ A collection of awesome things.
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.
 - [github/safe-settings](https://github.com/github/safe-settings) - 
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
-- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
@@ -1063,6 +1063,7 @@ A collection of awesome things.
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [coddingtonbear/inthe.am](https://github.com/coddingtonbear/inthe.am) - Access your Taskwarrior tasks from any browser anywhere
