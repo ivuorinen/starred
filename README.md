@@ -1161,12 +1161,14 @@ A collection of awesome things.
 ## Roff
 
 - [LuRsT/hr](https://github.com/LuRsT/hr) -  A horizontal :straight_ruler: for your terminal
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby
 
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile) - 🍺 My list of packages to be installed on MacOS via Homebrew, for the ultimate dev setup
 - [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
+- [bachya/pinpress](https://github.com/bachya/pinpress) - A simple CLI to create text templates of Pinboard data.
 - [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - A Jekyll plugin to render a project's README as the site's index.
 - [d-ogarkov/jekyll-extlinks](https://github.com/d-ogarkov/jekyll-extlinks) - This Jekyll plugin adds custom attributes (rel="nofollow", target="_blank", etc.) to external links in your content.
 - [hahwul/jekyll-securitytxt](https://github.com/hahwul/jekyll-securitytxt) - Jekyll plugin for security.txt
@@ -1303,7 +1305,6 @@ A collection of awesome things.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [halostatue/fish-docker](https://github.com/halostatue/fish-docker) - Docker and Docker Compose completions for the Fish Shell
 - [halostatue/fish-macos](https://github.com/halostatue/fish-macos) - MacOS functions for Fish
-- [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
 - [hassio-addons/bashio](https://github.com/hassio-addons/bashio) - Bashio - Home Assistant Community Add-ons
 - [hjar/bitbucket-to-aws](https://github.com/hjar/bitbucket-to-aws) - How to deploy a Laravel app from Bitbucket to autoscaled instances at AWS.
 - [holman/spark](https://github.com/holman/spark) -  ▁▂▃▅▂▇ in your shell.
@@ -1532,6 +1533,7 @@ A collection of awesome things.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) - For data management enthusiasts : type and manage the metadata of your notes.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [mgmeyers/obsidian-contextual-typography](https://github.com/mgmeyers/obsidian-contextual-typography) - 
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
@@ -1653,6 +1655,7 @@ A collection of awesome things.
 
 ## YAML
 
+- [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 
