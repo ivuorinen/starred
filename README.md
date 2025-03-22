@@ -175,6 +175,7 @@ A collection of awesome things.
 
 - [IonBazan/composer-diff-action](https://github.com/IonBazan/composer-diff-action) - Compare composer.lock files and generate human-readable list of package changes
 - [adamculp/php-code-quality](https://github.com/adamculp/php-code-quality) - Docker image containing multiple code quality tools for PHP (phpqatools and more).
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [ivuorinen/docker-xmrig](https://github.com/ivuorinen/docker-xmrig) - This is a simple miner that uses the xmrig miner to mine Monero.
 - [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
 - [jrkalf/xmrig-kryptokrona](https://github.com/jrkalf/xmrig-kryptokrona) - Docker / Kubernetes builds xmrig for Kryptokrona coin
@@ -1059,7 +1060,6 @@ A collection of awesome things.
 - [ZeroQI/YouTube-Agent.bundle](https://github.com/ZeroQI/YouTube-Agent.bundle) - Plex Metadata Agent for Movies and TV Series libraries
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [akx/gha-tools](https://github.com/akx/gha-tools) - Tools for working with GitHub Actions
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
