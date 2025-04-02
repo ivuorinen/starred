@@ -564,6 +564,7 @@ A collection of awesome things.
 - [mpetazzoni/leaflet-gpx](https://github.com/mpetazzoni/leaflet-gpx) - A GPX track plugin for Leaflet.js
 - [neostandard/neostandard](https://github.com/neostandard/neostandard) - A spiritual successor to the standardjs javascript style guide
 - [njleonzhang/vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - A simple, customizable and pageable table with SSR support, based on vue2 and element-ui
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
 - [pablof7z/chardin.js](https://github.com/pablof7z/chardin.js) - Simple overlay instructions for your apps.
@@ -1211,6 +1212,7 @@ A collection of awesome things.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -1515,7 +1517,6 @@ A collection of awesome things.
 - [h3poteto/megalodon](https://github.com/h3poteto/megalodon) - Fediverse API client library for node.js and browser
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
-- [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
@@ -1535,6 +1536,7 @@ A collection of awesome things.
 - [kepano/obsidian-hider](https://github.com/kepano/obsidian-hider) - Hide Obsidian UI elements such as tooltips, status, titlebar and more
 - [kleinfreund/vue-accessible-color-picker](https://github.com/kleinfreund/vue-accessible-color-picker) - A color picker component for Vue.js 3.
 - [kometenstaub/metadata-extractor](https://github.com/kometenstaub/metadata-extractor) - Obsidian Plugin that provides metadata export for use with third-party apps.
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
