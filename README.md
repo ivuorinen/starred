@@ -346,6 +346,7 @@ A collection of awesome things.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [xarantolus/upduck](https://github.com/xarantolus/upduck) - simple web server that integrates with DuckDNS & Let's Encrypt
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 
 ## Groovy
 
