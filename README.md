@@ -637,6 +637,7 @@ A collection of awesome things.
 
 ## Jinja
 
+- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [hassio-addons/repository](https://github.com/hassio-addons/repository) - Home Assistant Community Add-ons
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [nodiscc/xsrv](https://github.com/nodiscc/xsrv) - [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities
@@ -1291,7 +1292,6 @@ A collection of awesome things.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [bats-core/bats-support](https://github.com/bats-core/bats-support) - Supporting library for Bats test helpers
 - [bderenzo/tinymotd](https://github.com/bderenzo/tinymotd) - Tiny dynamic motd generator (system, disks, network, ...)
-- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [bntzio/wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
 - [brettinternet/homeops](https://github.com/brettinternet/homeops) - devops resources in my self-hosted homelab
 - [cancng/fonts](https://github.com/cancng/fonts) - 
@@ -1467,7 +1467,7 @@ A collection of awesome things.
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 - [accessibility-fi/salvia](https://github.com/accessibility-fi/salvia) - 
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows 
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Workflow automation with 280+ MCP servers (MCP tools) • AI automation & workflow automation platform + hundreds of MCP servers for AI • [n8n alternative - MIT-licensed n8n]
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI agents & MCPs & workflow automation • (280+ MCP servers for AI agents) • AI automation with MCPs • No-code AI agents with MCPs • AI workflows
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [alexandru-dinu/obsidian-sortable](https://github.com/alexandru-dinu/obsidian-sortable) - Table sorting plugin for https://obsidian.md
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
