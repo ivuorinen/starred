@@ -498,6 +498,7 @@ A collection of awesome things.
 - [devgeniem/wp-pa11y](https://github.com/devgeniem/wp-pa11y) - wp-pa11y helps test sites by going through sitemaps and reports a11y problems
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
