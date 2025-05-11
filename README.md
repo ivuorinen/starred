@@ -563,6 +563,7 @@ A collection of awesome things.
 - [lukejacksonn/GreedyNav](https://github.com/lukejacksonn/GreedyNav) - A responsive navigation menu that stacks items into a dropdown menu when they overflow
 - [lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos) - An obsidian plugin that rolls over todo items from the previous daily note
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
+- [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
 - [malsup/corner](https://github.com/malsup/corner) - jQuery Corner Plugin (by Dave Methvin and Mike Alsup)
 - [mark-rolich/Magnifier.js](https://github.com/mark-rolich/Magnifier.js) - Javascript library enabling magnifying glass effect on an images
 - [markgoodyear/scrollup](https://github.com/markgoodyear/scrollup) - 
