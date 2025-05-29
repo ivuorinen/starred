@@ -374,7 +374,6 @@ A collection of awesome things.
 
 ## HTML
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [HubSpot/prettier-plugin-hubl](https://github.com/HubSpot/prettier-plugin-hubl) - 
 - [Irrelon/jquery-lang-js](https://github.com/Irrelon/jquery-lang-js) - i18n Allow instant language switching on HTML pages without reloading the page.
 - [MattWilcox/Adaptive-Images](https://github.com/MattWilcox/Adaptive-Images) - Automatically adapts your existing HTML images for mobile devices. No mark-up changes needed.
@@ -1077,6 +1076,7 @@ A collection of awesome things.
 - [CyFI-Lab-Public/YODA](https://github.com/CyFI-Lab-Public/YODA) - 
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
 - [DanielBatteryStapler/daniel-authenticator](https://github.com/DanielBatteryStapler/daniel-authenticator) - LDAP server for home-server authencatication
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Firenza/ExportImportSlackEmoji](https://github.com/Firenza/ExportImportSlackEmoji) - A python script to export emoji from one slack org and import them into another
 - [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - A text extraction library supporting PDFs, images, office documents and more
 - [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
