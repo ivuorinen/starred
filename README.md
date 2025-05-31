@@ -105,14 +105,21 @@ A collection of awesome things.
 
 - [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
+- [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. 
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
 - [TumblThreeApp/TumblThree](https://github.com/TumblThreeApp/TumblThree) - A Tumblr and Twitter Blog Backup Application
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [belav/csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
+- [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
 - [dotnet/cli-lab](https://github.com/dotnet/cli-lab) - A guided tool will be provided to enable the controlled clean up of a system such that only the desired versions of the Runtime and SDKs remain.
+- [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
+- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
 - [itn3000/Cs2Mermaid](https://github.com/itn3000/Cs2Mermaid) - CSharp source to mermaid diagram
+- [jbogard/MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 - [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
 - [microsoft/AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - [microsoft/DevSkim](https://github.com/microsoft/DevSkim) - DevSkim is a set of IDE plugins, language analyzers, and rules that provide security "linting" capabilities.
@@ -120,6 +127,7 @@ A collection of awesome things.
 - [nager/Nager.Country](https://github.com/nager/Nager.Country) - Worldwide Country Informations (ISO-3166-1 Alpha2, ISO-3166-1 Alpha3, ISO 639-1)
 - [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
+- [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 
 ## C++
 
@@ -234,6 +242,7 @@ A collection of awesome things.
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs
+- [Yiling-J/piper](https://github.com/Yiling-J/piper) - 🛠 Viper wrapper with config inheritance and key generation
 - [advanced-security/gh-sbom](https://github.com/advanced-security/gh-sbom) - Generate SBOMs with gh CLI
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [aertje/cloud-tasks-emulator](https://github.com/aertje/cloud-tasks-emulator) - Google cloud tasks emulator
@@ -742,6 +751,7 @@ A collection of awesome things.
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
 - [mmolhoek/cmp-scss](https://github.com/mmolhoek/cmp-scss) - find scss variables in node_modules and trigger autocompletion with $
+- [mvllow/dots](https://github.com/mvllow/dots) - Minimalist developer setup
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
@@ -1694,6 +1704,7 @@ A collection of awesome things.
 - [terryma/dotfiles](https://github.com/terryma/dotfiles) - 
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [vim-scripts/ReplaceWithRegister](https://github.com/vim-scripts/ReplaceWithRegister) - Replace text with the contents of a register. 
+- [z0mbix/vim-shfmt](https://github.com/z0mbix/vim-shfmt) - Vim plugin for shfmt (https://github.com/mvdan/sh)
 
 ## Vue
 
