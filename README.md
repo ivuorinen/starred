@@ -308,6 +308,7 @@ A collection of awesome things.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [kinvolk/lokomotive](https://github.com/kinvolk/lokomotive) - 🪦 DISCONTINUED Further Lokomotive development has been discontinued. Lokomotive is a 100% open-source, easy to use and secure Kubernetes distribution from the volks at Kinvolk
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [kubernetes-sigs/node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes
@@ -1103,7 +1104,7 @@ A collection of awesome things.
 - [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) - Scan is a free & Open Source DevSecOps tool for performing static analysis based security testing of your applications and its dependencies. CI and Git friendly.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) -  A Telegram bot to download TikTok videos without any watermark.
-- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean theme for Home Assistant
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 A Calm and Clean Theme for Home Assistant
 - [Uninett/nav](https://github.com/Uninett/nav) - Network Administration Visualized
 - [Wytamma/write-the](https://github.com/Wytamma/write-the) - AI-powered Documentation and Test Generation Tool
 - [ZeroQI/YouTube-Agent.bundle](https://github.com/ZeroQI/YouTube-Agent.bundle) - Plex Metadata Agent for Movies and TV Series libraries
