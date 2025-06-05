@@ -871,7 +871,7 @@ A collection of awesome things.
 - [andrewgjohnson/imagettftextblur](https://github.com/andrewgjohnson/imagettftextblur) - imagettftextblur is a drop in replacement for imagettftext with added parameters to add blur, glow and shadow effects to your PHP GD images
 - [antonioribeiro/countries](https://github.com/antonioribeiro/countries) - Laravel countries and currencies
 - [antonioribeiro/tracker](https://github.com/antonioribeiro/tracker) - Laravel Stats Tracker
-- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
+- [apioo/fusio](https://github.com/apioo/fusio) - Open Source API Management Made Easy
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [atymic/twitter](https://github.com/atymic/twitter) - Twitter API for Laravel 5.5+, 6.x, 7.x & 8.x
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
@@ -1656,6 +1656,7 @@ A collection of awesome things.
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
