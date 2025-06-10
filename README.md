@@ -963,7 +963,7 @@ A collection of awesome things.
 - [marekrei/encode-explorer](https://github.com/marekrei/encode-explorer) - 
 - [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! 
-- [mattiverse/Laravel-Userstamps](https://github.com/mattiverse/Laravel-Userstamps) - Laravel Userstamps provides an Eloquent trait which automatically maintains `created_by` and `updated_by` columns on your model, populated by the currently authenticated user in your application.
+- [mattiverse/Laravel-Userstamps](https://github.com/mattiverse/Laravel-Userstamps) - Laravel Userstamps provides an Eloquent trait which automatically maintains created_by and updated_by columns on your model, populated by the currently authenticated user in your application.
 - [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) - This package allows you to easily work with UUIDs in your Laravel models
 - [midorikocak/nano](https://github.com/midorikocak/nano) - Nano is a very very tiny PHP library that allows you to create very fast rest APIs. Think it's like Slim but Nano is only ~6.4 Kilobytes.
 - [mikeerickson/laravel-craftsman](https://github.com/mikeerickson/laravel-craftsman) - Laravel Craftsman CLI for easily crafting Laravel assets for any project (artisan make on steroids)
@@ -1557,7 +1557,7 @@ A collection of awesome things.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - The server component that can either be self-hosted or hosted for general purpose - for use with the ferdium thick client.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [fregante/ghat](https://github.com/fregante/ghat) - 🛕 Reuse GitHub Actions workflows across repositories
 - [githubnext/testpilot](https://github.com/githubnext/testpilot) - Test generation using large language models
