@@ -874,7 +874,7 @@ A collection of awesome things.
 - [andrewgjohnson/imagettftextblur](https://github.com/andrewgjohnson/imagettftextblur) - imagettftextblur is a drop in replacement for imagettftext with added parameters to add blur, glow and shadow effects to your PHP GD images
 - [antonioribeiro/countries](https://github.com/antonioribeiro/countries) - Laravel countries and currencies
 - [antonioribeiro/tracker](https://github.com/antonioribeiro/tracker) - Laravel Stats Tracker
-- [apioo/fusio](https://github.com/apioo/fusio) - Open Source API Management Made Easy
+- [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [atymic/twitter](https://github.com/atymic/twitter) - Twitter API for Laravel 5.5+, 6.x, 7.x & 8.x
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
@@ -1343,6 +1343,7 @@ A collection of awesome things.
 - [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches) - Safely deletes local branches with no upstream and no un-pushed commits
 - [devops-workflow/pre-commit-terraform](https://github.com/devops-workflow/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
 - [dimo414/bash-cache](https://github.com/dimo414/bash-cache) - Transparent caching layer for bash functions; particularly useful for functions invoked as part of your prompt.
+- [dmmulroy/.dotfiles](https://github.com/dmmulroy/.dotfiles) - 
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
@@ -1388,6 +1389,7 @@ A collection of awesome things.
 - [matt-bartel/gh-clone-org](https://github.com/matt-bartel/gh-clone-org) - A github-cli extension script to clone all repositories in an organization, optionally filtering by topic.
 - [mchestr/home-cluster](https://github.com/mchestr/home-cluster) - Cat-approved, 100% renewable, GMO-Free HomeLab k8s cluster managed via Flux2 & Renovate
 - [mitchellkrogza/Fail2Ban.WebExploits](https://github.com/mitchellkrogza/Fail2Ban.WebExploits) - This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites.
+- [mitchross/k3s-argocd-starter](https://github.com/mitchross/k3s-argocd-starter) - starter kit for k3s, argocd
 - [molovo/revolver](https://github.com/molovo/revolver) - A progress spinner for ZSH scripts
 - [mtdowling/chag](https://github.com/mtdowling/chag) - Use your changelog as the canonical source of change data. With pure Bash.
 - [nicholaswilde/home-cluster](https://github.com/nicholaswilde/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux2)
@@ -1460,6 +1462,7 @@ A collection of awesome things.
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - App that shows how full the International Space Station's urine tank is in real time, available for macOS (menu bar), iOS, watchOS and visionOS
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click. 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. 
 - [flipperdevices/Flipper-iOS-App](https://github.com/flipperdevices/Flipper-iOS-App) - iOS Mobile App to rule all Flipper's family
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [insidegui/PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
@@ -1828,7 +1831,6 @@ A collection of awesome things.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [matkaan/home-assistant-fingrid-api](https://github.com/matkaan/home-assistant-fingrid-api) - Fingrid API RESTfull sensor examples for home assistant
 - [mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning](https://github.com/mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning) - A customised jail with action and filter file for Fail2Ban. This jail is based on the recidive jail but makes use of a simple text file to enable extended and permanent bans.
-- [mitchross/k3s-argocd-starter](https://github.com/mitchross/k3s-argocd-starter) - starter kit for k3s, argocd
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [notpresident35/awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev) - A curated collection of game development learning resources
