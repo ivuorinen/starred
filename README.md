@@ -112,6 +112,7 @@ A collection of awesome things.
 - [TumblThreeApp/TumblThree](https://github.com/TumblThreeApp/TumblThree) - A Tumblr and Twitter Blog Backup Application
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [belav/csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
+- [codewithmukesh/dotnet-webapi-zero-to-hero-course](https://github.com/codewithmukesh/dotnet-webapi-zero-to-hero-course) - Learn .NET Web APIs the Right Way – From Basics to Production-Ready!
 - [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
 - [dotnet/cli-lab](https://github.com/dotnet/cli-lab) - A guided tool will be provided to enable the controlled clean up of a system such that only the desired versions of the Runtime and SDKs remain.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
