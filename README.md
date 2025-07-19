@@ -362,6 +362,7 @@ A collection of awesome things.
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [stefanlogue/meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing conventional commits
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
@@ -716,6 +717,7 @@ A collection of awesome things.
 - [L3MON4D3/cmp-luasnip-choice](https://github.com/L3MON4D3/cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp 
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Bring the powerful opencode AI to Neovim — editor-aware research, reviews, and refactors, all in one place.
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim 
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
