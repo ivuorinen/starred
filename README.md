@@ -4,6 +4,7 @@ A collection of awesome things.
 
 - [Astro](#astro)
 - [Awk](#awk)
+- [Bicep](#bicep)
 - [Blade](#blade)
 - [C](#c)
 - [C#](#c-1)
@@ -72,6 +73,10 @@ A collection of awesome things.
 
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
 
+## Bicep
+
+- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
+
 ## Blade
 
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
@@ -123,7 +128,6 @@ A collection of awesome things.
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
 - [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
 - [itn3000/Cs2Mermaid](https://github.com/itn3000/Cs2Mermaid) - CSharp source to mermaid diagram
-- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
@@ -717,7 +721,7 @@ A collection of awesome things.
 - [L3MON4D3/cmp-luasnip-choice](https://github.com/L3MON4D3/cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp 
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
-- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Bring the powerful opencode AI to Neovim — editor-aware research, reviews, and refactors, all in one place.
+- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Bring the powerful opencode AI to Neovim — editor-aware research, reviews, and refactors.
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim 
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
@@ -1516,6 +1520,7 @@ A collection of awesome things.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. 
 - [CoolerMasterTechnology/Pi-Tool](https://github.com/CoolerMasterTechnology/Pi-Tool) - Overclocking and button-remapping utility for the Raspberry Pi 4, designed for Pi Case 40
 - [Dilaz/Twitchbot](https://github.com/Dilaz/Twitchbot) - A simple Twitch moderator chatbot
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [Inrixia/TidaLuna](https://github.com/Inrixia/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
 - [Inrixia/luna-plugins](https://github.com/Inrixia/luna-plugins) - Plugins for the Tidal Desktop App. Quality & FLAC Info, LastFM, Downloads & More! 
