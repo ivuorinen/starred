@@ -12,6 +12,7 @@ A collection of awesome things.
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -195,6 +196,10 @@ A collection of awesome things.
 - [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
 - [rodw/common-dustjs-helpers](https://github.com/rodw/common-dustjs-helpers) - A small library of "standard" helper functions for the Dust.js web templating framework.
 
+## Crystal
+
+- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
+
 ## Dart
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -306,6 +311,7 @@ A collection of awesome things.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -788,6 +794,7 @@ A collection of awesome things.
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
 - [mmolhoek/cmp-scss](https://github.com/mmolhoek/cmp-scss) - find scss variables in node_modules and trigger autocompletion with $
 - [mvllow/dots](https://github.com/mvllow/dots) - Minimalist developer setup
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
@@ -972,6 +979,7 @@ A collection of awesome things.
 - [jpfuentes2/php-activerecord](https://github.com/jpfuentes2/php-activerecord) - ActiveRecord implementation for PHP
 - [kilroyweb/email-verification](https://github.com/kilroyweb/email-verification) - Laravel User Email Verification Support
 - [kilroyweb/homeboy](https://github.com/kilroyweb/homeboy) - Homestead site manager for quickly adding projects to your homestead vagrant and host file
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so much more. SaaS version available at https://www.kimai.cloud
 - [kimmelsg/cj-google-geocoder](https://github.com/kimmelsg/cj-google-geocoder) - 
 - [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
 - [kirkbushell/eloquence](https://github.com/kirkbushell/eloquence) - A drop-in library for certain database functionality in Laravel, that allows for extra features that may never make it into the main project.
@@ -1220,6 +1228,7 @@ A collection of awesome things.
 - [notkmhn/obyde](https://github.com/notkmhn/obyde) - A minimal tool to convert a "standardly" configured Obsidian vault to a Jekyll or Hugo blog.
 - [notthebee/AutoASPM](https://github.com/notthebee/AutoASPM) - A script that automatically activates ASPM for all supported devices on Linux
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -1840,6 +1849,7 @@ A collection of awesome things.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [cloph-dsp/Pollinations-AI-in-OpenWebUI](https://github.com/cloph-dsp/Pollinations-AI-in-OpenWebUI) - How to Add Pollinations AI Models to OpenWebUI
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
+- [danielmiessler/Telos](https://github.com/danielmiessler/Telos) - Telos is an open-sourced framework for creating Deep Context about things that matter to humans.
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [dawdle-deer/awesome-learn-gamedev](https://github.com/dawdle-deer/awesome-learn-gamedev) - A curated collection of game development learning resources
@@ -1855,6 +1865,7 @@ A collection of awesome things.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [fregante/ghatemplates](https://github.com/fregante/ghatemplates) - GitHub Actions workflow templates for `$ ghat`
+- [fusioninventory/FusionInventory](https://github.com/fusioninventory/FusionInventory) - Open and follow issues about the project (agent, plugin for GSIT, website and documentation) 
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
