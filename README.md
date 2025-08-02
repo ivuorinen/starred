@@ -732,7 +732,7 @@ A collection of awesome things.
 - [L3MON4D3/cmp-luasnip-choice](https://github.com/L3MON4D3/cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp 
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
-- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Send editor-aware prompts to the powerful opencode AI from Neovim.
+- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Seamlessly integrate the opencode AI assistant with Neovim.
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim 
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
@@ -1375,6 +1375,7 @@ A collection of awesome things.
 - [asdf-community/asdf-plugin-manager](https://github.com/asdf-community/asdf-plugin-manager) - A plugin manager for the asdf version manager [maintainer=@aabouzaid]
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [bats-core/bats-support](https://github.com/bats-core/bats-support) - Supporting library for Bats test helpers
 - [bderenzo/tinymotd](https://github.com/bderenzo/tinymotd) - Tiny dynamic motd generator (system, disks, network, ...)
