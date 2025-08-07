@@ -1016,7 +1016,7 @@ A collection of awesome things.
 - [mtownsend5512/progress](https://github.com/mtownsend5512/progress) - A PHP package to determine steps and progress.
 - [munusphp/munus](https://github.com/munusphp/munus) - Power of object-oriented programming with the elegance of functional programming in PHP.
 - [nahid/talk](https://github.com/nahid/talk) - Talk is a real-time users messaging and chatting system for Laravel.
-- [nette/php-generator](https://github.com/nette/php-generator) - 🐘 Generates neat PHP code for you. Supports new PHP 8.4 features.
+- [nette/php-generator](https://github.com/nette/php-generator) - 🐘 Generates neat PHP code for you. Supports new PHP 8.5 features.
 - [nette/robot-loader](https://github.com/nette/robot-loader) - 🍀 RobotLoader: high performance and comfortable autoloader that will search and autoload classes within your application. 
 - [nette/schema](https://github.com/nette/schema) - 📐 Validating data structures against a given Schema.
 - [nette/tracy](https://github.com/nette/tracy) - 😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
