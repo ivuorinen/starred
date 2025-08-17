@@ -813,7 +813,7 @@ A collection of awesome things.
 - [nvzone/showkeys](https://github.com/nvzone/showkeys) - Minimal Eye-candy keys screencaster for Neovim  200 ~ LOC
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
-- [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - Import modules with ease
+- [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project
 - [polirritmico/telescope-lazy-plugins.nvim](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - 🧭 A Telescope extension to quickly access configurations of plugins managed by lazy.nvim.
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
