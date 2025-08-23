@@ -1779,6 +1779,7 @@ A collection of awesome things.
 - [preservim/vim-colors-pencil](https://github.com/preservim/vim-colors-pencil) - Light (& dark) color scheme inspired by iA Writer
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 - [preservim/vim-wordy](https://github.com/preservim/vim-wordy) - Uncover usage problems in your writing
+- [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
 - [terryma/dotfiles](https://github.com/terryma/dotfiles) - 
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
