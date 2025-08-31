@@ -382,6 +382,7 @@ A collection of awesome things.
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [stefanlogue/meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing conventional commits
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
@@ -1727,7 +1728,6 @@ A collection of awesome things.
 - [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [srg-kostyrko/obsidian-journal](https://github.com/srg-kostyrko/obsidian-journal) - 
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-time.
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 - [streaver/aws-multiple-accounts-extension](https://github.com/streaver/aws-multiple-accounts-extension) - It allows you to know in which AWS account you are logged in. Made with ❤️ by @streaver
