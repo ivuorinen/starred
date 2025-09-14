@@ -921,7 +921,7 @@ A collection of awesome things.
 - [Tucker-Eric/EloquentFilter](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships
 - [Vinelab/NeoEloquent](https://github.com/Vinelab/NeoEloquent) - The Neo4j OGM for Laravel
 - [Webklex/php-imap](https://github.com/Webklex/php-imap) - PHP-IMAP is a wrapper for common IMAP communication without the need to have the php-imap module installed / enabled. The protocol is completely integrated and therefore supports IMAP IDLE operation and the "new" oAuth authentication process as well.
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard self hosted URL shortener in PHP
 - [aaemnnosttv/silk](https://github.com/aaemnnosttv/silk) - A modern API for WordPress.
 - [adbario/php-dot-notation](https://github.com/adbario/php-dot-notation) - Dot notation access to PHP arrays
 - [always-open/laravel-totem](https://github.com/always-open/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
@@ -1542,7 +1542,7 @@ A collection of awesome things.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar 
 - [macadmins/nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
 - [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) - chat with private and local large language models
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [nicoverbruggen/phpmon](https://github.com/nicoverbruggen/phpmon) - Lightweight, native Mac menu bar app that helps you manage multiple PHP installations, locate config files and more. Also interacts with Laravel Valet.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [rsyncOSX/RsyncOSX_archived](https://github.com/rsyncOSX/RsyncOSX_archived) - A macOS GUI for rsync.
@@ -1732,6 +1732,7 @@ A collection of awesome things.
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [posva/vue-reactive-refs](https://github.com/posva/vue-reactive-refs) - Make $refs reactive so they can be used in computed properties and watchers
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
+- [pshevche/act-test-runner](https://github.com/pshevche/act-test-runner) - Convenient wrapper around https://github.com/nektos/act for implementing e2e tests for GitHub actions
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
