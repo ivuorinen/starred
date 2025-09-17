@@ -697,6 +697,7 @@ A collection of awesome things.
 - [ujjwalguptaofficial/JsStore](https://github.com/ujjwalguptaofficial/JsStore) - Simplifying IndexedDB with SQL like syntax and promises
 - [ujjwalguptaofficial/idbstudio](https://github.com/ujjwalguptaofficial/idbstudio) - idbstudio is a management tools for indexeddb library  jsstore. It helps users to execute , debug and learn jsstore query.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [uxsolutions/bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - A datepicker for twitter bootstrap (@twbs)
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
