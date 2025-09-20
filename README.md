@@ -137,7 +137,7 @@ A collection of awesome things.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
 - [microsoft/AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - [microsoft/DevSkim](https://github.com/microsoft/DevSkim) - DevSkim is a set of IDE plugins, language analyzers, and rules that provide security "linting" capabilities.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [nager/Nager.Country](https://github.com/nager/Nager.Country) - Complete .NET library for worldwide country data: ISO codes, currencies, languages, regions, borders & translations for 250+ countries.
 - [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 - [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
