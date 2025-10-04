@@ -496,7 +496,7 @@ A collection of awesome things.
 - [Esri/esri-leaflet](https://github.com/Esri/esri-leaflet) - A lightweight set of tools for working with ArcGIS services in Leaflet. :rocket:
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [Hotzilla/ruuvicollector-to-homeassistant-mqtt](https://github.com/Hotzilla/ruuvicollector-to-homeassistant-mqtt) - RuuviTag to HomeAssistant MQTT with auto-discovery
 - [HumbleSoftware/envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization
 - [JPeer264/node-semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - A CLI for semantic git commits
