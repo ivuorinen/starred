@@ -1940,7 +1940,7 @@ A collection of awesome things.
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [learnbyexample/vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim Reference Guide for beginner to intermediate level users
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-- [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Custom alerts/notifications, File system access. All in one UI, for Docker.
+- [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Custom alerts/notifications/Automations, File system access. All in one UI, for Docker.
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [marcologous/Open-Sauce-Fonts](https://github.com/marcologous/Open-Sauce-Fonts) - Open Sauce Fonts is a font super family that I developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce fonts (Sans, One and Two) are under the SIL Open Font License and is going to be actively developed, improved and tested.
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
