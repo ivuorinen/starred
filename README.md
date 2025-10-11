@@ -648,7 +648,7 @@ A collection of awesome things.
 - [mpetazzoni/leaflet-gpx](https://github.com/mpetazzoni/leaflet-gpx) - A GPX track plugin for Leaflet.js
 - [neostandard/neostandard](https://github.com/neostandard/neostandard) - A spiritual successor to the standardjs javascript style guide
 - [njleonzhang/vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - A simple, customizable and pageable table with SSR support, based on vue2 and element-ui
-- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
+- [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
@@ -1842,7 +1842,7 @@ A collection of awesome things.
 - [hilongjw/vue-datepicker](https://github.com/hilongjw/vue-datepicker) - [Deprecated] calendar and datepicker component with material design for Vue.js
 - [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 - [rakk7/vue-bootstrap-toasts](https://github.com/rakk7/vue-bootstrap-toasts) - Bootstrap 4 toasts with vue
-- [ricktbaker/opshell](https://github.com/ricktbaker/opshell) - An electron app to assist with managing AWS instances across multiple organizations
+- [rootsignal/opshell](https://github.com/rootsignal/opshell) - An electron app to assist with managing AWS instances across multiple organizations
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 
 ## YAML
