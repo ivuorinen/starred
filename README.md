@@ -1238,7 +1238,7 @@ A collection of awesome things.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
@@ -1491,7 +1491,7 @@ A collection of awesome things.
 - [rickstaa/tmux-notify](https://github.com/rickstaa/tmux-notify) - Tmux plugin to notify you when processes are finished.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [ronilaukkarinen/todoist-cli](https://github.com/ronilaukkarinen/todoist-cli) -  A simple, dependency-free bash script to list your Todoist tasks sorted by creation date (oldest first) with colorized output and clickable task links.
+- [ronilaukkarinen/tasks-cli](https://github.com/ronilaukkarinen/tasks-cli) -  A simple, dependency-free bash script to list your Todoist tasks sorted by creation date (oldest first) with colorized output and clickable task links.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
@@ -1703,7 +1703,7 @@ A collection of awesome things.
 - [liamcain/obsidian-daily-notes-interface](https://github.com/liamcain/obsidian-daily-notes-interface) - Package to create, open, and find daily notes from your Obsidian plugin
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [linjunpop/obsidian-gist](https://github.com/linjunpop/obsidian-gist) - 📒 Gist View for Obsidian(https://obsidian.md)
-- [linx4200/vue-color](https://github.com/linx4200/vue-color) - A modern collection of Vue color pickers – fast, accessible, and easy to use. 👉 https://linx4200.github.io/vue-color/
+- [linx4200/vue-color](https://github.com/linx4200/vue-color) - A modern collection of Vue color pickers – fast, accessible, and easy to use.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
