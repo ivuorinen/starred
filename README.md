@@ -142,6 +142,7 @@ A collection of awesome things.
 - [nager/Nager.Country](https://github.com/nager/Nager.Country) - Complete .NET library for worldwide country data: ISO codes, currencies, languages, regions, borders & translations for 250+ countries.
 - [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 - [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
+- [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 
