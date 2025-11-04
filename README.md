@@ -185,6 +185,7 @@ A collection of awesome things.
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [nick-jonas/nick-jonas.github.com](https://github.com/nick-jonas/nick-jonas.github.com) - Demo sites
 - [north/north](https://github.com/north/north) - Design and development standards to align and guide your project.
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [seriousm4x/twitch-clip-archive](https://github.com/seriousm4x/twitch-clip-archive) - This project creates a complete off side backup of the clips of a Twitch streamer.
 - [tsvensen/equalize.js](https://github.com/tsvensen/equalize.js) - The jQuery plugin for equalizing the height or width of your elements
