@@ -890,7 +890,7 @@ A collection of awesome things.
 
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
 - [Anteris-Dev/data-transfer-object-factory](https://github.com/Anteris-Dev/data-transfer-object-factory) - Making it easy to mock your Data Transfer Objects
-- [Automattic/Co-Authors-Plus](https://github.com/Automattic/Co-Authors-Plus) - Multiple bylines and Guest Authors for WordPress
+- [Automattic/co-authors-plus](https://github.com/Automattic/co-authors-plus) - Multiple bylines and Guest Authors for WordPress
 - [Automattic/wordbless](https://github.com/Automattic/wordbless) - WorDBless allows you to use WordPress core functions in your PHPUnit tests without having to set up a database and the whole WordPress environment
 - [BKWLD/croppa](https://github.com/BKWLD/croppa) - Image thumbnail creation through specially formatted URLs for Laravel.
 - [Badcow/DNS](https://github.com/Badcow/DNS) - The aim of this project is to create abstract object representations of DNS records in PHP. The project consists of various classes representing DNS objects (such as Zone, ResourceRecord, and various RData types), a parser to convert BIND style text files to the PHP objects, and builders to create aesthetically pleasing BIND records.
