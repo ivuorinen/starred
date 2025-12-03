@@ -1295,6 +1295,7 @@ A collection of awesome things.
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [ttu/ruuvitag-sensor](https://github.com/ttu/ruuvitag-sensor) - Python package for communicating with RuuviTag BLE Sensor and for decoding sensor data from broadcasted data
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [warrior25/HA-Nysse](https://github.com/warrior25/HA-Nysse) - Home Assistant integration to fetch public transport data for Tampere, Finland
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
