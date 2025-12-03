@@ -580,7 +580,7 @@ A collection of awesome things.
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora™ - Open Translation Management Platform - https://traduora.co
 - [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - Detect Browsers, OS, Devices, Bots, AI Crawlers, Apps, and more. Run in Browser (client-side) or Node.js (server-side).
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
 - [farzher/fuzzysort](https://github.com/farzher/fuzzysort) - Fast SublimeText-like fuzzy search for JavaScript.
 - [filamentgroup/Ajax-Include-Pattern](https://github.com/filamentgroup/Ajax-Include-Pattern) - An Ajax-Include Pattern for Modular Content 
 - [filamentgroup/jQuery-UI-Date-Range-Picker](https://github.com/filamentgroup/jQuery-UI-Date-Range-Picker) - A range picker built on top of jQuery UI's Datepicker Control
@@ -1158,7 +1158,7 @@ A collection of awesome things.
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
 - [DanielBatteryStapler/daniel-authenticator](https://github.com/DanielBatteryStapler/daniel-authenticator) - LDAP server for home-server authencatication
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [EveryInc/compounding-engineering-plugin](https://github.com/EveryInc/compounding-engineering-plugin) - Official Claude Code compounding engineering plugin
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 - [Firenza/ExportImportSlackEmoji](https://github.com/Firenza/ExportImportSlackEmoji) - A python script to export emoji from one slack org and import them into another
 - [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [Hamatti/config-renderer](https://github.com/Hamatti/config-renderer) - A Python CLI utility to generate HTML documentation from dotfiles
@@ -1375,7 +1375,6 @@ A collection of awesome things.
 - [turing-machines/tpi](https://github.com/turing-machines/tpi) - CLI tool to control your Turing Pi 2 board
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
-- [zedless-editor/zedless](https://github.com/zedless-editor/zedless) - (WIP) Zed fork focused on privacy and being local-first
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 
 ## SCSS
@@ -2009,5 +2008,6 @@ A collection of awesome things.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+- [zedless-editor/zedless](https://github.com/zedless-editor/zedless) - (WIP) Zed fork focused on privacy and being local-first
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
