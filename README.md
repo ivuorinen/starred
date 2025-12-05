@@ -373,7 +373,7 @@ A collection of awesome things.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [pcasteran/terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
+- [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader - for markdown readers or terminals
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [procinger/turing-pi-v2-cluster](https://github.com/procinger/turing-pi-v2-cluster) - Turing Pi V2 K3S Cluster bootstrapping with Ansible and Argo CD. Dependency monitoring and updating with Renovate Bot. Running CI tests with the K8S E2E Framework.
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images!
@@ -427,7 +427,6 @@ A collection of awesome things.
 
 ## HTML
 
-- [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, Go, and TypeScript/Node.js—or use via CLI, REST API, or MCP server.
 - [HubSpot/prettier-plugin-hubl](https://github.com/HubSpot/prettier-plugin-hubl) - 
 - [Irrelon/jquery-lang-js](https://github.com/Irrelon/jquery-lang-js) - i18n Allow instant language switching on HTML pages without reloading the page.
 - [MattWilcox/Adaptive-Images](https://github.com/MattWilcox/Adaptive-Images) - Automatically adapts your existing HTML images for mobile devices. No mark-up changes needed.
@@ -454,6 +453,7 @@ A collection of awesome things.
 - [kennethormandy/normalize-opentype.css](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, Go, and TypeScript/Node.js—or use via CLI, REST API, or MCP server.
 - [loopbackio/loopback.io](https://github.com/loopbackio/loopback.io) - LoopBack project site - now with documentation!
 - [lsrur/inspector](https://github.com/lsrur/inspector) - Laravel Inspector, debugging and profiling tools for Web Artisans
 - [maciej-gurban/responsive-bootstrap-toolkit](https://github.com/maciej-gurban/responsive-bootstrap-toolkit) - Responsive Bootstrap Toolkit allows for easy breakpoint detection in JavaScript
@@ -2009,6 +2009,6 @@ A collection of awesome things.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
