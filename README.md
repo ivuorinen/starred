@@ -605,7 +605,7 @@ A collection of awesome things.
 - [hyperform/hyperform](https://github.com/hyperform/hyperform) - Capture form validation back from the browser
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - meta package for my linting configurations
 - [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files
 - [jackmoore/colorbox](https://github.com/jackmoore/colorbox) - A light-weight, customizable lightbox plugin for jQuery
 - [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea) - Mirror your github repositories to your gitea server
