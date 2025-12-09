@@ -458,6 +458,7 @@ A collection of awesome things.
 - [lsrur/inspector](https://github.com/lsrur/inspector) - Laravel Inspector, debugging and profiling tools for Web Artisans
 - [maciej-gurban/responsive-bootstrap-toolkit](https://github.com/maciej-gurban/responsive-bootstrap-toolkit) - Responsive Bootstrap Toolkit allows for easy breakpoint detection in JavaScript
 - [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
+- [marcologous/Open-Sauce-Fonts](https://github.com/marcologous/Open-Sauce-Fonts) - Open Sauce Fonts is a font super family that I developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce fonts (Sans, One and Two) are under the SIL Open Font License and is going to be actively developed, improved and tested.
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from. 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -978,7 +979,6 @@ A collection of awesome things.
 - [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [dimsav/laravel-translatable](https://github.com/dimsav/laravel-translatable) - [Deprecated] A Laravel package for multilingual models
 - [drewjbartlett/wordpress-eloquent](https://github.com/drewjbartlett/wordpress-eloquent) - A library that converts converts wordpress tables into Laravel Eloquent Models.
-- [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be. 
 - [dryphp/openpgp.php](https://github.com/dryphp/openpgp.php) - OpenPGP.php is a pure-PHP implementation of the OpenPGP Message Format (RFC 4880).
 - [dwightwatson/validating](https://github.com/dwightwatson/validating) - Automatically validating Eloquent models for Laravel
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
@@ -1016,6 +1016,7 @@ A collection of awesome things.
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [laravel/jetstream](https://github.com/laravel/jetstream) - Tailwind scaffolding for the Laravel framework.
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
+- [laravel/vat-calculator](https://github.com/laravel/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be. 
 - [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) - Effective tree structures in Laravel 4-8
 - [liebig/cron](https://github.com/liebig/cron) - Job scheduling for Laravel
 - [llaville/php-compatinfo](https://github.com/llaville/php-compatinfo) - Library that find out the minimum version and the extensions required for a piece of code to run
@@ -1962,7 +1963,6 @@ A collection of awesome things.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [log-forge/logforge](https://github.com/log-forge/logforge) - All in one UI, for Docker. Real-time logs, Interactive terminals, Custom alerts/notifications/Automations, File system access. 
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
-- [marcologous/Open-Sauce-Fonts](https://github.com/marcologous/Open-Sauce-Fonts) - Open Sauce Fonts is a font super family that I developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce fonts (Sans, One and Two) are under the SIL Open Font License and is going to be actively developed, improved and tested.
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [matkaan/home-assistant-fingrid-api](https://github.com/matkaan/home-assistant-fingrid-api) - Fingrid API RESTfull sensor examples for home assistant
@@ -2009,6 +2009,6 @@ A collection of awesome things.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
