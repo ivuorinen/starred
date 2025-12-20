@@ -389,6 +389,7 @@ A collection of awesome things.
 - [rsese/gh-actions-status](https://github.com/rsese/gh-actions-status) - GitHub CLI extension to view the overall health of an organization's use of actions.
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [sanathp/statusok](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your Computer. Get Notified through Slack, E-mail when your server is down or response time is more than expected. 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [skx/sysbox](https://github.com/skx/sysbox) - sysadmin/scripting utilities, distributed as a single binary
@@ -774,6 +775,7 @@ A collection of awesome things.
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) - An extension for telescope.nvim that allows you to switch between headings
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim 
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) - A Neovim plugin for macOS, Linux & Windows that automatically changes the editor appearance based on system settings.
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
@@ -1153,7 +1155,7 @@ A collection of awesome things.
 
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [ArchiveBox/abx-pkg](https://github.com/ArchiveBox/abx-pkg) - 📦 Modern strongly typed Python library for managing system dependencies with package managers like apt, brew, pip, npm, etc.
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. 
 - [Cisco-Talos/cvdupdate](https://github.com/Cisco-Talos/cvdupdate) - ClamAV Private Database Mirror Updater Tool
@@ -1258,6 +1260,7 @@ A collection of awesome things.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI - The only MCP Server you'll ever need
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [murphypetercl/ansible-mdgen](https://github.com/murphypetercl/ansible-mdgen) - Python package to automate documentation generation for Ansible
@@ -1537,7 +1540,6 @@ A collection of awesome things.
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
-- [wesleyscholl/github-action-base-ts](https://github.com/wesleyscholl/github-action-base-ts) - 🚀⚡ The ultimate TypeScript GitHub Action starter template! Production-ready boilerplate with Jest testing, ESLint + Prettier, Husky hooks, CI/CD workflows & Docker support. 🌟➡️👨🏻‍💻
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG. 
 - [wrmilling/homelab-infrastructure](https://github.com/wrmilling/homelab-infrastructure) - A Definition of my Homelab Infrastructure 
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
@@ -1798,6 +1800,7 @@ A collection of awesome things.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
 - [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
@@ -1817,6 +1820,7 @@ A collection of awesome things.
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
+- [wesleyscholl/github-action-base-ts](https://github.com/wesleyscholl/github-action-base-ts) - 🚀⚡ The ultimate TypeScript GitHub Action starter template! Production-ready boilerplate with Jest testing, ESLint + Prettier, Husky hooks, CI/CD workflows & Docker support. 🌟➡️👨🏻‍💻
 - [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Your Gateway Drug to Kubernetes at Home!
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
