@@ -117,6 +117,7 @@ A collection of awesome things.
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [LuckyPennySoftware/MediatR](https://github.com/LuckyPennySoftware/MediatR) - Simple, unambitious mediator implementation in .NET
+- [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
 - [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. 
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
 - [TNG/ArchUnitNET](https://github.com/TNG/ArchUnitNET) - A C# architecture test library to specify and assert architecture rules in C# for automated testing.
@@ -486,7 +487,9 @@ A collection of awesome things.
 
 - [AlexGirardDev/HarpoonIJ](https://github.com/AlexGirardDev/HarpoonIJ) - Port of the NeoVim Extension Harpoon for Intellij IDEs
 - [CloudNetService/CloudNet](https://github.com/CloudNetService/CloudNet) - A modern application that can dynamically and easily deliver Minecraft oriented software
+- [gnembon/fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+- [sakura-ryoko/litematica](https://github.com/sakura-ryoko/litematica) - A modern client-side schematic mod for Minecraft
 
 ## JavaScript
 
@@ -1197,6 +1200,7 @@ A collection of awesome things.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) - 
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme. 
+- [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [bergercookie/syncall](https://github.com/bergercookie/syncall) - Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
