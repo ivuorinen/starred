@@ -1189,6 +1189,7 @@ A collection of awesome things.
 - [Wytamma/write-the](https://github.com/Wytamma/write-the) - AI-powered Documentation and Test Generation Tool
 - [ZeroQI/YouTube-Agent.bundle](https://github.com/ZeroQI/YouTube-Agent.bundle) - Plex Metadata Agent for Movies and TV Series libraries
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
+- [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [akx/gha-tools](https://github.com/akx/gha-tools) - Tools for working with GitHub Actions
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -1420,7 +1421,6 @@ A collection of awesome things.
 - [VildMedPap/gh-orgstats](https://github.com/VildMedPap/gh-orgstats) - Organisation specific extension for gh cli to retrieve different statistics
 - [adamcrews/asdf-tf-summarize](https://github.com/adamcrews/asdf-tf-summarize) - asdf plugin to install tf-summarize
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [alexmeanpug/ssl-checker-slack](https://github.com/alexmeanpug/ssl-checker-slack) - SSL Checker script that monitors multiple domains' SSL certificate expirations and sends notifications to Slack channels.
