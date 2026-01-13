@@ -949,7 +949,6 @@ A collection of awesome things.
 - [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [atymic/twitter](https://github.com/atymic/twitter) - Twitter API for Laravel 5.5+, 6.x, 7.x & 8.x
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
 - [bassim/super-expressive-php](https://github.com/bassim/super-expressive-php) - super-expressive-php is a php library that allows you to build regular expressions in almost natural language
@@ -997,6 +996,7 @@ A collection of awesome things.
 - [exposedev/expose](https://github.com/exposedev/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [fiskhandlarn/blade](https://github.com/fiskhandlarn/blade) - :runner: A library for using Laravel Blade templates in WordPlate.
 - [florianv/snoop](https://github.com/florianv/snoop) - Find informations about an email owner
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [gajus/moa](https://github.com/gajus/moa) - MOA implements dynamically generated Active Record database abstraction.
 - [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP.
 - [goldspecdigital/oooas](https://github.com/goldspecdigital/oooas) - An object oriented approach to generating OpenAPI specs, implemented in PHP.
