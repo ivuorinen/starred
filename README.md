@@ -1174,7 +1174,6 @@ A collection of awesome things.
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
 - [DanielBatteryStapler/daniel-authenticator](https://github.com/DanielBatteryStapler/daniel-authenticator) - LDAP server for home-server authencatication
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 - [Firenza/ExportImportSlackEmoji](https://github.com/Firenza/ExportImportSlackEmoji) - A python script to export emoji from one slack org and import them into another
 - [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [Hamatti/config-renderer](https://github.com/Hamatti/config-renderer) - A Python CLI utility to generate HTML documentation from dotfiles
@@ -1262,6 +1261,7 @@ A collection of awesome things.
 - [jparise/stale](https://github.com/jparise/stale) - Stale identifies (and optionally deletes) stale Delicious and Pinboard links.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
+- [kieranklaassen/compound-engineering-plugin](https://github.com/kieranklaassen/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 - [kimchi-project/wok](https://github.com/kimchi-project/wok) - A cherrypy framework for multi-purpose plug-ins
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
@@ -1771,7 +1771,7 @@ A collection of awesome things.
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [npalm/action-docs](https://github.com/npalm/action-docs) - Generate docs for GitHub actions
 - [obahareth/are-you-es5](https://github.com/obahareth/are-you-es5) - A package to help you find out which of your node_modules aren't ES5 so you can add them to your Webpack/Rollup/Parcel transpilation steps.
