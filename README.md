@@ -1174,7 +1174,6 @@ A collection of awesome things.
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
 - [DanielBatteryStapler/daniel-authenticator](https://github.com/DanielBatteryStapler/daniel-authenticator) - LDAP server for home-server authencatication
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 - [Firenza/ExportImportSlackEmoji](https://github.com/Firenza/ExportImportSlackEmoji) - A python script to export emoji from one slack org and import them into another
 - [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [Hamatti/config-renderer](https://github.com/Hamatti/config-renderer) - A Python CLI utility to generate HTML documentation from dotfiles
@@ -1596,6 +1595,7 @@ A collection of awesome things.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [rsyncOSX/RsyncOSX_archived](https://github.com/rsyncOSX/RsyncOSX_archived) - A macOS GUI for rsync.
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
+- [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!
 
 ## Tree-sitter Query
 
@@ -1613,6 +1613,7 @@ A collection of awesome things.
 - [Dilaz/Twitchbot](https://github.com/Dilaz/Twitchbot) - A simple Twitch moderator chatbot
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Eldritch-Oliver/file-hider](https://github.com/Eldritch-Oliver/file-hider) - A plugin for https://obsidian.md that allows hiding specific files and folders from the file explorer.
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [Inrixia/TidaLuna](https://github.com/Inrixia/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
 - [Inrixia/luna-plugins](https://github.com/Inrixia/luna-plugins) - Plugins for the Tidal Desktop App. Quality & FLAC Info, LastFM, Downloads & More! 
