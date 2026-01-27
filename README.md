@@ -374,7 +374,7 @@ A collection of awesome things.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [nghialv/promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in realtime from Prometheus data
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [pcasteran/terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader - for markdown readers or terminals
@@ -1196,6 +1196,7 @@ A collection of awesome things.
 - [VirtusLab/git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen
 - [Wytamma/write-the](https://github.com/Wytamma/write-the) - AI-powered Documentation and Test Generation Tool
 - [ZeroQI/YouTube-Agent.bundle](https://github.com/ZeroQI/YouTube-Agent.bundle) - Plex Metadata Agent for Movies and TV Series libraries
+- [aajanki/yle-dl](https://github.com/aajanki/yle-dl) - Download videos from Yle servers
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [akx/gha-tools](https://github.com/akx/gha-tools) - Tools for working with GitHub Actions
@@ -1750,7 +1751,7 @@ A collection of awesome things.
 - [linjunpop/obsidian-gist](https://github.com/linjunpop/obsidian-gist) - 📒 Gist View for Obsidian(https://obsidian.md)
 - [linx4200/vue-color](https://github.com/linx4200/vue-color) - A modern collection of Vue color pickers – fast, accessible, and easy to use.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
