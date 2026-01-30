@@ -127,6 +127,7 @@ A collection of awesome things.
 - [TumblThreeApp/TumblThree](https://github.com/TumblThreeApp/TumblThree) - A Tumblr and Twitter Blog Backup Application
 - [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
+- [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [belav/csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
 - [codewithmukesh/dotnet-webapi-zero-to-hero-course](https://github.com/codewithmukesh/dotnet-webapi-zero-to-hero-course) - Learn .NET 10 Web APIs the Right Way – From Basics to Production-Ready!
 - [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
