@@ -925,7 +925,6 @@ A collection of awesome things.
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [Dev7studios/chip](https://github.com/Dev7studios/chip) - A drop-in subscription billing UI for Laravel
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) - [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
-- [DivineOmega/cachet.php](https://github.com/DivineOmega/cachet.php) - 📛 PHP client library for the Cachet API
 - [ErickTamayo/laravel-scout-elastic](https://github.com/ErickTamayo/laravel-scout-elastic) - Elastic Driver for Laravel Scout
 - [FloeDesignTechnologies/phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
@@ -935,6 +934,7 @@ A collection of awesome things.
 - [JBZoo/Composer-Graph](https://github.com/JBZoo/Composer-Graph) - Dependency graph visualization for composer.json (PHP + Composer) based on mermaid-js
 - [JacobBennett/StripeTestToken](https://github.com/JacobBennett/StripeTestToken) - Use this to quickly generate Stripe test tokens for successful or exceptional responses from Stripe.
 - [Jeroen-G/laravel-packager](https://github.com/Jeroen-G/laravel-packager) - A cli tool for creating Laravel packages
+- [Jord-JD/cachet.php](https://github.com/Jord-JD/cachet.php) - 📛 PHP client library for the Cachet API
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - Map nested JSON structures to PHP classes
 - [L5Modular/L5Modular](https://github.com/L5Modular/L5Modular) - Generates and handles Modules for Laravel
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
@@ -1186,6 +1186,7 @@ A collection of awesome things.
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
+- [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OwenCochell/mctools](https://github.com/OwenCochell/mctools) - Minecraft Connection Tools - Python implementations of common Minecraft protocols.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
