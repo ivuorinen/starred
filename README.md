@@ -459,7 +459,6 @@ A collection of awesome things.
 - [bison--/pridever](https://github.com/bison--/pridever) - Forget semantic versioning, use PRIDE VERSIONING 🏳️‍
 - [bitmand/utterson](https://github.com/bitmand/utterson) - A Jekyll web backend written in ruby, for a more user friendly management of http://jekyllrb.com/ websites.
 - [codedninja/TeamRoles](https://github.com/codedninja/TeamRoles) - Team Roles expansion on mpociot/teamwork
-- [codota/tabnine-nvim](https://github.com/codota/tabnine-nvim) - Tabnine Client for Neovim
 - [davist11/jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav) - Smooth scrolling and smart navigation when user scrolls on one-page sites.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -585,6 +584,7 @@ A collection of awesome things.
 - [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred workflow with dozens of features for controlling your Obsidian vault.
 - [clu3/bootstro.js](https://github.com/clu3/bootstro.js) - Tiny JS library using bootstrap's popovers to help guide your users around your website
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
+- [codota/tabnine-nvim](https://github.com/codota/tabnine-nvim) - Tabnine Client for Neovim
 - [creotip/vue-particles](https://github.com/creotip/vue-particles) - Vue.js component for particles backgrounds ✨
 - [cristianvasquez/obsidian-prettify](https://github.com/cristianvasquez/obsidian-prettify) - A markdown prettifier for obsidian
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
