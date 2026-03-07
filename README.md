@@ -1001,6 +1001,7 @@ A collection of awesome things.
 - [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [dimsav/laravel-translatable](https://github.com/dimsav/laravel-translatable) - [Deprecated] A Laravel package for multilingual models
 - [drewjbartlett/wordpress-eloquent](https://github.com/drewjbartlett/wordpress-eloquent) - A library that converts converts wordpress tables into Laravel Eloquent Models.
+- [driftingly/rector-laravel](https://github.com/driftingly/rector-laravel) - Rector upgrades rules for Laravel
 - [dryphp/openpgp.php](https://github.com/dryphp/openpgp.php) - OpenPGP.php is a pure-PHP implementation of the OpenPGP Message Format (RFC 4880).
 - [dwightwatson/validating](https://github.com/dwightwatson/validating) - Automatically validating Eloquent models for Laravel
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
@@ -1481,6 +1482,7 @@ A collection of awesome things.
 - [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches) - Safely deletes local branches with no upstream and no un-pushed commits
 - [devops-workflow/pre-commit-terraform](https://github.com/devops-workflow/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
 - [dimo414/bash-cache](https://github.com/dimo414/bash-cache) - Transparent caching layer for bash functions; particularly useful for functions invoked as part of your prompt.
+- [dmmulroy/.dotfiles](https://github.com/dmmulroy/.dotfiles) - 
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
@@ -1719,7 +1721,6 @@ A collection of awesome things.
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
-- [dmmulroy/.dotfiles](https://github.com/dmmulroy/.dotfiles) - 
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits
 - [dorny/test-reporter](https://github.com/dorny/test-reporter) - Displays test results from popular testing frameworks directly in GitHub
