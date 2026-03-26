@@ -717,7 +717,6 @@ A collection of awesome things.
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
-- [smithery-ai/mcp-obsidian](https://github.com/smithery-ai/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault.
 - [snovakovic/js-flock](https://github.com/snovakovic/js-flock) - Collection of neat modular utilities for bumping up development in NODE and Browser
 - [snyk-labs/github-actions-scanner](https://github.com/snyk-labs/github-actions-scanner) - Scans your Github Actions for security issues
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
