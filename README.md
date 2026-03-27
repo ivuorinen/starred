@@ -1132,7 +1132,7 @@ A collection of awesome things.
 - [spatie/valuestore](https://github.com/spatie/valuestore) - Easily store some values
 - [splorp/tersus](https://github.com/splorp/tersus) - An achingly simple WordPress theme without all the usual cruft.
 - [squareboat/sneaker](https://github.com/squareboat/sneaker) - An easy way to send emails whenever an exception occurs on server.
-- [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
+- [squizlabs/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - cs2pr - Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action
 - [statusengine/interface](https://github.com/statusengine/interface) - AngularJS based Web Interface for Statusengine
 - [staudenmeir/eloquent-json-relations](https://github.com/staudenmeir/eloquent-json-relations) - Laravel Eloquent relationships with JSON keys
