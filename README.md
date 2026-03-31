@@ -341,6 +341,7 @@ A collection of awesome things.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1028,7 +1029,7 @@ A collection of awesome things.
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
 - [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
 - [jenssegers/blade](https://github.com/jenssegers/blade) - 🔪 A standalone version of Laravel's Blade templating engine for use outside of Laravel.
-- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
+- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress and WooCommerce
 - [jonathantorres/construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator for PDS compliant projects or micro-packages.
 - [joppuyo/disable-drop-cap-v2](https://github.com/joppuyo/disable-drop-cap-v2) - A plugin to disable the drop cap option in Gutenberg editor paragraph block. This is version 2.
 - [jpfuentes2/php-activerecord](https://github.com/jpfuentes2/php-activerecord) - ActiveRecord implementation for PHP
@@ -1156,7 +1157,7 @@ A collection of awesome things.
 - [woocommerce/action-scheduler](https://github.com/woocommerce/action-scheduler) - A scalable, traceable job queue for background processing large queues of tasks in WordPress. Specifically designed for distribution in WordPress plugins (and themes) - no server access required.
 - [wp-cli/import-command](https://github.com/wp-cli/import-command) - Imports content from a given WXR file.
 - [wp-languages/wp-languages.github.io](https://github.com/wp-languages/wp-languages.github.io) - Composer repository for WordPress translation files
-- [wpengine/wpackagist](https://github.com/wpengine/wpackagist) - WordPress Packagist — manage your plugins with Composer
+- [wpengine/wpackagist](https://github.com/wpengine/wpackagist) - WPackagist — manage your plugins with Composer
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [zachleigh/laravel-vue-generators](https://github.com/zachleigh/laravel-vue-generators) - Generate Vue js files via artisan commands
 
@@ -1816,7 +1817,7 @@ A collection of awesome things.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [npalm/action-docs](https://github.com/npalm/action-docs) - Generate docs for GitHub actions
 - [obahareth/are-you-es5](https://github.com/obahareth/are-you-es5) - A package to help you find out which of your node_modules aren't ES5 so you can add them to your Webpack/Rollup/Parcel transpilation steps.
 - [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
