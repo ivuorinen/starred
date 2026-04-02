@@ -98,7 +98,6 @@ A collection of awesome things.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
@@ -1418,7 +1417,7 @@ A collection of awesome things.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [sandydoo/flux](https://github.com/sandydoo/flux) - An open-source tribute to the macOS Drift screensaver
 - [santhosh-tekuri/boon](https://github.com/santhosh-tekuri/boon) - JSONSchema (draft 2020-12, draft 2019-09, draft-7, draft-6, draft-4) Validation in Rust
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) - GitHub action for pruning old GHCR container image versions.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1604,6 +1603,7 @@ A collection of awesome things.
 
 ## Svelte
 
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
@@ -1768,6 +1768,7 @@ A collection of awesome things.
 - [j-palindrome/obsidian-notion-sync](https://github.com/j-palindrome/obsidian-notion-sync) - Two-way Notion sync for Obsidian.
 - [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) - Materialize Todoist tasks in Obsidian notes
 - [jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row) - Adds highly configurable buttons that use actions and per-state styling.
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [jgreywolf/convert2mermaid](https://github.com/jgreywolf/convert2mermaid) - CLI to convert diagrams in other formats to mermaidJs syntax
 - [joethei/obsidian-plantuml](https://github.com/joethei/obsidian-plantuml) - Generate PlantUML Diagrams inside Obsidian.md
 - [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair) - Repair invalid JSON documents
@@ -1802,7 +1803,6 @@ A collection of awesome things.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) - For data management enthusiasts : type and manage the metadata of your notes.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [mgmeyers/obsidian-contextual-typography](https://github.com/mgmeyers/obsidian-contextual-typography) - 
 - [mharj/synologyjs](https://github.com/mharj/synologyjs) - Synology md info and check action via node-ssh module
