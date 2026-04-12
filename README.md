@@ -141,7 +141,7 @@ A collection of awesome things.
 - [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
 - [justeattakeaway/httpclient-interception](https://github.com/justeattakeaway/httpclient-interception) - A .NET library for intercepting server-side HTTP requests
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
-- [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C#.
+- [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A powerful C# Roslyn analyzer that uses static analysis to detect bugs, surface security issues, and enforce best practices—helping developers and AI write more reliable code.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
 - [microsoft/AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - [microsoft/DevSkim](https://github.com/microsoft/DevSkim) - DevSkim is a set of IDE plugins, language analyzers, and rules that provide security "linting" capabilities.
@@ -1171,6 +1171,7 @@ A collection of awesome things.
 - [dotphiles/dotphiles](https://github.com/dotphiles/dotphiles) - A community driven framework of dotfiles.
 - [takaaki-kasai/git-foresta](https://github.com/takaaki-kasai/git-foresta) - git-foresta: Text-based git log graph viewer
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
+- [vaskozl/home-infra](https://github.com/vaskozl/home-infra) - My home Kubernetes cluster
 
 ## PowerShell
 
@@ -1585,7 +1586,6 @@ A collection of awesome things.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
-- [vaskozl/home-infra](https://github.com/vaskozl/home-infra) - My home Kubernetes cluster
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG. 
 - [wrmilling/homelab-infrastructure](https://github.com/wrmilling/homelab-infrastructure) - A Definition of my Homelab Infrastructure 
