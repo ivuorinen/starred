@@ -1619,6 +1619,7 @@ A collection of awesome things.
 
 ## Svelte
 
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
@@ -1821,7 +1822,6 @@ A collection of awesome things.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) - For data management enthusiasts : type and manage the metadata of your notes.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [mgmeyers/obsidian-contextual-typography](https://github.com/mgmeyers/obsidian-contextual-typography) - 
 - [mharj/synologyjs](https://github.com/mharj/synologyjs) - Synology md info and check action via node-ssh module
