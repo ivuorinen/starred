@@ -851,7 +851,6 @@ A collection of awesome things.
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
 - [mmolhoek/cmp-scss](https://github.com/mmolhoek/cmp-scss) - find scss variables in node_modules and trigger autocompletion with $
-- [mvllow/dots](https://github.com/mvllow/dots) - Minimalist developer setup
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
@@ -1407,7 +1406,7 @@ A collection of awesome things.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [cormacrelf/dark-notify](https://github.com/cormacrelf/dark-notify) - Watcher for macOS 10.14+ light/dark mode changes
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [drewwyatt/git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches.
 - [eras/midihidi](https://github.com/eras/midihidi) - Convert MIDI input to linux evdev input with uinput and Jack
@@ -1575,8 +1574,8 @@ A collection of awesome things.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS 
 - [rickstaa/tmux-notify](https://github.com/rickstaa/tmux-notify) - Tmux plugin to notify you when processes are finished.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+- [rollecode/tasks-cli](https://github.com/rollecode/tasks-cli) -  A simple, dependency-free bash script to list your Todoist tasks sorted by creation date (oldest first) with colorized output and clickable task links.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [ronilaukkarinen/tasks-cli](https://github.com/ronilaukkarinen/tasks-cli) -  A simple, dependency-free bash script to list your Todoist tasks sorted by creation date (oldest first) with colorized output and clickable task links.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
