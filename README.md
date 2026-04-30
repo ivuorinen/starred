@@ -279,7 +279,6 @@ A collection of awesome things.
 - [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store
 - [Scrin/RuuviBridge](https://github.com/Scrin/RuuviBridge) - Utility to "bridge" Ruuvi data between various sources and consumers
 - [Scrin/ruuvi-go-gateway](https://github.com/Scrin/ruuvi-go-gateway) - Software replica of the Ruuvi Gateway
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs
 - [Yiling-J/piper](https://github.com/Yiling-J/piper) - 🛠 Viper wrapper with config inheritance and key generation
@@ -357,6 +356,7 @@ A collection of awesome things.
 - [hectcastro/gh-metrics](https://github.com/hectcastro/gh-metrics) - A GitHub CLI extension that provides summary pull request metrics.
 - [hmarr/codeowners](https://github.com/hmarr/codeowners) - 🔒 Command line tool and Go library for CODEOWNERS files
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1337,6 +1337,7 @@ A collection of awesome things.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
 - [tabatkins/railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) - :steam_locomotive: A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port!
+- [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
@@ -1761,7 +1762,7 @@ A collection of awesome things.
 - [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - The server component that can either be self-hosted or hosted for general purpose - for use with the ferdium thick client.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [fregante/ghat](https://github.com/fregante/ghat) - 🛕 Reuse GitHub Actions workflows across repositories
 - [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.
