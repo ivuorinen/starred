@@ -352,7 +352,7 @@ A collection of awesome things.
 - [google/oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [hectcastro/gh-metrics](https://github.com/hectcastro/gh-metrics) - A GitHub CLI extension that provides summary pull request metrics.
 - [hmarr/codeowners](https://github.com/hmarr/codeowners) - 🔒 Command line tool and Go library for CODEOWNERS files
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
@@ -971,7 +971,7 @@ A collection of awesome things.
 - [adbario/php-dot-notation](https://github.com/adbario/php-dot-notation) - Dot notation access to PHP arrays
 - [always-open/laravel-totem](https://github.com/always-open/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
 - [amphp/injector](https://github.com/amphp/injector) - A recursive dependency injector used to bootstrap and wire together S.O.L.I.D., object-oriented PHP applications.
-- [andrewgjohnson/imagettftextblur](https://github.com/andrewgjohnson/imagettftextblur) - imagettftextblur is a drop in replacement for imagettftext with added parameters to add blur, glow and shadow effects to your PHP GD images
+- [andrewgjohnson/imagettftextblur](https://github.com/andrewgjohnson/imagettftextblur) - imagettftextblur is a drop-in replacement for imagettftext with added parameters to add blur, glow and shadow effects to your PHP GD images
 - [antonioribeiro/countries](https://github.com/antonioribeiro/countries) - Laravel countries and currencies
 - [antonioribeiro/tracker](https://github.com/antonioribeiro/tracker) - Laravel Stats Tracker
 - [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
@@ -1205,7 +1205,7 @@ A collection of awesome things.
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [MarioPadilla/claude-vault](https://github.com/MarioPadilla/claude-vault) - Claude Vault is a command-line tool that syncs your Claude AI conversations & Claude Code into beautifully formatted Markdown files that integrate seamlessly with Obsidian and other note-taking tools.
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
 - [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OwenCochell/mctools](https://github.com/OwenCochell/mctools) - Minecraft Connection Tools - Python implementations of common Minecraft protocols.
