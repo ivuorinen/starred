@@ -25,7 +25,6 @@ A collection of awesome things.
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
-- [JSON](#json)
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -503,10 +502,6 @@ A collection of awesome things.
 - [uncss/grunt-uncss](https://github.com/uncss/grunt-uncss) - :scissors: A grunt task for removing unused CSS from your projects.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
-## JSON
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Janet
 
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
@@ -900,6 +895,7 @@ A collection of awesome things.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [ivuorinen/uptime](https://github.com/ivuorinen/uptime) - Public uptime checker for some of my sites
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Nunjucks
 
@@ -2033,7 +2029,6 @@ A collection of awesome things.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [frdwin/everforest-for-wezterm](https://github.com/frdwin/everforest-for-wezterm) - A port of Everforest Dark theme to Wez's Terminal Emulator
 - [fregante/ghatemplates](https://github.com/fregante/ghatemplates) - GitHub Actions workflow templates for `$ ghat`
 - [fusioninventory/FusionInventory](https://github.com/fusioninventory/FusionInventory) - Open and follow issues about the project (agent, plugin for GSIT, website and documentation) 
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
@@ -2113,4 +2108,5 @@ A collection of awesome things.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [zigorj/everforest-for-wezterm](https://github.com/zigorj/everforest-for-wezterm) - A port of Everforest Dark theme to Wez's Terminal Emulator
 
