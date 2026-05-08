@@ -783,7 +783,7 @@ A collection of awesome things.
 - [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.
 - [L3MON4D3/cmp-luasnip-choice](https://github.com/L3MON4D3/cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp 
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
@@ -1261,6 +1261,7 @@ A collection of awesome things.
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal feed reader
 - [fawkesley/inboxbot](https://github.com/fawkesley/inboxbot) - Organise your email inbox with rules from a YAML file
 - [fginter/hunspell-fi](https://github.com/fginter/hunspell-fi) - Best-effort good coverage Finnish hunspell dictionary auto-gathered
+- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -1513,7 +1514,6 @@ A collection of awesome things.
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Create and keep multiple backup versions of your running Raspberries
-- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
 - [get-gah/gah](https://github.com/get-gah/gah) - gah is an GitHub Releases app installer, that does not require sudo
 - [getantidote/antidote](https://github.com/getantidote/antidote) - A stable fork - go here for the main project: https://github.com/mattmc3/antidote
@@ -1708,7 +1708,6 @@ A collection of awesome things.
 - [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) - A Browser Extension for faster reading on ANY website!
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [bendews/apw](https://github.com/bendews/apw) - A CLI for Apple Passwords (also known as iCloud Keychain)
 - [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way.
@@ -1746,6 +1745,7 @@ A collection of awesome things.
 - [dorny/test-reporter](https://github.com/dorny/test-reporter) - Displays test results from popular testing frameworks directly in GitHub
 - [duetds/date-picker](https://github.com/duetds/date-picker) - Duet Date Picker is an open source version of Duet Design System’s accessible date picker. Try live example at https://duetds.github.io/date-picker/
 - [dunklesToast/DockerKit](https://github.com/dunklesToast/DockerKit) - Control your Docker Containers with HomeKit
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [easepick/easepick](https://github.com/easepick/easepick) - Date range picker. Uses Shadow DOM, lightweight size, no dependencies.
 - [ebullient/obsidian-admonition](https://github.com/ebullient/obsidian-admonition) - Adds admonition block-styled content to Obsidian.md 
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Manage tasks and logs within an Obsidian note. 
@@ -1763,7 +1763,7 @@ A collection of awesome things.
 - [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.
 - [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally
 - [githubnext/testpilot](https://github.com/githubnext/testpilot) - Test generation using large language models
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
