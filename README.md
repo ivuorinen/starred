@@ -1531,7 +1531,7 @@ A collection of awesome things.
 - [holman/spark](https://github.com/holman/spark) -  ▁▂▃▅▂▇ in your shell.
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
-- [jgusta/paths](https://github.com/jgusta/paths) - Program file locator plugin for Fish
+- [jgusta/paths](https://github.com/jgusta/paths) - Program file locator plugin for Fish, the Friendly Interactive Shell
 - [jirutka/esh](https://github.com/jirutka/esh) - Simple templating engine based on shell.
 - [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
