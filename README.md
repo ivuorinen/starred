@@ -489,7 +489,7 @@ A collection of awesome things.
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [loopbackio/loopback.io](https://github.com/loopbackio/loopback.io) - LoopBack project site - now with documentation!
 - [maciej-gurban/responsive-bootstrap-toolkit](https://github.com/maciej-gurban/responsive-bootstrap-toolkit) - Responsive Bootstrap Toolkit allows for easy breakpoint detection in JavaScript
-- [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
+- [maizzle/maizzle](https://github.com/maizzle/maizzle) - The modern email development framework.
 - [marcologous/Open-Sauce-Fonts](https://github.com/marcologous/Open-Sauce-Fonts) - Open Sauce Fonts is a font super family that I developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce fonts (Sans, One and Two) are under the SIL Open Font License and is going to be actively developed, improved and tested.
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from. 
@@ -669,7 +669,7 @@ A collection of awesome things.
 - [lukejacksonn/GreedyNav](https://github.com/lukejacksonn/GreedyNav) - A responsive navigation menu that stacks items into a dropdown menu when they overflow
 - [lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos) - An obsidian plugin that rolls over todo items from the previous daily note
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
-- [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
+- [maizzle/framework](https://github.com/maizzle/framework) - The modern email development framework.
 - [malsup/corner](https://github.com/malsup/corner) - jQuery Corner Plugin (by Dave Methvin and Mike Alsup)
 - [mark-rolich/Magnifier.js](https://github.com/mark-rolich/Magnifier.js) - Javascript library enabling magnifying glass effect on an images
 - [markgoodyear/scrollup](https://github.com/markgoodyear/scrollup) - 
@@ -1719,7 +1719,6 @@ A collection of awesome things.
 - [cakechaser/obsidian-release-timeline](https://github.com/cakechaser/obsidian-release-timeline) - 
 - [carlrannaberg/claudekit](https://github.com/carlrannaberg/claudekit) - A toolkit of custom commands, hooks, and utilities for Claude Code
 - [chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit) - MetaEdit for Obsidian
-- [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
