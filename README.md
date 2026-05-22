@@ -513,7 +513,7 @@ A collection of awesome things.
 
 - [AlexGirardDev/HarpoonIJ](https://github.com/AlexGirardDev/HarpoonIJ) - Port of the NeoVim Extension Harpoon for Intellij IDEs
 - [CloudNetService/CloudNet](https://github.com/CloudNetService/CloudNet) - A modern application that can dynamically and easily deliver Minecraft oriented software
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - SonarQube MCP Server
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - Official SonarQube MCP Server for code quality and security in AI agents
 - [gnembon/fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [sakura-ryoko/litematica](https://github.com/sakura-ryoko/litematica) - A modern client-side schematic mod for Minecraft
