@@ -482,6 +482,7 @@ A collection of awesome things.
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 - [foundation/foundation-libsass-template](https://github.com/foundation/foundation-libsass-template) - 
 - [gocanto/lazy-vue](https://github.com/gocanto/lazy-vue) - A small lazy image loader for Vue
+- [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
@@ -631,7 +632,6 @@ A collection of awesome things.
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
-- [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) -  :books: Find your next book to read!
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
@@ -1390,6 +1390,7 @@ A collection of awesome things.
 
 ## Rust
 
+- [Auto-Explore/GitComet](https://github.com/Auto-Explore/GitComet) - GitComet is fastest open source user interface for GIT workflows
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
