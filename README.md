@@ -675,7 +675,6 @@ A collection of awesome things.
 - [lukejacksonn/GreedyNav](https://github.com/lukejacksonn/GreedyNav) - A responsive navigation menu that stacks items into a dropdown menu when they overflow
 - [lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos) - An obsidian plugin that rolls over todo items from the previous daily note
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
-- [maizzle/framework](https://github.com/maizzle/framework) - The modern email development framework.
 - [malsup/corner](https://github.com/malsup/corner) - jQuery Corner Plugin (by Dave Methvin and Mike Alsup)
 - [mark-rolich/Magnifier.js](https://github.com/mark-rolich/Magnifier.js) - Javascript library enabling magnifying glass effect on an images
 - [markgoodyear/scrollup](https://github.com/markgoodyear/scrollup) - 
@@ -1821,6 +1820,7 @@ A collection of awesome things.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
+- [maizzle/framework](https://github.com/maizzle/framework) - The modern email development framework.
 - [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment.
 - [mathieudutour/github-tag-action](https://github.com/mathieudutour/github-tag-action) - A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version. Works on any platform.
 - [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
