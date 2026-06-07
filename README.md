@@ -854,7 +854,7 @@ A collection of awesome things.
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Bridge Neovim and OpenCode AI to stay in your flow.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
-- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 45+ independent Lua modules improving Neovim experience with minimal effort
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) - Integration for nvim-dap with telescope.nvim
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -1418,6 +1418,7 @@ A collection of awesome things.
 - [drewwyatt/git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches.
 - [eras/midihidi](https://github.com/eras/midihidi) - Convert MIDI input to linux evdev input with uinput and Jack
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, zero-config framework support.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool 
 - [gupax-io/gupax](https://github.com/gupax-io/gupax) - GUI Uniting P2Pool And XMRig
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -1643,7 +1644,7 @@ A collection of awesome things.
 - [macadmins/nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
 - [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) - chat with private and local large language models
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
-- [nicoverbruggen/phpmon](https://github.com/nicoverbruggen/phpmon) - Lightweight, native Mac menu bar app that helps you manage multiple PHP installations, locate config files and more. Also interacts with Laravel Valet.
+- [nicoverbruggen/phpmon](https://github.com/nicoverbruggen/phpmon) - Easily install and configure your development environment with PHP. Serve sites with Laravel Valet, switch PHP versions, manage extensions, and quickly resolve issues automatically.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 - [rsyncOSX/RsyncOSX_archived](https://github.com/rsyncOSX/RsyncOSX_archived) - A macOS GUI for rsync.
@@ -1731,7 +1732,7 @@ A collection of awesome things.
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster) - Dan's Homelab Kubernetes Cluster - Operated through Kustomize & ArgoCD
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [dartungar/obsidian-mermaid](https://github.com/dartungar/obsidian-mermaid) - Tools for improved Mermaid.js experience in Obsidian.md
 - [dartungar/obsidian-mood-tracker](https://github.com/dartungar/obsidian-mood-tracker) - mood tracking for obsidian.md
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
