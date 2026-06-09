@@ -235,6 +235,7 @@ A collection of awesome things.
 - [linuxserver/docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) - 
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
 - [tldr-devops/nginx-common-configuration](https://github.com/tldr-devops/nginx-common-configuration) - Nginx common useful configuration
 
@@ -506,7 +507,6 @@ A collection of awesome things.
 - [taitems/iOS-Overlay](https://github.com/taitems/iOS-Overlay) -  iOS Overlay/Notification Plugin for the Web!
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [uncss/grunt-uncss](https://github.com/uncss/grunt-uncss) - :scissors: A grunt task for removing unused CSS from your projects.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
 ## Janet
 
@@ -941,7 +941,7 @@ A collection of awesome things.
 - [Dev7studios/chip](https://github.com/Dev7studios/chip) - A drop-in subscription billing UI for Laravel
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) - [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
 - [ErickTamayo/laravel-scout-elastic](https://github.com/ErickTamayo/laravel-scout-elastic) - Elastic Driver for Laravel Scout
-- [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) - Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties
+- [Eyadkelleh/awesome-skills-security](https://github.com/Eyadkelleh/awesome-skills-security) - Security testing toolkit for AI Agent: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties
 - [FloeDesignTechnologies/phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator) - An administrative interface package for Laravel
@@ -1001,8 +1001,6 @@ A collection of awesome things.
 - [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable) - Easy creation of slugs for your Eloquent models in Laravel
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [ddeboer/imap](https://github.com/ddeboer/imap) - Object-oriented, fully tested PHP IMAP library
-- [deprecated-packages/composer-json-manipulator](https://github.com/deprecated-packages/composer-json-manipulator) - [READ-ONLY] Manipulate composer.json with Beautiful Object API
-- [deprecated-packages/git-wrapper](https://github.com/deprecated-packages/git-wrapper) - [READ-ONLY] PHP wrapper around the Git command line
 - [devgeniem/acf-codifier](https://github.com/devgeniem/acf-codifier) - A wrapper class to help write more readable ACF field declarations.
 - [devgeniem/linkedevents-client](https://github.com/devgeniem/linkedevents-client) - LinkedEvents Base Client
 - [devgeniem/tms-plugin-network-site-list](https://github.com/devgeniem/tms-plugin-network-site-list) - 
@@ -1302,7 +1300,6 @@ A collection of awesome things.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [murphypetercl/ansible-mdgen](https://github.com/murphypetercl/ansible-mdgen) - Python package to automate documentation generation for Ansible
@@ -1450,6 +1447,7 @@ A collection of awesome things.
 - [turing-machines/tpi](https://github.com/turing-machines/tpi) - CLI tool to control your Turing Pi 2 board
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [zedless-editor/old-school-zedless](https://github.com/zedless-editor/old-school-zedless) - (old variant) Zed fork focused on privacy and being local-first
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 
