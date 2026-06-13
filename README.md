@@ -972,6 +972,7 @@ A collection of awesome things.
 - [andrewgjohnson/imagettftextblur](https://github.com/andrewgjohnson/imagettftextblur) - imagettftextblur is a drop-in replacement for imagettftext with added parameters to add blur, glow and shadow effects to your PHP GD images
 - [antonioribeiro/countries](https://github.com/antonioribeiro/countries) - Laravel countries and currencies
 - [antonioribeiro/tracker](https://github.com/antonioribeiro/tracker) - Laravel Stats Tracker
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [atymic/twitter](https://github.com/atymic/twitter) - Twitter API for Laravel 5.5+, 6.x, 7.x & 8.x
@@ -1712,7 +1713,6 @@ A collection of awesome things.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) - A Browser Extension for faster reading on ANY website!
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [bendews/apw](https://github.com/bendews/apw) - A CLI for Apple Passwords (also known as iCloud Keychain)
 - [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way.
