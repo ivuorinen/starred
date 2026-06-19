@@ -610,7 +610,7 @@ A collection of awesome things.
 - [devgeniem/geniem-rules-stylelint](https://github.com/devgeniem/geniem-rules-stylelint) - Geniem Oy stylelint rules
 - [devgeniem/wp-pa11y](https://github.com/devgeniem/wp-pa11y) - wp-pa11y helps test sites by going through sitemaps and reports a11y problems
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an extreme dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
@@ -1410,7 +1410,6 @@ A collection of awesome things.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [cormacrelf/dark-notify](https://github.com/cormacrelf/dark-notify) - Watcher for macOS 10.14+ light/dark mode changes
-- [dmmulroy/.dotfiles](https://github.com/dmmulroy/.dotfiles) - 
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [drewwyatt/git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches.
@@ -1747,6 +1746,7 @@ A collection of awesome things.
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
+- [dmmulroy/.dotfiles](https://github.com/dmmulroy/.dotfiles) - 
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits
 - [dorny/test-reporter](https://github.com/dorny/test-reporter) - Displays test results from popular testing frameworks directly in GitHub
