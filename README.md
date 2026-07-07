@@ -1784,6 +1784,7 @@ A collection of awesome things.
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [humanjesse/textarttools-mcp](https://github.com/humanjesse/textarttools-mcp) - 
+- [intellectronica/mdbasequery](https://github.com/intellectronica/mdbasequery) - CLI and library for querying Markdown-Frontmatter bases (Obsidian-compatible).
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [iotsound/iotsound](https://github.com/iotsound/iotsound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
