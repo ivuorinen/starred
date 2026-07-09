@@ -372,6 +372,7 @@ A collection of awesome things.
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [kinvolk/lokomotive](https://github.com/kinvolk/lokomotive) - 🪦 DISCONTINUED Further Lokomotive development has been discontinued. Lokomotive is a 100% open-source, easy to use and secure Kubernetes distribution from the volks at Kinvolk
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [kubernetes-sigs/node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
@@ -1651,6 +1652,7 @@ A collection of awesome things.
 - [rsyncOSX/RsyncOSX_archived](https://github.com/rsyncOSX/RsyncOSX_archived) - A macOS GUI for rsync.
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!
+- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple's platform
 
 ## Tree-sitter Query
 
