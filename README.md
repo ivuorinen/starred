@@ -628,9 +628,9 @@ A collection of awesome things.
 - [filamentgroup/responsive-carousel](https://github.com/filamentgroup/responsive-carousel) - A jQuery-based script for responsive carousels that work with mouse, touch, and keyboard
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [github-community-projects/safe-settings](https://github.com/github-community-projects/safe-settings) - 
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.
 - [github/audit-actions-workflow-runs](https://github.com/github/audit-actions-workflow-runs) - Audit your GitHub Actions workflow runs to see exactly which Actions were downloaded
-- [github/safe-settings](https://github.com/github/safe-settings) - 
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
