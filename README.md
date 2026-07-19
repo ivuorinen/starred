@@ -1363,6 +1363,7 @@ A collection of awesome things.
 
 ## QML
 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [korapp/plasma-homeassistant](https://github.com/korapp/plasma-homeassistant) - Add Home Assistant to your plasma desktop
 - [qewer33/ClearClock](https://github.com/qewer33/ClearClock) - A simple and clean date/time plasmoid for your KDE desktop
 
@@ -1499,7 +1500,6 @@ A collection of awesome things.
 - [asdf-community/asdf-plugin-manager](https://github.com/asdf-community/asdf-plugin-manager) - A plugin manager for the asdf version manager [maintainer=@aabouzaid]
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [bats-core/bats-support](https://github.com/bats-core/bats-support) - Supporting library for Bats test helpers
 - [bderenzo/tinymotd](https://github.com/bderenzo/tinymotd) - Tiny dynamic motd generator (system, disks, network, ...)
