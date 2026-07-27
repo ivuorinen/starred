@@ -690,7 +690,6 @@ A collection of awesome things.
 - [neostandard/neostandard](https://github.com/neostandard/neostandard) - A spiritual successor to the standardjs javascript style guide
 - [njleonzhang/vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - A simple, customizable and pageable table with SSR support, based on vue2 and element-ui
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
-- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [oguzc/playwright-wizard-mcp](https://github.com/oguzc/playwright-wizard-mcp) - MCP server providing Playwright test generation wizard with intelligent prompts and best practices
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
@@ -986,7 +985,6 @@ A collection of awesome things.
 - [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views.
 - [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 - [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring.
-- [boscho87/changelog-checker](https://github.com/boscho87/changelog-checker) - PHPLibrary to check if Changelog has a Proper format.
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
 - [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
 - [breart/atlassian-connect-core](https://github.com/breart/atlassian-connect-core) - [Laravel 5.5+] The easiest way to create an add-on for the JIRA and Confluence
@@ -1652,6 +1650,7 @@ A collection of awesome things.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [nicoverbruggen/phpmon](https://github.com/nicoverbruggen/phpmon) - Easily install and configure your development environment with PHP. Serve sites with Laravel Valet, switch PHP versions, manage extensions, and quickly resolve issues automatically.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 - [rsyncOSX/RsyncOSX_archived](https://github.com/rsyncOSX/RsyncOSX_archived) - A macOS GUI for rsync.
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
