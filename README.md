@@ -898,7 +898,7 @@ A collection of awesome things.
 ## Makefile
 
 - [datasets/geo-countries](https://github.com/datasets/geo-countries) - Country polygons as GeoJSON in a datapackage
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 
 ## Markdown
 
@@ -1291,6 +1291,7 @@ A collection of awesome things.
 - [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock) - Roborock integration for Home Assistant. This integration uses your devices from the Roborock App
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [ivaltryek/configuration-readme](https://github.com/ivaltryek/configuration-readme) - Configurations relevant to DevOps 
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
 - [jparise/stale](https://github.com/jparise/stale) - Stale identifies (and optionally deletes) stale Delicious and Pinboard links.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
