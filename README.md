@@ -356,6 +356,7 @@ A collection of awesome things.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
+- [heathcliff26/minecraft-exporter](https://github.com/heathcliff26/minecraft-exporter) - A prometheus exporter for minecraft server
 - [hectcastro/gh-metrics](https://github.com/hectcastro/gh-metrics) - A GitHub CLI extension that provides summary pull request metrics.
 - [hmarr/codeowners](https://github.com/hmarr/codeowners) - 🔒 Command line tool and Go library for CODEOWNERS files
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
@@ -1359,7 +1360,7 @@ A collection of awesome things.
 - [ttu/ruuvitag-sensor](https://github.com/ttu/ruuvitag-sensor) - Python package for communicating with RuuviTag BLE Sensor and for decoding sensor data from broadcasted data
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [voska/hass-mcp](https://github.com/voska/hass-mcp) - Control and query Home Assistant from Claude and other LLMs — a Model Context Protocol (MCP) server.
 - [warrior25/HA-Nysse](https://github.com/warrior25/HA-Nysse) - Home Assistant integration to fetch public transport data for Tampere, Finland
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
