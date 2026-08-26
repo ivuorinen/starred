@@ -320,7 +320,6 @@ A collection of awesome things.
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates. 
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
-- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker
@@ -399,6 +398,7 @@ A collection of awesome things.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [nghialv/promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in realtime from Prometheus data
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.
 - [pcasteran/terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
@@ -636,6 +636,7 @@ A collection of awesome things.
 - [github-community-projects/safe-settings](https://github.com/github-community-projects/safe-settings) - 
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.
 - [github/audit-actions-workflow-runs](https://github.com/github/audit-actions-workflow-runs) - Audit your GitHub Actions workflow runs to see exactly which Actions were downloaded
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
@@ -1244,6 +1245,7 @@ A collection of awesome things.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [ashhart/Cortheon](https://github.com/ashhart/Cortheon) - A lightweight runtime that helps a small local model reason, discover, and complete work like a frontier model.
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) - 
@@ -1283,7 +1285,6 @@ A collection of awesome things.
 - [gildasio/h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
@@ -2007,7 +2008,7 @@ A collection of awesome things.
 
 - [1Password/connect](https://github.com/1Password/connect) - Access your 1Password secrets using a 1Password Connect Server
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
-- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - 🕹 A collection of tips to help take your CSS skills pro 🌅
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro. 🕹 
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [Dilaz/security-review-skill](https://github.com/Dilaz/security-review-skill) - Claude Code skill for systematic security reviews with exploit-driven vulnerability assessment
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
