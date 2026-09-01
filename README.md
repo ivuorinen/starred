@@ -1301,7 +1301,7 @@ A collection of awesome things.
 - [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock) - Roborock integration for Home Assistant. This integration uses your devices from the Roborock App
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [ivaltryek/configuration-readme](https://github.com/ivaltryek/configuration-readme) - Configurations relevant to DevOps 
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging.
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
 - [jparise/stale](https://github.com/jparise/stale) - Stale identifies (and optionally deletes) stale Delicious and Pinboard links.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
@@ -1648,7 +1648,6 @@ A collection of awesome things.
 ## Svelte
 
 - [discohaus/discopanel](https://github.com/discohaus/discopanel) - A lightweight modded minecraft server hosting suite and management web app.
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 
 ## Swift
 
@@ -1687,7 +1686,7 @@ A collection of awesome things.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. 
-- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
+- [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [CoolerMasterTechnology/Pi-Tool](https://github.com/CoolerMasterTechnology/Pi-Tool) - Overclocking and button-remapping utility for the Raspberry Pi 4, designed for Pi Case 40
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
@@ -1894,6 +1893,7 @@ A collection of awesome things.
 - [projectwallace/wallace-cli](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics on the CLI
 - [pshevche/act-test-runner](https://github.com/pshevche/act-test-runner) - Convenient wrapper around https://github.com/nektos/act for implementing e2e tests for GitHub actions
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
