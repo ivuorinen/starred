@@ -649,6 +649,7 @@ A collection of awesome things.
 - [humanmade/hm-gutenberg-tools](https://github.com/humanmade/hm-gutenberg-tools) - Useful helpers, components or tools for building things with Gutenberg
 - [hylyh/node-mastodon](https://github.com/hylyh/node-mastodon) - Mastodon API Client for node
 - [hyperform/hyperform](https://github.com/hyperform/hyperform) - Capture form validation back from the browser
+- [hyperspaceai/agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - meta package for my linting configurations
@@ -742,7 +743,6 @@ A collection of awesome things.
 - [supercharge/promise-pool](https://github.com/supercharge/promise-pool) - Map-like, concurrent promise processing
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
-- [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 - [therootcompany/file-cookie-store](https://github.com/therootcompany/file-cookie-store) - Store cookies in Netscape file format for tough-cookie library
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
@@ -1906,6 +1906,7 @@ A collection of awesome things.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
+- [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager 
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
@@ -2075,7 +2076,6 @@ A collection of awesome things.
 - [haruncpi/db-seeder](https://github.com/haruncpi/db-seeder) - A database seeder app for MySQL
 - [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-- [hyperspaceai/agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
