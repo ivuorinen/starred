@@ -1137,7 +1137,7 @@ A collection of awesome things.
 - [squareboat/sneaker](https://github.com/squareboat/sneaker) - An easy way to send emails whenever an exception occurs on server.
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - cs2pr - Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action
-- [statusengine/interface](https://github.com/statusengine/interface) - AngularJS based Web Interface for Statusengine
+- [statusengine/interface](https://github.com/statusengine/interface) - Angular based Web Interface for Statusengine
 - [staudenmeir/eloquent-json-relations](https://github.com/staudenmeir/eloquent-json-relations) - Laravel Eloquent relationships with JSON keys
 - [stephenjude/extended-artisan-commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
 - [superhelio/commands](https://github.com/superhelio/commands) - This is a collection of Laravel Artisan commands created to help everyone in their development work.
