@@ -2065,7 +2065,7 @@ A collection of awesome things.
 - [domschl/WinSteamOnMac](https://github.com/domschl/WinSteamOnMac) - Run the Windows version of Steam on macOS Sonoma or Sequoia with Apple's Game Porting Toolkit
 - [drwpow/awesome-oss-fonts](https://github.com/drwpow/awesome-oss-fonts) - A collection of quality open-source fonts (mostly not on Google Fonts)
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources and tools
 - [fregante/ghatemplates](https://github.com/fregante/ghatemplates) - GitHub Actions workflow templates for `$ ghat`
 - [fusioninventory/FusionInventory](https://github.com/fusioninventory/FusionInventory) - Open and follow issues about the project (agent, plugin for GSIT, website and documentation) 
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
