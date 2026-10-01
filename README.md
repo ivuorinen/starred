@@ -1379,7 +1379,7 @@ A collection of awesome things.
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
 - [bachya/pinpress](https://github.com/bachya/pinpress) - A simple CLI to create text templates of Pinboard data.
-- [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - A Jekyll plugin to render a project's README as the site's index.
+- [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - Jekyll plugin that uses README.md as your site's index page, no index.md needed. Supported on GitHub Pages
 - [d-ogarkov/jekyll-extlinks](https://github.com/d-ogarkov/jekyll-extlinks) - This Jekyll plugin adds custom attributes (rel="nofollow", target="_blank", etc.) to external links in your content.
 - [hahwul/jekyll-securitytxt](https://github.com/hahwul/jekyll-securitytxt) - Jekyll plugin for security.txt
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -1648,6 +1648,7 @@ A collection of awesome things.
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click. 
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [flipperdevices/Flipper-iOS-App](https://github.com/flipperdevices/Flipper-iOS-App) - iOS Mobile App to rule all Flipper's family
+- [fparrav/LiveWalls](https://github.com/fparrav/LiveWalls) - 
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [insidegui/PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
 - [jcm93/jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer
