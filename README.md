@@ -881,6 +881,7 @@ A collection of awesome things.
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
 - [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
+- [romus204/referencer.nvim](https://github.com/romus204/referencer.nvim) - Lightweight, asynchronous Neovim plugin that uses the LSP to show references to functions, methods, types and other
 - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - luasnip completion source for nvim-cmp
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim 
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
@@ -1047,6 +1048,7 @@ A collection of awesome things.
 - [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
 - [kirkbushell/eloquence](https://github.com/kirkbushell/eloquence) - A drop-in library for certain database functionality in Laravel, that allows for extra features that may never make it into the main project.
 - [kitetail/zttp](https://github.com/kitetail/zttp) - A developer-experience focused HTTP client, optimized for most common use cases.
+- [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe) - Generate API documentation for humans from your Laravel codebase.✍
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [kornrunner/php-blurhash](https://github.com/kornrunner/php-blurhash) - Pure PHP implementation of Blurhash (https://github.com/woltapp/blurhash)
 - [kurtaschliman/Foundation-Wordpress-Nav-Walker](https://github.com/kurtaschliman/Foundation-Wordpress-Nav-Walker) - A WordPress Nav Walker for Foundation 5
@@ -1478,6 +1480,7 @@ A collection of awesome things.
 
 - [Bad3r/progress-and-loading-bash](https://github.com/Bad3r/progress-and-loading-bash) - display progress bars and loading animations using Bash
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.github.io/Gogh/)
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [IonBazan/composer-diff-action](https://github.com/IonBazan/composer-diff-action) - Compare composer.lock files and generate human-readable list of package changes
 - [Magic-wei/obsidian_wiki_template](https://github.com/Magic-wei/obsidian_wiki_template) - A personal wiki or note-taking system template based on Obsidian.
@@ -1575,6 +1578,7 @@ A collection of awesome things.
 - [nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish) - 🐡 Text Expansions for Fish
 - [nikitastupin/pwnhub](https://github.com/nikitastupin/pwnhub) - How GitHub Actions workflows can be hacked
 - [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
+- [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [ntnn/docker-imapfilter](https://github.com/ntnn/docker-imapfilter) - Docker image to run imapfilter as a daemon with configs from git
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -2064,6 +2068,7 @@ A collection of awesome things.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [dkarter/tpi-cluster-ansible-playbook](https://github.com/dkarter/tpi-cluster-ansible-playbook) - ⚓️ Turing Pi 2 Cluster Management Playbooks
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+- [dmitryryabkov/local-ai-mac](https://github.com/dmitryryabkov/local-ai-mac) - Practical guide to running  LLMs locally on Apple Silicon, with a focus on architecture, memory scaling, and agent workflows.
 - [domschl/WinSteamOnMac](https://github.com/domschl/WinSteamOnMac) - Run the Windows version of Steam on macOS Sonoma or Sequoia with Apple's Game Porting Toolkit
 - [drwpow/awesome-oss-fonts](https://github.com/drwpow/awesome-oss-fonts) - A collection of quality open-source fonts (mostly not on Google Fonts)
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
