@@ -120,6 +120,7 @@ A collection of awesome things.
 - [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
 - [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. 
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
+- [RyanLamansky/dotnet-webassembly](https://github.com/RyanLamansky/dotnet-webassembly) - Create, read, modify, write and execute WebAssembly (WASM) files from .NET-based applications.
 - [TNG/ArchUnitNET](https://github.com/TNG/ArchUnitNET) - A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 - [TumblThreeApp/TumblThree](https://github.com/TumblThreeApp/TumblThree) - A Tumblr and Twitter Blog Backup Application
 - [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
@@ -540,6 +541,7 @@ A collection of awesome things.
 - [David-Desmaisons/Vue.Isotope](https://github.com/David-Desmaisons/Vue.Isotope) - :iphone: Vue component for isotope filter & sort magical layouts
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [Dens49/blurhash-js](https://github.com/Dens49/blurhash-js) - A blurhash port for pure javascript (ES6)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Enriquito/youtube-dl-front](https://github.com/Enriquito/youtube-dl-front) - A youtube-dl interface  
 - [Esri/esri-leaflet](https://github.com/Esri/esri-leaflet) - A lightweight set of tools for working with ArcGIS services in Leaflet. :rocket:
 - [FamousWolf/week-planner-card](https://github.com/FamousWolf/week-planner-card) - Custom Home Assistant card displaying a responsive overview or multiple days with events from one of multiple calendars
@@ -1199,6 +1201,7 @@ A collection of awesome things.
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [Cisco-Talos/cvdupdate](https://github.com/Cisco-Talos/cvdupdate) - ClamAV Private Database Mirror Updater Tool
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [CyFI-Lab-Public/YODA](https://github.com/CyFI-Lab-Public/YODA) - 
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
 - [DanielBatteryStapler/daniel-authenticator](https://github.com/DanielBatteryStapler/daniel-authenticator) - LDAP server for home-server authencatication
@@ -1289,6 +1292,7 @@ A collection of awesome things.
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
 - [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS) - A complete guide to 3DS custom firmware, from stock to boot9strap.
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock) - Roborock integration for Home Assistant. This integration uses your devices from the Roborock App
@@ -1684,7 +1688,7 @@ A collection of awesome things.
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [Azure/Azurite](https://github.com/Azure/Azurite) - A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
-- [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups!
+- [BraveOPotato/NoSignups](https://github.com/BraveOPotato/NoSignups) - A list of tools that are open-source, in-browser, and require no-signups!
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. 
