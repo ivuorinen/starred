@@ -1439,7 +1439,7 @@ A collection of awesome things.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool 
-- [fwdai/rowel](https://github.com/fwdai/rowel) - 🔑   Free Offline-first Password Manager 
+- [fwdai/rowel](https://github.com/fwdai/rowel) - 🔑   Local-first Secrets Manager 
 - [gupax-io/gupax](https://github.com/gupax-io/gupax) - GUI Uniting P2Pool And XMRig
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
