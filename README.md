@@ -440,7 +440,7 @@ A collection of awesome things.
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
 - [stoe/gh-report](https://github.com/stoe/gh-report) - gh cli extension to generate account/organization/enterprise reports
 - [storj/dbx](https://github.com/storj/dbx) - A neat codegen-based database wrapper written in Go 
-- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (CNCF Sandbox project) is a power meter interface for Kubernetes: it lets you monitor the energy use of workloads. Let's make every watt matter. ⚡
+- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler lets you monitor the energy use of Kubernetes workloads. Kepler is a CNCF Sandbox project. Let's make every watt matter. ⚡
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
