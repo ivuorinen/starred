@@ -358,7 +358,6 @@ A collection of awesome things.
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [google/oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [heathcliff26/minecraft-exporter](https://github.com/heathcliff26/minecraft-exporter) - A prometheus exporter for minecraft server
@@ -366,6 +365,7 @@ A collection of awesome things.
 - [hmarr/codeowners](https://github.com/hmarr/codeowners) - 🔒 Command line tool and Go library for CODEOWNERS files
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [ivuorinen/a](https://github.com/ivuorinen/a) - A small CLI that encrypts and decrypts files with your SSH keys using the age format
+- [ivuorinen/davdrive](https://github.com/ivuorinen/davdrive) - `davdrive` serves the share as NFSv4 on 127.0.0.1 and mounts that with the operating system's own NFS client.
 - [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository's branch, dirty state, and how far it is ahead of or behind its upstream.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -1832,6 +1832,7 @@ A collection of awesome things.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. 
 - [h3poteto/megalodon](https://github.com/h3poteto/megalodon) - Fediverse API client library for node.js and browser
